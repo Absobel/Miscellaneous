@@ -1,0 +1,4 @@
+une des [[Dieux]], des facéties et des pranks, patronne des peuples des [[Eladrin]] et des [[Fées]], ayant décidé de rester sur [[Féerie]] au lieu de les abandonner pour retourner sur [[Plan de Nera|son plan]] durant le [[Crépuscule des Dieux]].
+De ses derniers pouvoirs elle a donnée "l'immortalité" (leurs âmes au lieu de partir dans la [[Fabrique]] restent et deviennent une sorte d'esprit de la forêt ou whatever) à ses peuples (also ils vivent genre des milliers d'années) et autre chose i forgot
+
+Ensuite elle est parti s'aventurer et vivre sa vie, revenant de temps en temps pour raconter des histoires.

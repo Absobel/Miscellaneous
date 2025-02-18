@@ -1,0 +1,5 @@
+Jeune [[Fées]] vivant dans [[La Capitale (nom temporaire)]], fille d'une famille de bourgeois très à fond dans la tradition de [[Nera]] et dans les facéties etc, et très vocaux dans leur combat contre le sérieux des autres.
+
+Elle, en ayant marre des conflits, s'est souvent retrouvée à s'amuser ailleurs, sans vouloir s'impliquer dans ces trucs d'adultes là. Elle s'est retrouvée très pote avec [[Arryn Skemfar]].
+
+Elle est également très à fond dans les légendes de la [[Féerie]] et de [[Nera]], et veut vraiment en savoir plus, voire même trouver un moyen de rentrer. Du coup elle a souven voulu explorer et peut-être, idée caché dans les recoins de son cerveau, aller à l'extérieur de [[La Grande Forêt]] ? Elle est allée au plus loin au bord de la forêt avant de revenir, sans oser aller plus loin. Jusqu'à ce qu'elle entende parler de [[Mission Principale|cette demande]] du [[nouveau Roi]] ce qu'elle s'empressa de suivre pour aller explorer l'extérieur
