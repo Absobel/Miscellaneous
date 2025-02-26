@@ -1,0 +1,1 @@
+Peuple comprenant les [[Fées]] et [[Eladrin]] qui se sont fait [[Event Tp Elfe|tp]] de la [[Féerie]]. Leur timespan se sont faites vachement réduire (700 pour les [[Eladrin]], 300 pour les [[Fées]]) et ils ont perdu leur "immortalité" de leur perte de contact avec [[Nera]].

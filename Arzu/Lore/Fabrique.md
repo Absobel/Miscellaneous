@@ -1,4 +1,4 @@
-Plan en 2d.
+Plan en 2d principal d'[[Arzu]]
 Contient :
 - Les domaines des Dieux
 - Trois plans matériels (points de la fabrique avec trois dimensions d'espace)
