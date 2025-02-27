@@ -66,3 +66,4 @@ On arrive dans la pièce suivante, elle est sombre et aussi grande que la premi�
 
 Troisième combat (omg stop) (les flèches contre l'armure semblent la traverser, et les sorts lui font rien)
 
+l'armure a disparue à la fin
