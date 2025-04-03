@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Fabrique.md",
+                "file": "Sessions/Session 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fabrique"
+              "title": "Session 6"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 5.md",
+                "file": "Sessions/Session 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 5"
+              "title": "Session 6"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,10 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b8bda1f3d7dcacc",
+  "active": "d03f4112523d8de1",
   "lastOpenFiles": [
-    "Lore/La Grande Forêt.md",
+    "Lore/Fabrique.md",
+    "Sessions/Session 6.md",
     "Sessions/Session 5.md",
+    "Lore/La Grande Forêt.md",
     "Sessions/Session 4.md",
     "Sessions/Session 1.md",
     "Sessions/Untitled",
@@ -194,7 +195,6 @@
     "Sessions/Session 2.md",
     "Lore/Faelior.md",
     "Lore/Féerie.md",
-    "Lore/Fabrique.md",
     "Lore/Elfes.md",
     "Lore/Arzu.md",
     "Lore/Characters/Nera.md",
