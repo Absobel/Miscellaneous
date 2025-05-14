@@ -1,0 +1,1 @@
+Entreprise située au [[8e étage]]. Globalement une entreprise de consulting sur la finance. Ils sont pas hyper gros, leur principal client est la [[Maire du 10e]] et la [[Mairie du 8e]]
