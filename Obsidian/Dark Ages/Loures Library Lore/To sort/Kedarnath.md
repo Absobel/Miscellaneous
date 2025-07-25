@@ -1,0 +1,2 @@
+According to [[Huhuman, "The Children of Grinneal"]]
+- Highest peak in [[Kadath]] and where is the altar to [[Ascension|ascend]] to godhood. The trail to there is rumored to have been built by the first [[Earth-Sea Gods]] that ascended.

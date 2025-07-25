@@ -1,0 +1,1 @@
+There are posters that tells to make daily check to see if foreign matter got on you.

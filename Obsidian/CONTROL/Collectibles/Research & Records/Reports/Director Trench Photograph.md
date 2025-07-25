@@ -1,0 +1,1 @@
+"So much expected from the [[Director]]. The responsibility. The privilege." - [[Zachariah Trench]]

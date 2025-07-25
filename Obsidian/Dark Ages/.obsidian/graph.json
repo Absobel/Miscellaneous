@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "-file:TODO ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"In Game Lore/Quests\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"In Game Lore/Gods/Temuair\"  -file:Temuair",
+      "color": {
+        "a": 1,
+        "rgb": 16768046
+      }
+    },
+    {
+      "query": "path:\"In Game Lore/Mundanes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16764145
+      }
+    },
+    {
+      "query": "path:\"In Game Lore/Lore\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 64511
+      }
+    },
+    {
+      "query": "path:\"Loures Library Lore/Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 60348
+      }
+    },
+    {
+      "query": "path:\"Loures Library Lore\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3868159
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.31642871150488616,
+  "close": true
+}

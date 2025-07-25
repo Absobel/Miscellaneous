@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "35ce722944c052bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1ba89bdeeece909",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cea4e89e083f691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CONTROL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONTROL"
+            }
+          },
+          {
+            "id": "4bbea4ab1f2c015f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO SORT/Director.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Director"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1907c780ba4f6249",
+    "type": "split",
+    "children": [
+      {
+        "id": "08a38bb9bb121b61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee9d56eb61c0572",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ffedea8ed549f57a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cfd0f7aeb872e948",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2bb8b3b1739e5bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d61eb9462164e6dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "098acae9b274a3c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CONTROL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CONTROL"
+            }
+          },
+          {
+            "id": "512c62da5b238e23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CONTROL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CONTROL"
+            }
+          },
+          {
+            "id": "d4bb2f07f9464a0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "335fe8c0d765de51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CONTROL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CONTROL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "6cea4e89e083f691",
+  "lastOpenFiles": [
+    "TO SORT/Federal Bureau of Control.md",
+    "Collectibles/Correspondances/Official/Executive Meeting Minutes.md",
+    "TO SORT/Hiss Guard.md",
+    "TO SORT/Objects of Power/Oldest House.md",
+    "Collectibles/Correspondances/Official/Security Order.md",
+    "Collectibles/Correspondances/Official/Prohibited Items Reminder.md",
+    "Characters/Jesse.md",
+    "TO SORT/Objects of Power/Service Weapon.md",
+    "TO SORT/Director.md",
+    "Collectibles/Multimedia/Darling Presentations/Objects of Power.md",
+    "CONTROL.md",
+    "Collectibles/Correspondances/Official/Approved Terminology Reminder.md",
+    "Concepts/Object of Power.md",
+    "TO SORT/Mold.md",
+    "Collectibles/Correspondances/Non-Official/Dinner Reservation.md",
+    "TO SORT/Places/Chez Ambré.md",
+    "Collectibles/Multimedia/FBC Recordings/FBC Reminder  - Building Shifts.md",
+    "Collectibles/Multimedia/FBC Recordings",
+    "Collectibles/Multimedia/Darling Presentations",
+    "TO SORT/Objects of Power/Hotline.md",
+    "Characters/Jesse's Entity.md",
+    "TO SORT/Places/Executive Affairs.md",
+    "Characters/Zachariah Trench.md",
+    "Collectibles/Case Files/Objects of Power/Service Weapon (Collectible).md",
+    "TO SORT/Places/Director's Office.md",
+    "Collectibles/Case Files/Objects of Power",
+    "Collectibles/Case Files",
+    "Collectibles/Correspondances/Non-Official/Trench - Do Not Disturb.md",
+    "Collectibles/Research & Records/Reports/Director Trench Photograph.md",
+    "Collectibles/Research & Records/Reports",
+    "Collectibles/Research & Records/Hiss Research",
+    "Collectibles/Research & Records/Hiss Research/Hiss Guard (Collectible).md",
+    "Collectibles/Research & Records",
+    "TO SORT/Places",
+    "TO SORT/Objects of Power",
+    "TO SORT"
+  ]
+}
