@@ -1,0 +1,2 @@
+[[100.2b]] :
+- [[Format|way of playing]] in which each [[Player|player]] gets the same quantity of unopened [[Magic]] product such as [[Booster Pack|booster packs]] and creates their own [[Deck]] using only this product  and [[Basic Land|basic land]] [[Card|cards]]

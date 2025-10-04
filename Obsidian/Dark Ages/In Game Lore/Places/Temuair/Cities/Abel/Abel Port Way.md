@@ -1,0 +1,11 @@
+Connected to:
+- [[Shrine of Fiosachd|Shrine of Fiosachd - Abel]]
+- [[Abel|Abel Port]]
+- Map:
+	- [[Mileth Threshold]]
+	- [[Mileth College Threshold]]
+	- [[West Woodlands]]
+	- [[Woodlands Threshold]]
+	- [[Pravat Cave]]
+	- [[Kasmanium Mine]]
+	- [[Blackstar Village]]

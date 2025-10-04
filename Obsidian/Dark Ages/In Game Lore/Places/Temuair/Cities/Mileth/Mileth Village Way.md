@@ -1,0 +1,12 @@
+Connected to:
+- [[Shrine of Glioca|Shrine of Glioca - Mileth]]
+- [[Fair Threshold]]
+- [[Mileth|Mileth Village]]
+- Map:
+	- [[Abel Port Way]]
+	- [[Mileth College Threshold]]
+	- [[West Woodlands]]
+	- [[Woodlands Threshold]]
+	- [[Pravat Cave]]
+	- [[Kasmanium Mine]]
+	- [[Blackstar Village]]

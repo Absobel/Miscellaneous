@@ -11,13 +11,6 @@
 
 Historian to ask questions to : Ramanayan / Merisa
 
-quests :
-- sick child loure daily
-- porte forest with ppl
-
-questions:
-- who are the aislings statue inn Coliseum Arena (and Blackstar village and Deep Chaos wherever those are)
-
 Tell some priests about the lover's garden and blossom of betrayal and Glioca's statue
 
 Ideas things to say to write :

@@ -2,7 +2,7 @@ God of
 - Rapture (formerly)
 - Debauchery (formerly)
 - Light
-Shrine at [[Suomi]]
+[[Shrine of Deoch]]
 
 Ally of :
 - [[Sgrios]]

@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Incremental Graph Game Idea"
             }
+          },
+          {
+            "id": "e1065b294d3e37e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formal Logic Puzzle Game Idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formal Logic Puzzle Game Idea"
+            }
+          },
+          {
+            "id": "647ce5e9f08bd2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infinite Dimensions Game Idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Infinite Dimensions Game Idea"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,8 +198,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b483f3f28d396e52",
+  "active": "647ce5e9f08bd2df",
   "lastOpenFiles": [
+    "Formal Logic Puzzle Game Idea.md",
+    "Infinite Dimensions Game Idea.md",
     "Incremental Graph Game Idea.md"
   ]
 }

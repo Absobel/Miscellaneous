@@ -43,7 +43,7 @@ Notes:
 
 [[Skan]] - Rogues idk
 > That is a very unique item you have there. Where did you find it?
-> Ah, I've heard of the [[Emerald Knights]]. A Bard told me the tale of the [[Emerald Knights|Knights]] when I was in [[Suomi]].
+> Ah, I've heard of the [[Emerald Knights]]. A [[Mioas|Bard]] told me the tale of the [[Emerald Knights|Knights]] when I was in [[Suomi]].
 > I would very much like to have such a rare item. Would you sell it to me? I offer one million gold coins.
 
 Refused
@@ -76,7 +76,7 @@ Refuse
 > Should you choose to give the Insignia to me, I will gladly take it in the future. For now, I must report these findings to the order.
 
 Give
-> Finally! I shall be rewarded greatly for your efforts, Aisling. *he cackles maniacally*
+> Finally! I shall be rewarded greatly for your efforts, [[Aislings|Aisling]]. *he cackles maniacally*
 > Here you go. Don't spend it all in one place!
 
 

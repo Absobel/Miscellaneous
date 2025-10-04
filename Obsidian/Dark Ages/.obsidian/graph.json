@@ -8,7 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"In Game Lore/Quests\"  ",
+      "query": "path:\"In Game Lore/Quests/Repeatable Quests\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8782263
+      }
+    },
+    {
+      "query": "path:\"In Game Lore/Quests\"  -path:\"In Game Lore/Quests/Repeatable Quests\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -22,10 +29,17 @@
       }
     },
     {
-      "query": "path:\"In Game Lore/Mundanes\"  ",
+      "query": "path:\"In Game Lore/Mundanes/In game NPCs\"  ",
       "color": {
         "a": 1,
         "rgb": 16764145
+      }
+    },
+    {
+      "query": "path:\"In Game Lore/Places\"  -path:\"In Game Lore/Places/Not Accessible\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9240320
       }
     },
     {
@@ -60,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.31642871150488616,
+  "scale": 0.21356305924538904,
   "close": true
 }
