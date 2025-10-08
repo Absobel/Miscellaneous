@@ -11,60 +11,13 @@
             "id": "00fcfe12bac22b64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In Game Lore/Mundanes/In game NPCs/Coibhi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Coibhi"
-            }
-          },
-          {
-            "id": "28d73cdc98320a26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures Castle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Loures Castle"
-            }
-          },
-          {
-            "id": "ae6ee27af4569c5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In Game Lore/Places/Temuair/Cities/Mileth/Mileth Fair/Fair Entrance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fair Entrance"
-            }
-          },
-          {
-            "id": "5f7489eaa9ec71ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In Game Lore/Mundanes/In game NPCs/Dreamer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dreamer"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "In Game Lore/Mundanes/In game NPCs/Dreamer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dreamer"
+              "title": "Backlinks"
             }
           },
           {
@@ -212,45 +164,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5f7489eaa9ec71ae",
+  "active": "00fcfe12bac22b64",
   "lastOpenFiles": [
-    "In Game Lore/Mundanes/In game NPCs/Ertha.md",
-    "In Game Lore/Mundanes/In game NPCs/Dreamer.md",
-    "In Game Lore/Mundanes/In game NPCs/Dislaidir.md",
-    "In Game Lore/Mundanes/In game NPCs/Bruce.md",
-    "In Game Lore/Mundanes/In game NPCs/Blanchefleur.md",
-    "In Game Lore/Mundanes/In game NPCs/Coibhi.md",
-    "In Game Lore/Mundanes/In game NPCs/Ase.md",
-    "In Game Lore/Mundanes/In game NPCs/Anwar.md",
-    "In Game Lore/Mundanes/In game NPCs/Alvar.md",
-    "In Game Lore/Mundanes/In game NPCs/Wizard/Marlin.md",
-    "In Game Lore/Mundanes/In game NPCs/Wizard/Jean.md",
-    "In Game Lore/Mundanes/In game NPCs/Wizard/Blaise.md",
-    "In Game Lore/Mundanes/In game NPCs/Mukul/Ganesha.md",
-    "In Game Lore/Mundanes/In game NPCs/Mukul/Varuna.md",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/White Magic Master/Bertil.md",
-    "In Game Lore/Mundanes/In game NPCs/Dwarves/Throttler.md",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Temples/Vivianne.md",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Temples/Greim.md",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Temples/Erika.md",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Temples/Camille.md",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Temples/Aundy.md",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Special Skill Master/Fisk.md",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Shop/Weapon/Torbjorn.md",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Shop/Armor/Valdemar.md",
-    "In Game Lore/Mundanes/In game NPCs/Skan.md",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Restaurant Clerc/Gudny.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures Castle Library.md",
+    "In Game Lore/Texts/Grimoire of the Pentagram.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Guild Master's Room.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 3 Floor Corridor.md",
+    "In Game Lore/Characters/In game NPCs/Wizard/Blaise.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 3 Floor Magic Room.md",
+    "In Game Lore/Characters/In game NPCs/Wizard/Jean.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 3 Floor Office.md",
+    "In Game Lore/Characters/In game NPCs/Bruce.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Hall.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures Cyril Corridor.md",
+    "In Game Lore/Characters/In game NPCs/Paulin.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Corridor.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Weapon Store.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Bed Room.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Tavern.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Main Room.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Restaurant.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Empty Room 1.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 1 Floor Hall.md",
+    "In Game Lore/Characters/In game NPCs/Yves.md",
+    "Assets/Yves.png",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures Underground Jail.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 1 Floor Bed Room.md",
+    "In Game Lore/Characters/In game NPCs/Wizard/Marlin.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 1 Floor Weapon Store.md",
+    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 1 Floor Restaurant.md",
+    "Assets/Fair Battle.png",
+    "Assets/Fair Draco.png",
     "Assets/Ophelia.png",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Innkeeper/Innkeeper.png",
+    "In Game Lore/Characters/In game NPCs/Archetypes/Innkeeper/Innkeeper.png",
     "Assets/Fair Tavern.png",
     "Assets/Old Blond Guy Big Sprite.png",
     "Assets/Old Blond Guy Sprite.png",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Old Blond Guy",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Clerc/Clerc Big Sprite.png",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Clerc/Clerc sprite.png",
-    "Assets/Fair Office.png",
-    "Assets/Ertha.png",
-    "Assets/Lover's Garden Statue.png",
+    "In Game Lore/Characters/In game NPCs/Archetypes/Old Blond Guy",
+    "In Game Lore/Characters/In game NPCs/Archetypes/Clerc/Clerc Big Sprite.png",
+    "In Game Lore/Characters/In game NPCs/Archetypes/Clerc/Clerc sprite.png",
     "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle",
     "In Game Lore/Places/Temuair/Cities/Loures",
     "In Game Lore/Places/Temuair/Cities/Piet",
@@ -258,7 +210,7 @@
     "In Game Lore/Places/Temuair/Cities/Mileth/Mileth Fair",
     "In Game Lore/Places/Temuair/Cities/Mileth",
     "In Game Lore/Places/Temuair/Cities/Abel",
-    "In Game Lore/Mundanes/In game NPCs/Archetypes/Special Skill Master",
+    "In Game Lore/Characters/In game NPCs/Archetypes/Special Skill Master",
     "In Game Lore/Places/Temuair/Cities/Muisir"
   ]
 }

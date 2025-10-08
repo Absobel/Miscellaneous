@@ -1,6 +1,7 @@
 Connected to:
 - [[Lover's Maze Garden]]
 - [[Recovery Camp]]
+- [[Loures 1 Floor Hall]]
 - Map:
 	- [[Mileth College Threshold]]
 	- [[Pravat Cave]]

@@ -22,14 +22,14 @@
       }
     },
     {
-      "query": "path:\"In Game Lore/Gods/Temuair\"  -file:Temuair",
+      "query": "path:\"In Game Lore/Characters/Gods/Temuair\" -file:Temuair",
       "color": {
         "a": 1,
         "rgb": 16768046
       }
     },
     {
-      "query": "path:\"In Game Lore/Mundanes/In game NPCs\"  ",
+      "query": "path:\"In Game Lore/Characters\"  ",
       "color": {
         "a": 1,
         "rgb": 16764145
@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "path:\"In Game Lore/Lore\"  ",
+      "query": "path:\"In Game Lore/Texts\"  ",
       "color": {
         "a": 1,
         "rgb": 64511
@@ -74,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.21356304204103085,
+  "scale": 0.1634836859171597,
   "close": true
 }
