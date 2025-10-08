@@ -1,5 +1,7 @@
 ![[Blossom of Betrayal.png]]
 
+Can be found in [[Lover's Maze Garden]] and [[Lover's Garden]]
+
 From [[Temuairian Botany Book]]:
 > Legend has it that a man high in the Court of [[Loures]] held the heart of a maid of the [[Loures Castle|Castle]]. The maid was convinced this man shared the same feelings for her, for he showered her with gifts, flowers and poems charged with passion.
 > Deochs padded and this forbidden love blossomed. The maid was drunk on love. She began to grow weary though, of hiding their happiness.

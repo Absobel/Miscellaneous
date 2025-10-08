@@ -1,4 +1,5 @@
 [[Loures Castle]] : floor 3
+Is a [[Mundanes|Mundane]]
 Current [[Councilor of Loures]]
 
 On the Cycle of Becoming

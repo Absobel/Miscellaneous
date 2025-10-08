@@ -1,5 +1,6 @@
 [[Loures Castle]] : throne room floor 3
-He is the King of somewhere idk
+Is a [[Mundanes|Mundane]]
+He is the King of [[Ardmagh]]
 
 > Hello. What can i do for you.
 

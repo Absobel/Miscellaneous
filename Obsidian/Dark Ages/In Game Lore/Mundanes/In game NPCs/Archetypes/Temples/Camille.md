@@ -1,4 +1,5 @@
 [[Acolyte]] of [[Gramail]]'s Temple
+Is a [[Mundanes|Mundane]]
 
 ![[Camille.png]]
 

@@ -1,0 +1,12 @@
+Connected to:
+- [[Shrine of Ceannlaidir|Shrine of Ceannlaidir - Piet]]
+- [[Piet|Piet Village]]
+- Map:
+	- [[Mileth College Threshold]]
+	- [[Pravat Cave]]
+	- [[Mehadi Entrance]]
+	- [[Loures Castle]]
+	- [[Loures Castle Way]]
+	- [[Base Camp]]
+	- [[Loures Harbor]]
+	- [[Blackstar Village]]

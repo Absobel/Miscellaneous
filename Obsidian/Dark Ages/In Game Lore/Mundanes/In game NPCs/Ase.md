@@ -1,4 +1,5 @@
 [[Abel Beach]]
+Is a [[Mundanes|Mundane]]
 
 ![[Ase.png]]
 

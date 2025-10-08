@@ -1,5 +1,5 @@
 Found in [[Suomi White Magic Master]]
-Is a [[Mundanes|Mundane]]
+Is a [[Faerie|Fae]]
 
 Board before the entrance of her dwelling:
 ~={orange}Probably refers to the fact that you have to go there to mentor people?=~

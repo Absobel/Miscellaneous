@@ -59,5 +59,14 @@ On [[Nadur]]
 On [[Fas Nadur]]
 *Needs to be a [[Wizard]]*
 
+Elements ~={orange}(idk not always available? maybe different option for wizard somehow idk)=~
+> I have written a tome on the elements, which you may learn from, for a trade. Bring me a [[Viper's Gland|viper's gland]] or a [[Centipede's Gland|centipede's gland]].
+
+\[if no gland]
+> [[Wizard]]? Is that what you are? Well, if you seek the arcane lore, bring a gland of viper or a gland of centipede
+
+\[If gland]
+[[Elemental Graymayre]]
+
 Folk Philosophy
 [[Awards]]

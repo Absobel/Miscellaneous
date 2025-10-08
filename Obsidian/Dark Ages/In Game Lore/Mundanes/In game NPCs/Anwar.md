@@ -1,4 +1,5 @@
 [[Farm]]
+Is a [[Mundanes|Mundane]]
 
 GhostGirlIntro
 > Greetings, what are you doing on this island? No one has ever visited this land before.

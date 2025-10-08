@@ -1,10 +1,8 @@
 Connected to:
-- [[Shrine of Glioca|Shrine of Glioca - Mileth]]
-- [[Fair Threshold]]
-- [[Mileth Commons]]
-- [[Mileth|Mileth Village]]
+- [[Fair Entrance]]
 - Map:
 	- [[Abel Port Way]]
+	- [[Mileth Threshold]]
 	- [[Mileth College Threshold]]
 	- [[West Woodlands]]
 	- [[Woodlands Threshold]]
