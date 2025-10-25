@@ -1,7 +1,0 @@
----
-dg-publish: true
----
-Both the name of the great plain center of [[Temuair]] and the kingdom founded by [[Ainmeal]] whose capital is [[Loures]].
-
-Roughly:
-![[Ardmagh.png]]

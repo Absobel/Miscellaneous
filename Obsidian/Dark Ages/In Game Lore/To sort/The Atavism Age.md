@@ -1,4 +1,0 @@
----
-dg-publish: true
----
-Beta of the game I think. From [[Deoch Era|Deoch]] 1 to 5
