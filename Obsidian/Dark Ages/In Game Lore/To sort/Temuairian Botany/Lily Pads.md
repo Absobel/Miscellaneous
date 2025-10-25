@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Lily Pads.png]]
 
 From [[Temuairian Botany Book]]:

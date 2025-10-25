@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Squirtweed.png]]
 
 From [[Temuairian Botany Book]]:

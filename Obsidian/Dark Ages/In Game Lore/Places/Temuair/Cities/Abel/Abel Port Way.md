@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - [[Shrine of Fiosachd|Shrine of Fiosachd - Abel]]
 - [[Abel|Abel Port]]

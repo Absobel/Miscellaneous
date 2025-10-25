@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [History works](https://novus-imperia.com/college/history.htm)
 [Award Timeline](https://novus-imperia.com/college/award-timeline.htm)
 
@@ -14,3 +17,7 @@ Grinneal 10000? - [[Maerista, "The Book of the Black Cow"]] - Aisling - 1999
 ### [[Third Aeon]]
 
 Before Grinneal 15000? - [[Huhuman, "The Children of Grinneal"]]  - Aisling - 2022
+
+## [[Danaan Era]]
+
+[[Veneficus, "History of the Academie Arcanus"]] - ???? - ????

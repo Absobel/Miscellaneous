@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Located in [[Undine Black Magic Master]]
 
 
@@ -24,7 +27,7 @@ Buy
 [[Ascension]] legend:
 > I unearthed an ancient [[Aosda|Aosdic]] scroll, which [[Torgny]], great [[Dwarves|dwarf]] below, had given to me. It reads: 
 > 
-> (See [[Abhul]])
+> (See [[Aosdic scroll about Ascension]])
 > 
 > I'm still having trouble translating some of it. Although, I found this other fragment that may match what i had first missed.
 
@@ -32,20 +35,20 @@ Buy
 *(out loud)* Tiny Cave (gives access to [[Muisir Village]]):
 > Ah, I'm not the only one that has seen the Tiny Cave.
 > Let me guess, you tried to squeeze yourself through the entrance?
-
-> No, I didn't try that yet.
-
+> 
+> "No, I didn't try that yet."
+>
 > It's not a good idea, i've already tried it with no luck.
-
-> Can you help me get inside?
-
+>
+> "Can you help me get inside?"
+>
 > Sure. I can whip up any potion to suit your needs.
-
-> What do you need from me?
-
-> Since, it's a simple potion, all I need is 5 [[Undine]] Mushrooms. They used to be a rare type of mushroom, but suddenly they've been sprouting up only at this village. If you're lucky you will find several just outside that door.
-
-> Okay, I'll be right back.
+>
+> "What do you need from me?"
+>
+> Since, it's a simple potion, all I need is 5 [[Undine Mushroom]]s. They used to be a rare type of mushroom, but suddenly they've been sprouting up only at this village. If you're lucky you will find several just outside that door.
+>
+> "Okay, I'll be right back."
 
 ...
 
@@ -61,12 +64,11 @@ On [[Fas Nadur]]
 
 Elements ~={orange}(idk not always available? maybe different option for wizard somehow idk)=~
 > I have written a tome on the elements, which you may learn from, for a trade. Bring me a [[Viper's Gland|viper's gland]] or a [[Centipede's Gland|centipede's gland]].
-
-\[if no gland]
-> [[Wizard]]? Is that what you are? Well, if you seek the arcane lore, bring a gland of viper or a gland of centipede
-
-\[If gland]
-[[Elemental Graymayre]]
+> 
+> \[if no gland]
+> > [[Wizard]]? Is that what you are? Well, if you seek the arcane lore, bring a gland of viper or a gland of centipede
+> \[If gland]
+> [[Elemental Graymayre]]
 
 Folk Philosophy
 [[Awards]]

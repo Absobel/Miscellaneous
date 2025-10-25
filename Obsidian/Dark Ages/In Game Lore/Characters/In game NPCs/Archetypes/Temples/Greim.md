@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Acolyte]] of [[Sgrios]] temple
 ~={orange}Is a dubhaim???=~
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - [[Suomi Inn]]
 - [[Suomi  Inn Room 1]]

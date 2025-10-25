@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases:
   - Finach
   - Mileth Village
@@ -34,7 +35,6 @@ Where new [[Aislings]] wake up
 
 Points of interest:
 - Has the [[Mileth Altar]] that allows to communicate with the [[Gods of Temuair]] and start the [[Ascension]] ritual.
-- [[Temple of Choosing]]
 
 ——— Loures Library ———
 

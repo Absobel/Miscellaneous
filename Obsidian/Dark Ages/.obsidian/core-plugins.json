@@ -8,8 +8,8 @@
   "outgoing-link": true,
   "tag-pane": true,
   "properties": false,
-  "page-preview": true,
-  "daily-notes": true,
+  "page-preview": false,
+  "daily-notes": false,
   "templates": true,
   "note-composer": true,
   "command-palette": true,
@@ -18,7 +18,7 @@
   "bookmarks": true,
   "markdown-importer": false,
   "zk-prefixer": false,
-  "random-note": false,
+  "random-note": true,
   "outline": true,
   "word-count": true,
   "slides": false,
@@ -28,6 +28,6 @@
   "publish": false,
   "sync": true,
   "webviewer": false,
-  "footnotes": false,
-  "bases": true
+  "footnotes": true,
+  "bases": false
 }

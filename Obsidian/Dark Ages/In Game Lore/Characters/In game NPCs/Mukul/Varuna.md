@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Mehadi Swamp]] - Rishi [[Mukul]] Gathering
 
 *(out loud)* The Cap
@@ -17,7 +20,7 @@ Tell me about you
 > 3rd [[Natesh]]   [[Natesh]] demanded offering. [[Natesh]] demanded that [[Mukul]] make an offering to him. We, the [[Vibha]], remember the exact times and what the offering must be.
 > I've talked enough about [[Mukul]] culture to an outsider.
 
-> 16th [[Natesh]]  [[Natesh]] demands the [[Tulsi Mela]]. Natesh demanded the Tulsi from the Mukul. We now perform a ceremony to provide Natesh with that sacred flower. Natesh says his heart must be rekindled by the flower.
+> 16th [[Natesh]]  [[Natesh]] demands the [[Tulsi Blossom|Tulsi Mela]]. Natesh demanded the Tulsi from the Mukul. We now perform a ceremony to provide Natesh with that sacred flower. Natesh says his heart must be rekindled by the flower.
 
 > 17th Natesh  [[Tirtha Chandi]]. Rebels of the [[Ford]]. Mukul society is a unified river. The [[Tirtha Chandi]] left the society en masse. They would not make the [[Tulsi Mela]] sacrifice to [[Natesh]].
 

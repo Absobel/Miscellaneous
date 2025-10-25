@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Eidheann.png]]
 
 From [[Temuairian Botany Book]]:

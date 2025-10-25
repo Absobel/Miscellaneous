@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Eeva]] book she shows for [[Quest - Perfect Hairstyle]]
 
 "Braid"

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 According to [[Huhuman, "The Children of Grinneal"]]:
 - Man-at-arm of [[Luathas|Finach]] for 30 years
 - recruited from [[Comhal]] city guards after he saved a group of children from a bull without harming the latter

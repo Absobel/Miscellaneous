@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Located in [[Suomi Armor Shop]]
 
 

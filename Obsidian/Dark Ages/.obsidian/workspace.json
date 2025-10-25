@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7cd0d9fdef6d339e",
+        "id": "3f4ba4eb20bda9c0",
         "type": "tabs",
         "children": [
           {
-            "id": "00fcfe12bac22b64",
+            "id": "6fef28214c540d15",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,8 +16,51 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "d8ab5f7bc5aaae1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In Game Lore/Quests/Event/October/Event - Zombie Slayer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Event - Zombie Slayer"
+            }
+          },
+          {
+            "id": "3c50d48338e19cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In Game Lore/Quests/Event/October/Event - Beggar's Outfit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Event - Beggar's Outfit"
+            }
+          },
+          {
+            "id": "c38f5674c7a0cd74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In Game Lore/Places/Temuair/Cities/Undine/Undine Black Magic Master.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Undine Black Magic Master"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Grinneal",
+                "query": "tag:#ignore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +104,7 @@
             }
           },
           {
-            "id": "0af07f7e35eec9ae",
+            "id": "e7b262fba6928250",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,16 +133,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "In Game Lore/Places/Temuair/Cities/Undine/Undine Black Magic Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Undine Black Magic Master"
             }
           },
           {
@@ -108,16 +152,39 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TODO"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "887d59411930c29c",
+            "id": "1d090a823eb148a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1b4e692f3649826d",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "b2f5e6e22e314a73",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,21 +197,6 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "1d090a823eb148a1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "In Game Lore/Quests/Quest - Emerald Down.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Quest - Emerald Down"
-            }
           }
         ]
       }
@@ -154,63 +206,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "random-note:Open random note": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "00fcfe12bac22b64",
+  "active": "c38f5674c7a0cd74",
   "lastOpenFiles": [
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures Castle Library.md",
-    "In Game Lore/Texts/Grimoire of the Pentagram.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Guild Master's Room.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 3 Floor Corridor.md",
-    "In Game Lore/Characters/In game NPCs/Wizard/Blaise.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 3 Floor Magic Room.md",
-    "In Game Lore/Characters/In game NPCs/Wizard/Jean.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 3 Floor Office.md",
-    "In Game Lore/Characters/In game NPCs/Bruce.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Hall.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures Cyril Corridor.md",
-    "In Game Lore/Characters/In game NPCs/Paulin.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Corridor.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Weapon Store.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Bed Room.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Tavern.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Main Room.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Restaurant.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 2 Floor Empty Room 1.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 1 Floor Hall.md",
-    "In Game Lore/Characters/In game NPCs/Yves.md",
-    "Assets/Yves.png",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures Underground Jail.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 1 Floor Bed Room.md",
-    "In Game Lore/Characters/In game NPCs/Wizard/Marlin.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 1 Floor Weapon Store.md",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle/Loures 1 Floor Restaurant.md",
-    "Assets/Fair Battle.png",
-    "Assets/Fair Draco.png",
-    "Assets/Ophelia.png",
-    "In Game Lore/Characters/In game NPCs/Archetypes/Innkeeper/Innkeeper.png",
-    "Assets/Fair Tavern.png",
-    "Assets/Old Blond Guy Big Sprite.png",
-    "Assets/Old Blond Guy Sprite.png",
-    "In Game Lore/Characters/In game NPCs/Archetypes/Old Blond Guy",
-    "In Game Lore/Characters/In game NPCs/Archetypes/Clerc/Clerc Big Sprite.png",
-    "In Game Lore/Characters/In game NPCs/Archetypes/Clerc/Clerc sprite.png",
-    "In Game Lore/Places/Temuair/Cities/Loures/Loures Castle",
-    "In Game Lore/Places/Temuair/Cities/Loures",
-    "In Game Lore/Places/Temuair/Cities/Piet",
-    "In Game Lore/Places/Temuair/Cities/Mileth/Mileth College",
-    "In Game Lore/Places/Temuair/Cities/Mileth/Mileth Fair",
-    "In Game Lore/Places/Temuair/Cities/Mileth",
-    "In Game Lore/Places/Temuair/Cities/Abel",
-    "In Game Lore/Characters/In game NPCs/Archetypes/Special Skill Master",
-    "In Game Lore/Places/Temuair/Cities/Muisir"
+    "In Game Lore/Quests/Quest - Lady Phoenix Creant.md",
+    "In Game Lore/Places/Temuair/Cities/Undine/Undine Black Magic Master.md",
+    "About.md",
+    "TODO.md",
+    "In Game Lore/Characters/Gods/Gods.md",
+    "In Game Lore/Items/Rare Costume Raffle.md",
+    "In Game Lore/Quests/Quest - Cap of Danaan.md",
+    "In Game Lore/Texts/Aosdic scroll about Ascension.md",
+    "In Game Lore/To sort/Aosda.md",
+    "In Game Lore/Places/Temuair/Cities/Suomi/Shrine of Deoch.md",
+    "tmp.py~",
+    "tmp.py",
+    "In Game Lore/Characters/In game NPCs/Alane.md",
+    "In Game Lore/Characters/In game NPCs/Rowena.md",
+    "In Game Lore/Characters/In game NPCs/Archetypes/Black Magic Master/Kiril.md",
+    "In Game Lore/Characters/Dead/Aosdan/Abhul.md",
+    "In Game Lore/Places/Not Accessible/Kadath.md",
+    "In Game Lore/To sort/Ascension.md",
+    "In Game Lore/Characters/In game NPCs/Moire.md",
+    "In Game Lore/Places/Temuair/East Woodlands/Singing Sylvan Glade.md",
+    "In Game Lore/Places/Temuair/East Woodlands",
+    "In Game Lore/Places/Temuair/East Woodlands/Great Sylvan Glade.md",
+    "In Game Lore/Quests/Event/October/Event - Beggar's Outfit.md",
+    "In Game Lore/Quests/Quest - Reincarnation.md",
+    "In Game Lore/Characters/In game NPCs/Archetypes/Beggar/Beggar.md",
+    "In Game Lore/Characters/In game NPCs/Muhsin.md",
+    "In Game Lore/Quests/Event/October/Event - Zombie Slayer.md",
+    "In Game Lore/Characters/In game NPCs/Archetypes/White Magic Master/Bertil.md",
+    "In Game Lore/Quests/Repeatable Quests/Daily/Quest - Mother's Love.md",
+    "Assets/Gigean.png",
+    "In Game Lore/Places/Temuair/Cities/Mileth/Mileth Crypt",
+    "In Game Lore/Places/Temuair/House Macabre",
+    "In Game Lore/Quests/Event/October",
+    "In Game Lore/Items",
+    "Assets/Morrigu dwarf.png",
+    "Assets/Kalliope.png",
+    "Excalidraw",
+    "In Game Lore/Places/Temuair/Dubhaim Castle",
+    "Pasted image 20251017041809.png",
+    "In Game Lore/Places/Temuair/Cities/Rucesion",
+    "Assets/Oren Ruins Gateway Portal.png",
+    "Assets/Oren Ruins Gateway2 Portal.png",
+    "Assets/Qaeli.png",
+    "Assets/Dealos.png",
+    "Pasted image 20251014040341.png",
+    "Assets/Piet Empty Room 1.png"
   ]
 }

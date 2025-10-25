@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - [[Mileth Village Way]]
 - Buildings:

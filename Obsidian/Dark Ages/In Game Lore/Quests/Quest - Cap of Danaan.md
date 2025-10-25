@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Rolan]]
 > You are an [[Aislings|Aisling]]? Oh thank [[Danaan]] you came. You must have heard my dreams. Every night it is the same. [[Glioca]], [[Cail]], [[Ceannlaidir]] and [[Luathas]] stand on one side, [[Gramail]], [[Deoch]], [[Fiosachd]], and [[Sgrios]] on the other side. And they're all wearing hats! It is so silly. They keep arguing between themselves, sometimes they talk to me, but I can't understand what they are saying! I can't stand it anymore, every night, every night... Please, [[Aislings|Aisling]], find out where this dream comes from, and help me get rid of it. Maybe the old books in [[Loures]] say something, but the guards did not let me in for some reason...
 
@@ -49,8 +52,8 @@ Your skin is very nicely tanned.
 > Nice, isn't it?
 
 What job was there in Abel?
-> Nothing important. They needed an [[Acolyte]] to identify something there, but [[Aundy]] was not available, so they invited me.
-> The funny part, [[Aundy]] was here in [[Loures]] visiting that lonely girl in the [[Loures Castle|castle]]! I just went to [[Abel]] escorted by soldiers, identified the object, and had the next couple of days to relax.
+> Nothing important. They needed an [[Acolyte]] to identify something there, but [[Audny]] was not available, so they invited me.
+> The funny part, [[Audny]] was here in [[Loures]] visiting that lonely girl in the [[Loures Castle|castle]]! I just went to [[Abel]] escorted by soldiers, identified the object, and had the next couple of days to relax.
 > I really needed it!
 
 So what was it?
@@ -59,7 +62,7 @@ So what was it?
 (End of discussion)
 
 Why soldiers?
-> It was official [[Loures]] business. I could have handled it myself, but they insisted. The natives of [[Abel Beach]] must of thought it was strange seeing me with [[Loures]] soldiers.
+> It was official [[Loures]] business. I could have handled it myself, but they insisted. The natives of [[Coast|Abel Beach]] must of thought it was strange seeing me with [[Loures]] soldiers.
 
 ///// PATH 2 /////
 
@@ -141,7 +144,7 @@ Gifts from the outside world?
 > Ah, yes. Trapped in this lonely castle, I treasure every little thing, sight, scent, or tale from the world beyond this walls. [[Aislings]] such as yourself used to bring me flowers, I loved that so! But they stopped for some reason. Either I am not worthy of flowers anymore, or flowers are not worthy of me. I so wish I could smell them again...
 
 Something involving [[Fiosachd]]?
-> Yes, I just told you that. But that is all there is to it. Just to let you know, sometimes my friend [[Aundy]] comes from the temple she lives in, in [[Abel]], and tells me stories fo the big city. I asked her about that, out of curiosity, and she did not know anything. If [[Fiosachd]] has any ties to this pretty cap of mine, and not even his [[Acolyte]] knows it, who would, other than himsef? Of well...You are an [[Aislings]], free to travel across the world. Maybe you can find a way to ask the patron of [[Rogue|Rogues]] himself
+> Yes, I just told you that. But that is all there is to it. Just to let you know, sometimes my friend [[Audny]] comes from the temple she lives in, in [[Abel]], and tells me stories fo the big city. I asked her about that, out of curiosity, and she did not know anything. If [[Fiosachd]] has any ties to this pretty cap of mine, and not even his [[Acolyte]] knows it, who would, other than himsef? Of well...You are an [[Aislings]], free to travel across the world. Maybe you can find a way to ask the patron of [[Rogue|Rogues]] himself
 
 ////////////////////
 
@@ -177,7 +180,7 @@ What must I do next?
 > My role in your epic pursuit is done. Go now, may the [[Light]] of [[Danaan]] guide you.
 
 
-[[Beggar (Mehadi)]]
+[[Beggar]]
 *(out loud)* Cousin
 > I'm a busy man, how much is my time worth to you?
 
@@ -264,7 +267,7 @@ Am I dead?
 What is this place?
 > I understand you have many questions, but there is not enough time to answer all of them. Let me put it this way: you are in a spirit form, but unable to return.
 > We are in a right created between the realms of dead and living. I am the one who first had the dreams that now haunt the young boy in [[Abel]]. I was keeping a record of those dreams, but when I finally understood it - when the words of the gods became clear - I could not handle it.
-> Eight deities speaking at the same time, a mere [[Mundanes|mundande]] was not made to face that. And here is where I ended up.
+> Eight deities speaking at the same time, a mere [[Mundanes|mundane]] was not made to face that. And here is where I ended up.
 > But I do remember what they said.
 
 And what was that?

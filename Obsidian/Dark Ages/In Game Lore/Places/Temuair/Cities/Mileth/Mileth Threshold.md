@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - Map:
 	- [[Abel Port Way]]

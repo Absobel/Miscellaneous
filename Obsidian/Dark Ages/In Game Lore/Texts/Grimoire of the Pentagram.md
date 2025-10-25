@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Quest - Pentagram]]
 
 Written by [[Conrad]], [[Wizard]] of [[Tagor]], [[Danaan Era|Danaan]] 3001

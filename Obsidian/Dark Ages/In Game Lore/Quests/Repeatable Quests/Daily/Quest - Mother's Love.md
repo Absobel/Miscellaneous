@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 From the following NPCs:
 - [[Oona]]
 - [[Aud]]

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Muisir Village]]
 
 > Hello. What can I do for you?

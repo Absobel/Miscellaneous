@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 According to [[Maerista, "The Book of the Black Cow"]]:
 - Chief warrior of [[Elathan]]
 - Knows the [[Song of the Sword]] from [[Elathan]]

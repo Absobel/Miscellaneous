@@ -1,1 +1,4 @@
-[[Spells|Spell]] of reincarnation. Cast by [[Shamble]] in \[TODO : where we die]
+---
+dg-publish: true
+---
+[[Spells|Spell]] of reincarnation

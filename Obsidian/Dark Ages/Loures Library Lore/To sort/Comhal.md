@@ -1,5 +1,8 @@
+---
+dg-publish: true
+---
 According to [[Huhuman, "The Children of Grinneal"]]
-- Capital of [[First Aosda]], situated at the center of [[Temuair|Grinneal]]
+- Capital of [[First Aosda]], situated at the center of [[Grinneal]]
 - At least an hour to go from somewhere in the city to the easternmost wall so pretty big
 
 According to [[Maerista, "The Book of the Black Cow"]]:

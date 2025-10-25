@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Written by [[Dar]], Dark [[Wizard]] of [[Mileth]]
 
 "Introduction"

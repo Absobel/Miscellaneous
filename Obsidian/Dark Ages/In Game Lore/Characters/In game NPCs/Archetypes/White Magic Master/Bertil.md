@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Found in [[Suomi White Magic Master]]
 Is a [[Faerie|Fae]]
 
@@ -26,7 +29,7 @@ Sell
 Gods 
 *Info of [[Gods]]*
 
-Hebal Lore
+Herbal Lore
 > Which herb do you wish to know about?
 
 How to collect any herb
@@ -35,7 +38,7 @@ How to collect any herb
 [[Ancusa]]
 > You will find [[Ancusa]] growing on rocks by a brook. You will recognize [[Ancusa]] as a light green, wild tuft.
 > When [[Ancusa]] is mixed with [[Raw Wax]] it produces [[Ancusa ceir]], which is known to soothe and  prevent burns. While adventuring, this is useful to prevent damage from elemental [[Fire|fire]] spells.
-> For a picture of most herbal plants and details, I recommend [[Chloe, "Herbal Lore"|"Herbal Lore" by Chloe]], the [[Aislings|Aisling]], in the [[Loures' Library|library of Loures]], under "Lore"
+> For a picture of most herbal plants and details, I recommend [[Chloe, "Herbal Lore"|"Herbal Lore" by Chloe]], the [[Aislings|Aisling]], in the [[Loures Castle Library|library of Loures]], under "Lore"
 
 [[Betony]]
 > You will find [[Betony]] growing in a garden or a glade. You will recognize [[Betony]] as a flowing white flower.

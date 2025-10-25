@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Anwar]]
 > Like most stories, this began many [[Deoch Era|Deochs]] ago. I was just a wee lad. I lived with my family at the town near the center of the island.
 > The name of the town slips me. I was too young to remember and no one dares speak its name, because of what happened.

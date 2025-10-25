@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - [[Shrine of Deoch|Shrine of Deoch - Suomi]]
 - [[Suomi|Suomi Village]]

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## [[Grinneal Era]]
 
 ### [[First Aeon]] of [[Temuair]] - Gnosis
@@ -47,7 +50,7 @@ Danaan 1409 - The first [[Wizard]]. The [[Elemental Wars]]
 Danaan 1410 - Exodus of the wise
 Danaan 1431 - The drowning of [[Hy-brasyl]]
 Danaan 1501 - The first [[Warrior]]. Foundation of Finach ([[Mileth]])
-Danaan 1574 - Foundation of [[Sarnath]] (Gear Inbhir) ~={orange}(????)=~
+Danaan 1574 - Foundation of [[Gear Inbhir|Sarnath]] (Gear Inbhir) ~={orange}(????)=~
 Danaan 1584 - Foundation of [[Niara]]
   	 
 ### [[Eighth Aeon]] - Darkness
@@ -55,7 +58,7 @@ Danaan 1584 - Foundation of [[Niara]]
 
 Danaan 1703 - Discovery of the Fifth [[Elements|Element]]: [[Darkness (Element)]]
 Danaan 1705 - Appearance of the [[Dubhaim|Dubhaimid]]
-Danaan 1813 - Birth of [[Chadul]]. The decay of the Grinneal ~={orange}(okay like does that refer to the original mundanes from this continent or the continent itself?)=~
+Danaan 1813 - Birth of [[Chadul]]. The decay of the Grinneal ~={orange}(what does this refer to?)=~
 Danaan 1815 - The wise return to worship of [[Danaan]]
 Danaan 1980 - Great War of [[Danaan]] and [[Chadul]]. Ravage of [[Temuair]]
 Danaan 1985 - Mortals slip into [[Chadul]]'s realm. Appearance of [[Sgrios]]
@@ -63,7 +66,7 @@ Danaan 1985 - Mortals slip into [[Chadul]]'s realm. Appearance of [[Sgrios]]
 ### [[Ninth Aeon]] - Civilization
 *Danaan 2230 - 2902*
 
-Danaan 2230 - The first [[Rogue]]. Temuair balkanized ~={orange}(Temuair devided? What was before that)=~
+Danaan 2230 - The first [[Rogue]]. [[Temuair]] balkanized ~={orange}(Temuair devided? What was before that)=~
 Danaan 2421 - [[Tenes]] rises to power
 Danaan 2435 - [[League of Darkness]]
 Danaan 2468 - [[Pact of Anaman]]. [[League of Darkness|League]] granted thousand year lifespan. The dead can now escape [[Chadul]]'s realm
@@ -84,7 +87,7 @@ Danaan 3058 - [[Shadows War]]
 Danaan 3113 - [[Deoch]] falls in love with [[Danaan]], forsaking his servitude to [[Chadul]]
 Danaan 3148 - Discovery of the sixth [[Elements|element]]: [[Light (Element)]]
 Danaan 3171 - End of the [[Shadows War]]
-Danaan 3177 - [[Lamps]] appear in towns ~={orange}(>.>)=~
+	Danaan 3177 - [[Lamps]] appear in towns
 Danaan 3292 - [[Danaan]] [[Sacrifice of Danaan|sacrifices herself]]. The slumber. Beginning of [[Deoch Era|Deoch]] dating
 
 ## [[Deoch Era]] (or [[Aislings|Aisling]] era)

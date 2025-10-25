@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases:
   - Erin
 ---
@@ -15,7 +16,7 @@ Enemy of:
 - [[Gramail]]
 
 Mundane description:
-> [[Glioca]] is the goddess of comapssion. She loves all that is.
+> [[Glioca]] is the goddess of compassion. She loves all that is.
 > [[Glioca]] is the daughter of [[Danaan]]. She sprang from [[Danaan]]. As [[Danaan]] is the sun, [[Glioca]]is the moon. She is gentle, like a swan gliding upon water. She sees the reflection of all of the [[Tuatha de Danaan|tuatha]] in everything. Her love is complete and eternal. She does not know hate.
 
 ——————

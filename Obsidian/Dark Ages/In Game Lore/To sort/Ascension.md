@@ -1,8 +1,12 @@
-[[Kiril]] translated an [[Aosda|Aosdic]] scroll describing a safe ritual to Ascension written by [[Abhul]]. This scroll belonged to [[Torgny]].
-
-(See [[Abhul]] for the poem)
+---
+dg-publish: true
+---
+[[Kiril]] translated an [[Aosdic scroll about Ascension]]. This scroll belonged to [[Torgny]].
 
 ~={orange}Seems to describe exactly what Deoch and Gramail allows us to do. I didn't read that far yet, but maybe it could set after Deoch went to light but before the second Aosda disappeared?=~
+
+If not ghost when arriving in [[Chtonic Ruins2]]: \[Only unfettered spirit may cross the abyss]
+
 
 ——— Loures Library ———
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - [[Loures 2 Floor Hall]]
 - [[Loures 3 Floor Corridor]]

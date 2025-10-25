@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 According to [[Maerista, "The Book of the Black Cow"]]:
 - Name means "Fiery Arrow or Power"
 - Prophesied wife of [[Bres]]

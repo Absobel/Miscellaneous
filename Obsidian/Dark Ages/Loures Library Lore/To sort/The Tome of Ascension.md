@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 According to [[Huhuman, "The Children of Grinneal"]]:
 - Book describing the rite of [[Ascension]] to godhood.
 - The author ends completely mad towards the end. Only two third are legible

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - [[Loures 3 Floor Office]]
 - [[Loures 3 Floor Magic Room]]

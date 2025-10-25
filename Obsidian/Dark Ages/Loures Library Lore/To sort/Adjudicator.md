@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 According to [[Huhuman, "The Children of Grinneal"]]:
 - The one who judges at the [[Palace of Justice]]
 - Picked by the [[Aosdic Council]] themselves

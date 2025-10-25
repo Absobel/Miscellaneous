@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Depicts the first five [[Temuair Timeline|Aeons]] of [[Temuair|Temuairian]] Gnosis.
 
 Accumulated from:

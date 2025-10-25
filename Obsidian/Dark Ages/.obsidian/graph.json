@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "path:\"In Game Lore/Quests/Event\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
       "query": "path:\"In Game Lore/Quests\"  -path:\"In Game Lore/Quests/Repeatable Quests\"  ",
       "color": {
         "a": 1,
@@ -22,14 +29,14 @@
       }
     },
     {
-      "query": "path:\"In Game Lore/Characters/Gods/Temuair\" -file:Temuair",
+      "query": "path:\"In Game Lore/Characters/Gods\" -file:Temuair -file:Gods",
       "color": {
         "a": 1,
         "rgb": 16768046
       }
     },
     {
-      "query": "path:\"In Game Lore/Characters\"  ",
+      "query": "path:\"In Game Lore/Characters\"  -path:\"In Game Lore/Characters/Gods\"  ",
       "color": {
         "a": 1,
         "rgb": 16764145
@@ -64,16 +71,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.1634836859171597,
+  "collapse-forces": false,
+  "centerStrength": 0.441045079193177,
+  "repelStrength": 12.8062813049953,
+  "linkStrength": 0.88723433058075,
+  "linkDistance": 30,
+  "scale": 0.11660890326942709,
   "close": true
 }

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Notes:
 - The Aosda mentioned is the first because it mentions how they got corrupted with Kadath and all.
 
@@ -49,7 +52,7 @@ Notes:
 Refused
 > I see. If you change your mind, the offer is still on the table.
 
-[[Dislaidir]] - [[Mida]]'s heir
+[[In Game Lore/Characters/In game NPCs/Dislaidir]] - [[Mida]]'s heir
 
 > Where did you find that?!
 > I see. You have traveled far and wide in search of the heir to the [[Emerald Knights]]?
@@ -83,7 +86,7 @@ Give
 ////////////
 
 Notes :
-Why is [[Dislaidir]] in a graveyard and gives the quest to create a pet zombie at Halloween???
+Why is [[In Game Lore/Characters/In game NPCs/Dislaidir]] in a graveyard and gives the quest to create a pet zombie at Halloween???
 [[Gans]] has no link with the [[Druids of Balance]], is there another end to the quest?
 Why does [[Luathas]] an Aosdan, pushes Dislaidir towards this destiny when her mother didn't want to? If he even is the true heir.
 Gans did say his father had a similar insignia and looks way much more like a Knight

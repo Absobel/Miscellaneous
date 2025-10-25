@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Kobold Tail.png]]
 
 From [[Temuairian Botany Book]]:

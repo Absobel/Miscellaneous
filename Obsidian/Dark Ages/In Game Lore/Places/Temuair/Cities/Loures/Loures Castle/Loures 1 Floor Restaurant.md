@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to: 
 - [[Loures 1 Floor Corridor]]
 - [[Loures 1 Floor Bed Room]]

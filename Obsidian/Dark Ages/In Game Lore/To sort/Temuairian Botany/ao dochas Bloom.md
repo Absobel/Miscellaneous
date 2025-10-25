@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[ao dochas Bloom.png]]
 
 From [[Temuairian Botany Book]]:

@@ -1,9 +1,10 @@
 ---
+dg-publish: true
 aliases:
   - Crionor
 ---
 Home of dark powers that caused the fall of the [[First Aosda]]
-Also called "forbidden home of gods" by [[Abhul]]
+Also called "forbidden home of gods" in [[Aosdic scroll about Ascension]]
 
 It became the mortal dwelling of the gods.
 It is there you go as a spirit after the [[Ascension]]. You find there temples ~={orange}(constructed by the Aosdan?)=~ with [[Deoch]] and [[Gramail]].

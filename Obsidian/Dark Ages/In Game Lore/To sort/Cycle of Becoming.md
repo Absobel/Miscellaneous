@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 From [[Jean]]:
 
 > The Cycle of Becoming is the flow of one [[Gods of Temuair|god]] into another, nominally beginning with [[Deoch]] and ending with [[Sgrios]], although it is completely cyclical.

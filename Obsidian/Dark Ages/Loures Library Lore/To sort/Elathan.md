@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 From [[Maerista, "The Book of the Black Cow"]]:
 - Eldest of the seven kings of [[First Aosda]]
 - Father of [[Bres]]

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Folly Flower.png]]
 
 From [[Temuairian Botany Book]]

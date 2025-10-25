@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Blossom of Betrayal.png]]
 
 Can be found in [[Lover's Maze Garden]] and [[Lover's Garden]]

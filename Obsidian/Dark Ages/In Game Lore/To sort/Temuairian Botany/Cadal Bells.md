@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Cadal Bells.png]]
 
 From [[Temuairian Botany Book]]:

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Eeva]]
 "The Perfect Hairstyle"
 > Good sun to you, [[Aislings|Aisling]]. Say! \*leans over the counter* What do you think of my hair?

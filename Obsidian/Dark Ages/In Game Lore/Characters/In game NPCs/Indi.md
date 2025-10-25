@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Excavation Camp]]
 
 [[Quest - Explore Deadwood Forest]]

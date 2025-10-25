@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Table of Contents:
 
 [[Spark Flower]]

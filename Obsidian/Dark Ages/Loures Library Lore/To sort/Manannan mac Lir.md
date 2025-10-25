@@ -1,4 +1,7 @@
-According to [[Manannan mac Lir]]
+---
+dg-publish: true
+---
+According to [[Maerista, "The Book of the Black Cow"]]
 - Name means Manannan Son of the Sea
 - One of the [[Earth-Sea Gods]] ruling on another race, named the Sea God
 - Husband to [[Fand]]

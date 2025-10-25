@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Lochran Tendrils.png]]
 
 From [[Temuairian Botany Book]]:

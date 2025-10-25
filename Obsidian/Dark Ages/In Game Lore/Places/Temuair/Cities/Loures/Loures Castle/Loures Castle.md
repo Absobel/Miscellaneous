@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - [[Lover's Maze Garden]]
 - [[Recovery Camp]]
@@ -7,7 +10,7 @@ Connected to:
 	- [[Pravat Cave]]
 	- [[Piet Village Way]]
 	- [[Coliseum Threshold]]
-	- [[Mehadi Entrance]]
+	- [[Mehadi Swamp]]
 	- [[Loures Castle Way]]
 	- [[Base Camp]]
 	- [[Loures Harbor]]

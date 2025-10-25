@@ -1,9 +1,12 @@
+---
+dg-publish: true
+---
 According to [[Huhuman, "The Children of Grinneal"]] and [[Aeife, "Grinneal - Beginning"]]:
 - lasted 20'000 years approximately
 
 According to [[Huhuman, "The Children of Grinneal"]]
 - Miscellaneous 
-	- They refer to themselves as "The Children of [[Temuair|Grinneal]]"
+	- They refer to themselves as "The Children of [[Grinneal]]"
 	- During the [[Third Aeon]]: same maybe better technology as modern days.
 	- At least up to the point of the story, no Aosdan ever killed another ~={orange}(probably an exaggeration from the legend)=~
 	- The worst punishment was being exiled to [[Kadath]]

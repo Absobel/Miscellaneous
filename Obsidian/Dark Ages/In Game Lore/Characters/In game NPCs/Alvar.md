@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Found in [[Suomi Grape Farmer]]
 
 

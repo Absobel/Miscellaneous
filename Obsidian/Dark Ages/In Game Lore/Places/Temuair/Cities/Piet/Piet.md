@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases:
   - Piet Village
 ---
@@ -15,3 +16,6 @@ Connected to:
 	- [[Piet White Magic Master]]
 	- [[Piet Magic Shop]]
 	- [[Piet Crypt]]
+
+Located in northern [[Ardmagh]]
+[[Horse]]s in front of [[Piet White Magic Master]]

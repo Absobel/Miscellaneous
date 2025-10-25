@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Muisir Village]] Hunting Grounds
 
 > Hello. What can I do for you?

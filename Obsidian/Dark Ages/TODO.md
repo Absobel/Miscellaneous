@@ -1,3 +1,6 @@
+---
+dg-publish: false
+---
 #ignore
 ### Things to do:
 - jean top of loures castle
@@ -26,6 +29,14 @@ Mass ideas :
 	- Why?
 - Knowledge through exploration, knowledge through books
 - Aisling = dream
+
+/////////
+
+
+- Hy-brasyl actually drowning vs Hy-brasyl on the continent but floods receeded
+- Kadath actually north vs not (or not anymore)
+
+
 
 //////////
 

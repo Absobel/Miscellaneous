@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Situated in [[Suomi Inn]]. Serves as Bank and Parcel clerk
 
 

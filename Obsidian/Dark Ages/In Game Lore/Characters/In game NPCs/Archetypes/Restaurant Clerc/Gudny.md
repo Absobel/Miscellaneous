@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Suomi Restaurant]] clerc
 
 ### Dialogues

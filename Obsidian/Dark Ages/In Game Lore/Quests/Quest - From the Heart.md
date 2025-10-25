@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Marlin]]
 > The tragedy of my imprisonment is that I miss [[Bella]]. Her coils of hair caught my heart years ago. It drives my dreadful dreams.
 

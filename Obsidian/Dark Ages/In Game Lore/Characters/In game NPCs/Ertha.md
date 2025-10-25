@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Ertha.png]]
 
 Located in: [[Fair Entrance]]

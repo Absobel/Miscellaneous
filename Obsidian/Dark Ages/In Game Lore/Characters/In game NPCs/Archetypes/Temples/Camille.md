@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Acolyte]] of [[Gramail]]'s Temple
 
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 > They go by many names, yet these are the names given in the tongue of the [[Tuatha de Danaan|tuatha]].
 
 - [[Deoch]] : God of

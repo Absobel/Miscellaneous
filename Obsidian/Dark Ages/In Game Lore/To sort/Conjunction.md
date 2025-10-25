@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 From [[Jean]]
 
 Theology of the Conjunction

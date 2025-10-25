@@ -1,8 +1,11 @@
+---
+dg-publish: true
+---
 Found in [[Suomi Black Magic Master]]
 
 
 Board before the entrance of his dwelling:
-> [[Hadrian]] – [[Wizard]] of [[Darker Arts.]] Master [[Wizard]] of [[Suomi]]
+> [[Hadrian]] – [[Wizard]] of Darker Arts. Master [[Wizard]] of [[Suomi]]
  
 ### Dialogues
 

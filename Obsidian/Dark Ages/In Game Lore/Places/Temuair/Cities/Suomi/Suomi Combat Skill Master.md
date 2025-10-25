@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - [[Suomi|Suomi Village]]
 - [[Suomi Black Magic Master]]

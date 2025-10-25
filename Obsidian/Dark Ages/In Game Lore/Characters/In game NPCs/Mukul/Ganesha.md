@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Mehadi Swamp]] - Rishi [[Mukul]] Gathering
 
 > Offer something to learn from this [[Kerani]]?
@@ -17,7 +20,7 @@ Offer Viper's Gland
 > I've talked enough about [[Mukul]] culture to an outsider.
 - What stories do the [[Mukul]] tell?
 > We speak of [[Matrika]], the goddess of the sun. She sacrificed herself for the good of the [[Mukul]]. As she did so, she began the cycle that will create the salvation of the [[Mukul]].
-> We speak of [[Natesh]], the sixth god. he is the most recent god of the [[Mukul]], as the [[Vibsha]] know. [[Natesh]] is a ravishing god. It is so hungry that is must be fed Tulsi flowers.
+> We speak of [[Natesh]], the sixth god. he is the most recent god of the [[Mukul]], as the [[Vibsha]] know. [[Natesh]] is a ravishing god. It is so hungry that is must be fed [[Tulsi Blossom|Tulsi flowers]].
 > We speak of the frogs who lived long before [[Natesh]], long before [[Humanity|humans]], in the old culture where now there are sewers. The frogs met the old ones.
 > I've talked enough about [[Mukul]] culture to an outsider.
 

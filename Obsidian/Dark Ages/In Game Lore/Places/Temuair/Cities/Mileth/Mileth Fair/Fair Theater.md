@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - [[Fair Entrance]]
 - \[TODO: maybe something else, cast member required]

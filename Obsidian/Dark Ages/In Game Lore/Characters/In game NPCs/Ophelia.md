@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Located in: [[Fair Amphitheater]]
 
 ![[Ophelia.png]]

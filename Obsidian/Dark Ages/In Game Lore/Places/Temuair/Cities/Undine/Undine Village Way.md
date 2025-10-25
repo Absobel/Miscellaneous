@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - [[Undine|Undine Village]]
 - [[Shrine of Cail|Shrine of Cail - Undine]]

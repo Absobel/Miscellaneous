@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 References :
 - [[Temuair Timeline]]
 - [[Aeife, "Grinneal - Beginning"]]
@@ -8,7 +11,7 @@ References :
 
 Happens during the [[Third Aeon]]
 
-There were the [[First Aosda]]. They referred to themselves as "Children of [[Temuair|Grinneal]]".
+There were the [[First Aosda]]. They referred to themselves as "Children of [[Grinneal]]".
 
 [[First Aosda]] lived for 20'000 years, then vanished. Then was rediscovered as the [[Second Aosda]] 6'000 years after. Then it survived 5'000 years into the [[Danaan Era]] to the appearance of the [[Tuatha de Danaan]], then vanished again. Even [[Hy-brasyl]] knew nothing about that.
 
@@ -18,7 +21,7 @@ Foreword written by [[Jean]] (the story is translated by him)
 
 ### 1 - Discovery
 
-This story takes place in [[Comhal]] capital of [[First Aosda]] central of the central continent that made up [[Temuair|Grinneal]].
+This story takes place in [[Comhal]] capital of [[First Aosda]] central of the central continent that made up [[Grinneal]].
 [[Fiosachd|Luathas]] is a thief during those times. He got caught.
 Partner with [[Harlan of River's Bend|Harlan]]
 They knocked out the guard that caught him.

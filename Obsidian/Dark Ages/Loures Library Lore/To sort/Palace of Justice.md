@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 According to [[Huhuman, "The Children of Grinneal"]]:
 - One of the two most important buildings in [[Comhal]], "built at the dawn of the [[Second Aeon]]"
 - Situated opposite to the [[University]]

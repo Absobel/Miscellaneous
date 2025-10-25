@@ -1,7 +1,10 @@
+---
+dg-publish: true
+---
 God of:
 - Destruction
 - Decay
-Shrine at the [[Castle of the Dubhaimid]]
+Shrine at the [[Dubhaim Castle]]
   
 Ally of:
 - [[Ceannlaidir]]

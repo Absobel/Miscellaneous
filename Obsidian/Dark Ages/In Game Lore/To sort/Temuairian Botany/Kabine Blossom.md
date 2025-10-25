@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Kabine Blossom.png]]
 
 From [[Temuairian Botany Book]]:

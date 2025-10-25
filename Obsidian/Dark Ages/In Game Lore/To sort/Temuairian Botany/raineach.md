@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[raineach.png]]
 From [[Temuairian Botany Book]]:
 > A particular fern is found in the [[East Woodlands|Eastern Woodlands]]. The [[Tuatha de Danaan|tuatha]] called them 'raineach'.

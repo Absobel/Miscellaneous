@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 aliases:
   - Logan
 ---
@@ -18,7 +19,7 @@ Mundane description:
 > [[Luathas]] is the god of gnosis: divine knowledge. [[Luathas]] is worshipped by seekers of lore and arcane knowledge, as well as those trying to make their way, wether lost in the woods, or lost in the hustle of a city's chaos, or lost without a purpose in life.
 > [[Luathas]] was an [[Aosda]] that studied intensely and was touched by [[Danaan]] to study even more.
 
-—————
+### Dialogues
 
 Logan
 [[Wizard]] guide at the [[Temple of Choosing]]
@@ -26,7 +27,10 @@ Logan
 Luathas, the Cap
 [[Quest - Cap of Danaan]]
 
-——— Loures Library ———
+*out loud* "Holy Danaan"
+[[Quest - Danaan Consecration]]
+
+### Loures Library
 
 According to [[Huhuman, "The Children of Grinneal"]]:
 - Previously named Finach

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Ill-Star Flower.png]]
 
 From [[Temuairian Botany Book]]:

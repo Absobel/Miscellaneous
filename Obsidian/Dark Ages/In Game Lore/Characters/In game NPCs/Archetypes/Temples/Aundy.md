@@ -1,1 +1,0 @@
-[[Acolyte]] of [[Fiosachd]]'s temple

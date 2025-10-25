@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - [[Loures Castle]]
 - [[Loures 1 Floor Corridor]]

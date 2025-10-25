@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Gudny]]
 "New Dress Daily Quest"
 > Hello there [[Aislings|Aisling]]! You are very well dressed. Don't you think my clothes are rather plain?

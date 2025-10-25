@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
  ## The Book of the Black Cow
 
 [[First Aosda|Aosdan]] Mythology of the [[Second Aeon|2nd Aeon]]
@@ -13,7 +16,7 @@ _It has long seemed surprising to me that a part of our history which plays such
 
 _Until recently, our entire knowledge of Aosda has come via the oral tradition of the descendents of the [[Tuatha de Danaan|Tuatha Dé Danaan]] (who found the Aosdan civilisation already in ruins when they arrived in [[Temuair]] from the North ~={orange}(Kadath?)=~), and from the writings of [[Shamshiel]], who shocked us all with his descriptions of the Aosdan attempts to control [[Dreamspace]]._
 
-_But Shamshiel lived and wrote of the time of the ending of the second Aeon and the beginning of the [[Third Aeon|third]]. What of the period before this? What was life like for the Aosdans in the around the 10000th Grinneal?_
+_But Shamshiel lived and wrote of the time of the ending of the second Aeon and the beginning of the [[Third Aeon|third]]. What of the period before this? What was life like for the Aosdans in the around the 10000th [[Grinneal Era|Grinneal]]?_
 
 _During my last visit to our wonderful [[Loures Castle Library|Library in Loures]], I found [[Blaise]] in a state of near hysterical delight. During the recent tunneling in the [[Pravat Cave|Pravat Caves]] under the mountains between [[Mileth]] and [[Piet]], a bound vellum of blackened cow hide was discovered and retrieved for [[Loures]]! Upon the skins are written what appears to be a poetic epic concerning the Aosdan discovery of the [[Earth-Sea Gods]]. We have named this manuscript [[The Book of the Black Cow|the Book of the Black Cow]]. It seems likely that this is the earliest Aosdan writing as yet discovered. Using their arts, our wizards have dated it at around 21000 years old - near the end of the 2nd Aeon. What magick could have preserved it this long! Did the gods always mean for it to be discovered now?_
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Or "Children of [[Danaan]]"
 
 [[Humanity|Humans]] servants of [[Danaan]] ~={orange}(very probably same processus as the Aisling spark)=~

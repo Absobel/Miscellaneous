@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - [[Loures 1 Floor Hall]]
 - [[Loures 2 Floor Empty Room 1]]

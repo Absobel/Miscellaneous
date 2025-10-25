@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Connected to:
 - [[Muisir Village]]
 - [[Undine|Undine Village]]

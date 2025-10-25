@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[Cactus Flower.png]]
 
 From [[Temuairian Botany Book]]:
