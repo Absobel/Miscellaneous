@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+if [ $# -eq 0 ]; then
+  echo "Usage: $(basename "$0") <folder> [> output.md]" >&2
+  echo "Recursively concatenates all .md files under <folder> to stdout." >&2
+  exit 1
+fi
+find "$1" -type f -name '*.md' -print0 | sort -z | while IFS= read -r -d '' f; do
+  printf '\n\n<!-- %s -->\n\n' "$f"
+  cat "$f"
+done

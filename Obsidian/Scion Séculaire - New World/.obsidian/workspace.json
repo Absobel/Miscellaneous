@@ -1,111 +1,80 @@
 {
   "main": {
-    "id": "62f170d88b69bed1",
+    "id": "9e94ca34d0f4928a",
     "type": "split",
     "children": [
       {
-        "id": "67def110a9412af7",
+        "id": "c09e78717e7d8a7d",
         "type": "tabs",
         "children": [
           {
-            "id": "b483f3f28d396e52",
+            "id": "4cb38062bec1d795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Incremental Graph Game Idea.md",
+                "file": "PNJs/Laïr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incremental Graph Game Idea"
+              "title": "Laïr"
             }
           },
           {
-            "id": "e1065b294d3e37e5",
+            "id": "3349fb0790045dc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Formal Logic Puzzle Game Idea.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Le Téméraire.png"
               },
-              "icon": "lucide-file",
-              "title": "Formal Logic Puzzle Game Idea"
+              "icon": "lucide-image",
+              "title": "Le Téméraire"
             }
           },
           {
-            "id": "647ce5e9f08bd2df",
+            "id": "b9dcc361dd4e6fcc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Infinite Dimensions Game Idea.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Scion.png"
               },
-              "icon": "lucide-file",
-              "title": "Infinite Dimensions Game Idea"
-            }
-          },
-          {
-            "id": "502c8910b1ac0090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Ideas/4th Wall Character.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4th Wall Character"
-            }
-          },
-          {
-            "id": "d0bbfc0fe3b6d303",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Justiciar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Justiciar"
+              "icon": "lucide-image",
+              "title": "Scion"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d1d00dfb7546b156",
+    "id": "9e321d5b07675ce6",
     "type": "split",
     "children": [
       {
-        "id": "17c0b1009838ad63",
+        "id": "6ed06e671ebc5594",
         "type": "tabs",
         "children": [
           {
-            "id": "91d558d16a719b85",
+            "id": "8b9be57aff9bc8c7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "88f34317ceff5840",
+            "id": "f077530d7b5e7de7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -122,11 +91,14 @@
             }
           },
           {
-            "id": "bd818748a74b67a1",
+            "id": "a46e2aa653c06c0b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -138,20 +110,20 @@
     "width": 300
   },
   "right": {
-    "id": "d14858bb5dc9e09a",
+    "id": "b9d90f276c7a4d27",
     "type": "split",
     "children": [
       {
-        "id": "1cc395b506975155",
+        "id": "1e50c463ebf85aa3",
         "type": "tabs",
         "children": [
           {
-            "id": "88fc06175b77de91",
+            "id": "b869bb264b926d8c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Incremental Graph Game Idea.md",
+                "file": "PNJs/Laïr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,25 +133,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Incremental Graph Game Idea"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "0f8e57bc6d27cef4",
+            "id": "aad322f415c853e8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Incremental Graph Game Idea.md",
+                "file": "PNJs/Laïr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Incremental Graph Game Idea"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "cd93a0973970a82d",
+            "id": "6534b50df8859fd3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -194,18 +166,32 @@
             }
           },
           {
-            "id": "958d04dcc0b2ebfc",
+            "id": "7dd5887e929be7a2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7cb81db193602bbf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Incremental Graph Game Idea.md",
+                "file": "PNJs/Laïr.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Incremental Graph Game Idea"
+              "title": "Outline"
             }
           }
         ]
@@ -217,23 +203,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d0bbfc0fe3b6d303",
+  "active": "4cb38062bec1d795",
   "lastOpenFiles": [
-    "Sorcerer.md",
-    "Justiciar.md",
-    "Game Ideas/Infinite Dimensions.md",
-    "Game Ideas/Incremental Graph.md",
-    "Game Ideas/Formal Logic Puzzle.md",
-    "Game Ideas/4th Wall Character.md",
-    "Game Ideas"
+    "Assets/Croquis du Téméraire.png",
+    "Assets/Le Téméraire.png",
+    "Notes Sessions/Session 0.md",
+    "PNJs/Laïr.md",
+    "Enemies/Celeste/Libellule.md",
+    "Assets/Scion.png",
+    "Notes Globales.md",
+    "tmp.md",
+    "tmp2.md",
+    "Enemies/Celeste/libellules metal vivant.md",
+    "Enemies/Celeste",
+    "Enemies",
+    "tmp",
+    "combined.md",
+    "Assets",
+    "PNJs",
+    "Notes Sessions"
   ]
 }

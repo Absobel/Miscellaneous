@@ -1,111 +1,67 @@
 {
   "main": {
-    "id": "62f170d88b69bed1",
+    "id": "f34e3a09c1a2bc08",
     "type": "split",
     "children": [
       {
-        "id": "67def110a9412af7",
+        "id": "c9d5f6710babed48",
         "type": "tabs",
         "children": [
           {
-            "id": "b483f3f28d396e52",
+            "id": "63397cf8e3ab7d09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Incremental Graph Game Idea.md",
+                "file": "Chronologie/Époque moderne/Années 2010.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incremental Graph Game Idea"
+              "title": "Années 2010"
             }
           },
           {
-            "id": "e1065b294d3e37e5",
+            "id": "4c1d151144bb95d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Formal Logic Puzzle Game Idea.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.12.7"
               },
-              "icon": "lucide-file",
-              "title": "Formal Logic Puzzle Game Idea"
-            }
-          },
-          {
-            "id": "647ce5e9f08bd2df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infinite Dimensions Game Idea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Infinite Dimensions Game Idea"
-            }
-          },
-          {
-            "id": "502c8910b1ac0090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Ideas/4th Wall Character.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4th Wall Character"
-            }
-          },
-          {
-            "id": "d0bbfc0fe3b6d303",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Justiciar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Justiciar"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d1d00dfb7546b156",
+    "id": "5d24d62c2897f7fd",
     "type": "split",
     "children": [
       {
-        "id": "17c0b1009838ad63",
+        "id": "268183cb8a6cf81d",
         "type": "tabs",
         "children": [
           {
-            "id": "91d558d16a719b85",
+            "id": "784a7e6b588b9b60",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "88f34317ceff5840",
+            "id": "e18597e100ca2139",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -122,7 +78,7 @@
             }
           },
           {
-            "id": "bd818748a74b67a1",
+            "id": "14ec1bea0ff09b16",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -138,20 +94,20 @@
     "width": 300
   },
   "right": {
-    "id": "d14858bb5dc9e09a",
+    "id": "42592c778a76fb88",
     "type": "split",
     "children": [
       {
-        "id": "1cc395b506975155",
+        "id": "b45cc281c5d696ab",
         "type": "tabs",
         "children": [
           {
-            "id": "88fc06175b77de91",
+            "id": "f0953f47326b587a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Incremental Graph Game Idea.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,25 +117,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Incremental Graph Game Idea"
+              "title": "Backlinks for Plan"
             }
           },
           {
-            "id": "0f8e57bc6d27cef4",
+            "id": "bf407ae38ff2e391",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Incremental Graph Game Idea.md",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Incremental Graph Game Idea"
+              "title": "Outgoing links from Plan"
             }
           },
           {
-            "id": "cd93a0973970a82d",
+            "id": "16b2abfce0e3ce2d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -194,18 +150,32 @@
             }
           },
           {
-            "id": "958d04dcc0b2ebfc",
+            "id": "f5f72613904be17a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "85f47476a7b90c12",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Incremental Graph Game Idea.md",
+                "file": "Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Incremental Graph Game Idea"
+              "title": "Outline of Plan"
             }
           }
         ]
@@ -217,23 +187,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "d0bbfc0fe3b6d303",
+  "active": "4c1d151144bb95d2",
   "lastOpenFiles": [
-    "Sorcerer.md",
-    "Justiciar.md",
-    "Game Ideas/Infinite Dimensions.md",
-    "Game Ideas/Incremental Graph.md",
-    "Game Ideas/Formal Logic Puzzle.md",
-    "Game Ideas/4th Wall Character.md",
-    "Game Ideas"
+    "Chronologie/Époque moderne/Années 2000.md",
+    "Chronologie/Époque moderne/Années 2010.md",
+    "Chronologie/Chronologie détaillée.md",
+    "Sources/À annoter/L'école du Milieu.md",
+    "Sources/À annoter",
+    "Questions aux MJ.md",
+    "Sources/RP",
+    "Sources/Gazette du Sorcier",
+    "Sources",
+    "À trier",
+    "Chronologie/Époque moderne",
+    "Chronologie/Les 30 merveilleuses",
+    "Chronologie/Années/Untitled",
+    "Chronologie/Années",
+    "Chronologie",
+    "Plan.md"
   ]
 }
