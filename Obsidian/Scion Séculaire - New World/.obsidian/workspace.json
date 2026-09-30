@@ -8,12 +8,26 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c53d2396eb25bce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes Sessions/Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1"
+            }
+          },
+          {
             "id": "4cb38062bec1d795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNJs/Laïr.md",
+                "file": "Personnages/Laïr.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,27 +36,45 @@
             }
           },
           {
-            "id": "3349fb0790045dc5",
+            "id": "cf3fc36f7a3ccb72",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Le Téméraire.png"
+                "file": "Endroits/Niveaux/Niveaux.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Le Téméraire"
+              "icon": "lucide-file",
+              "title": "Niveaux"
             }
           },
           {
-            "id": "b9dcc361dd4e6fcc",
+            "id": "eae9500d2fd1d026",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Scion.png"
+                "file": "Personnages/Joueurs/Joueurs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Scion"
+              "icon": "lucide-file",
+              "title": "Joueurs"
+            }
+          },
+          {
+            "id": "046388035f7b93a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personnages/Xavier Brault.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Xavier Brault"
             }
           }
         ]
@@ -107,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.07890701293945
   },
   "right": {
     "id": "b9d90f276c7a4d27",
@@ -123,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNJs/Laïr.md",
+                "file": "Notes Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,13 +217,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNJs/Laïr.md",
+                "file": "Notes Sessions/Session 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
+            }
+          },
+          {
+            "id": "5ea3fb49f895f861",
+            "type": "leaf",
+            "state": {
+              "type": "vault-full-statistics-view",
+              "state": {},
+              "icon": "bar-chart",
+              "title": "Vault statistics"
             }
           }
         ]
@@ -211,27 +253,46 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "vault-full-statistics:Open vault statistics": false
     }
   },
-  "active": "4cb38062bec1d795",
+  "active": "c53d2396eb25bce0",
   "lastOpenFiles": [
-    "Assets/Croquis du Téméraire.png",
-    "Assets/Le Téméraire.png",
-    "Notes Sessions/Session 0.md",
-    "PNJs/Laïr.md",
-    "Enemies/Celeste/Libellule.md",
-    "Assets/Scion.png",
     "Notes Globales.md",
+    "Notes Sessions/Session 1.md",
+    "Endroits/Niveaux/Niveaux.md",
+    "Personnages/Xavier Brault.md",
+    "Notes Sessions/Session 1.5 (Blanqui).md",
+    "Personnages/Olympe Mone.md",
+    "Endroits/Niveaux/10ème.md",
+    "Personnages/Jeremy PoingDeFer.md",
+    "Personnages/Victoria Lapâtre.md",
+    "Assets/Scion.png",
+    "Personnages/Laïr.md",
+    "Personnages/Joueurs/Joueurs.md",
+    "Notes Sessions/Session 0.md",
+    "Endroits/Niveaux/1er.md",
+    "Assets/Le Téméraire.png",
+    "Assets/Croquis du Téméraire.png",
+    "Assets",
+    "Personnages/Alex Lacoulant.md",
     "tmp.md",
+    "tmp.mf",
+    "Personnages/Morts",
+    "Personnages/Joueurs",
+    "Endroits/Niveaux/8ème.md",
+    "Endroits/Niveaux",
+    "Endroits/Scion.md",
+    "Cité Céleste.md",
+    "Enemies/Celeste/Libellule.md",
+    "Endroits",
     "tmp2.md",
     "Enemies/Celeste/libellules metal vivant.md",
     "Enemies/Celeste",
     "Enemies",
     "tmp",
     "combined.md",
-    "Assets",
-    "PNJs",
-    "Notes Sessions"
+    "Personnages"
   ]
 }

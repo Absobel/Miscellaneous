@@ -1,4 +1,8 @@
-> Vous faites partie d'une société qui vit dans les cieux dans des vaisseaux à vapeur. Personne n'a jamais vu le sol depuis des siècles, la légende raconte que la surface est inhabitable. Certains parlent d'une guerre dévastatrice, d'autres de l'invasion des enfers causant la destruction totale de toute vie. En tout cas, la plupart d'entre eux sont tous bien heureux de rester dans les vaisseaux colonies, bien au chaud. Pas tous, cependant. Un homme, [[Laïr]], ne rêve que d'une chose, c'est d'explorer les cieux, à défaut de pouvoir explorer la terre. Pour ça, il cherche des volontaires pour l'aider dans son aventure. Vous êtes ceux qui ont accepté.
+---
+tags:
+  - meta
+---
+> Vous faites partie d'une [[Marins des cieux|société qui vit dans les cieux]] dans des vaisseaux à vapeur. Personne n'a jamais vu le sol depuis des siècles, la légende raconte que la surface est inhabitable. Certains parlent d'une guerre dévastatrice, d'autres de l'invasion des enfers causant la destruction totale de toute vie. En tout cas, la plupart d'entre eux sont tous bien heureux de rester dans les vaisseaux colonies, bien au chaud. Pas tous, cependant. Un homme, [[Laïr]], ne rêve que d'une chose, c'est d'explorer les cieux, à défaut de pouvoir explorer la terre. Pour ça, il cherche des volontaires pour l'aider dans son aventure. Vous êtes ceux qui ont accepté.
 
 -------
 

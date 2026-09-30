@@ -1,0 +1,1718 @@
+
+
+<!-- ./Obsidian/Arzu/Lore/Arzu.md -->
+
+L'univers
+
+<!-- ./Obsidian/Arzu/Lore/Characters/Nera.md -->
+
+une des [[Dieux]], des facéties et des pranks, patronne des peuples des [[Eladrin]] et des [[Fées]], ayant décidé de rester sur [[Féerie]] au lieu de les abandonner pour retourner sur [[Plan de Nera|son plan]] durant le [[Crépuscule des Dieux]].
+De ses derniers pouvoirs elle a donnée "l'immortalité" (leurs âmes au lieu de partir dans la [[Fabrique]] restent et deviennent une sorte d'esprit de la forêt ou whatever) à ses peuples (also ils vivent genre des milliers d'années) et autre chose i forgot
+
+Ensuite elle est parti s'aventurer et vivre sa vie, revenant de temps en temps pour raconter des histoires.
+
+<!-- ./Obsidian/Arzu/Lore/Characters/PJ/Arryn Skemfar.md -->
+
+
+
+<!-- ./Obsidian/Arzu/Lore/Characters/PJ/Caladrel.md -->
+
+Roublard
+Giga mythomane 
+
+<!-- ./Obsidian/Arzu/Lore/Characters/PJ/Orchidée.md -->
+
+Jeune [[Fées]] vivant dans [[La Capitale (nom temporaire)]], fille d'une famille de bourgeois très à fond dans la tradition de [[Nera]] et dans les facéties etc, et très vocaux dans leur combat contre le sérieux des autres.
+
+Elle, en ayant marre des conflits, s'est souvent retrouvée à s'amuser ailleurs, sans vouloir s'impliquer dans ces trucs d'adultes là. Elle s'est retrouvée très pote avec [[Arryn Skemfar]].
+
+Elle est également très à fond dans les légendes de la [[Féerie]] et de [[Nera]], et veut vraiment en savoir plus, voire même trouver un moyen de rentrer. Du coup elle a souven voulu explorer et peut-être, idée caché dans les recoins de son cerveau, aller à l'extérieur de [[La Grande Forêt]] ? Elle est allée au plus loin au bord de la forêt avant de revenir, sans oser aller plus loin. Jusqu'à ce qu'elle entende parler de [[Mission Principale|cette demande]] du [[nouveau Roi]] ce qu'elle s'empressa de suivre pour aller explorer l'extérieur
+
+<!-- ./Obsidian/Arzu/Lore/Characters/PJ/Ylliana.md -->
+
+
+
+<!-- ./Obsidian/Arzu/Lore/Elfes.md -->
+
+Peuple comprenant les [[Fées]] et [[Eladrin]] qui se sont fait [[Event Tp Elfe|tp]] de la [[Féerie]]. Leur timespan se sont faites vachement réduire (700 pour les [[Eladrin]], 300 pour les [[Fées]]) et ils ont perdu leur "immortalité" de leur perte de contact avec [[Nera]].
+
+<!-- ./Obsidian/Arzu/Lore/Fabrique.md -->
+
+Plan en 2d principal d'[[Arzu]]
+Contient :
+- Les domaines des Dieux
+- Trois plans matériels (points de la fabrique avec trois dimensions d'espace)
+	- [[Féerie]]
+	- [[La Grande Forêt]]
+	- [[Gisombre]]
+
+### Histoire
+
+Au début état instable chaque point de la fabrique énormément de matière
+Sans aucune raison perturbation et donc créations de points avec 3d : colline (--> [[Dieux]]) et depression (--> plans matériels)'"
+
+<!-- ./Obsidian/Arzu/Lore/Faelior.md -->
+
+Royaume des [[Elfes]] construit par ceux qui se sont fait [[Event Tp Elfe|spawn]] et par leur descendants. Comprend toute la forêt principale de spawn. C'est une monarchie (ou s'en est devenue une au fur et à mesure)
+
+Roi connus :
+- [[Ancien Roi]]
+- [[nouveau Roi]]
+
+<!-- ./Obsidian/Arzu/Lore/Féerie.md -->
+
+Un des plans de la [[Fabrique]]. 
+Au début avait plein de races, mais seuls les [[Eladrin]] et les [[Fées]] qui suivaient [[Nera]] (donc facétieux et qui s'en foutaient des guerres) sont restés trql, (aussi parce qu'après le [[Crépuscule des Dieux]] bah y'avait plus personne pour les faire tenir).
+
+### Description :
+Forêt magique vibe crépuscule fin d'après midi
+
+<!-- ./Obsidian/Arzu/Lore/Gisombre.md -->
+
+Plan shadowfell sombre et tout. On connait pas beaucoup sur ce plan
+
+<!-- ./Obsidian/Arzu/Lore/La Grande Forêt.md -->
+
+Plan de base.
+Uniquement connu comme ça par les [[Elfes]] qui se sont [[Event Tp Elfe|fait téléporter]] parce qu'ils sont tombé dans [[Faelior|ce qui deviendra Faelior]] et c'est juste une forêt. Au bout d'un moment ils sont arrivés à voir qu'il y avait autre chose, genre on voit des collines ou quoi mais si des gens sont sortis ils sont jamais revenus.
+
+C'est aussi juste le nom de la forêt.
+
+Royaume : [[Faelior]]
+
+<!-- ./Obsidian/Arzu/Sessions/Session 1.md -->
+
+Pre campagne : une semaine de brief, une semaine de voyage jusqu'à la frontière.
+On avance vers l'est, vers les collines.
+On croise des avants postes elfes
+On s'approche du dernier, celui à la frontière. On doit récupérer nos ordres pour notre aventure. Il est un peu plus grand que les autres, plus fortifié et tout. Y'a deux gardes qui se font chier à l'entrée. Un des gardes nous remarque, il nous fait la procédure et nous demande qui va là. Il trouve qu'on a été rapide, le capitaine est pas prêt mais il nous dit de se poser à l'intérieur pour préparer.
+Ils ont pas l'air d'être des soldats très entraînés. Ils ont une routine.
+
+Le capitaine arrive, il a des reliures dorées sur son armure. il nous accueille et est 1m80 donc grand pour nous (1m72 max). Ça se voit qu'il est pas prêt et qu'il s'attendait pas à notre arrivée. 
+"Bonjour, oui oui on m'a dit vous êtes les aventuriers qui vont explorer, vous êtes un peu en avance mais c'est pas très grave, juste expliquez moi ce qu'on vous a dit et je compléterai"
+Orchidée explique. Il complète vite fait en disant que le but principal est de voir si les collines sont habitables.
+il donne une pierre un peu grise avec un joyau rouge à l'intérieur, elle communique une seule fois et à lui donc il faut attendre d'avoir fini d'explorer les collines de l'ouest et voir si elles sont aptes d'accueillir les civilisations elfes.
+Orchidée lui demande s'il a vu autre chose que des animaux à leur poste. Il répond qu'à part des loups ils ont vu des créatures volantes mais idk si gros créatures ou petites loin.
+Caladrel demande si y'a eu des entrées dans la forêt mais non. Enfin rien à  notre connaissance, tout porte à croire qu'il n'y a rien et que ce monde est vide.
+Orchidée a précisé l'importance de la deuxième mission pour elle à Arryn et au reste du groupe.
+On a des rations pour le début de notre voyage.
+On les prends et sans plus d'attente (on est le matin) on s'en va, au bord de la forêt (une bonne heure avant d'être hors forêt).
+
+Une grande plaine et à une dizaine de km. Orchidée regarde derrière pour marquer le coup, puis le groupe se concentrent sur les collines. Jet de perception. Caladrel très concentré sur quel mensonge dire en plus. Nous autre on observe juste des collines et Yllana voit deux points qui bougent, très probablement des créatures mais aucune idée. La taille des collines est difficile à dire.
+
+On s'avance vers les collines, pendant les dix km de trajet, Arryn regarde le ciel par curiosité et ne voit pas de choses volantes mais qu'il y a beaucoup de nuages qui s'accumulent au nord et les nuages ont l'air un peu bizarre, mais ils se dirigent vers le nord. On voit bien la chaine de montagne au nord à une 100aine de km
+
+On arrive au départ des collines après une bonne heure, Yllana entend au loin à plusieurs km des hurlements de loup.
+La végétation est la même, y'a juste des petits bosquets de 100m de diamètre ou quoi, truc du genre. Partie non bosquet similaire à avant. Devant les collines, on voit bien 200m de haut les premières.
+On monte la colline où Yllana avait vu des choses vu que c'est une des premières devant. On a une très belle vue sur la plus grande partie des collines. Y'a un paquet de collines plus grande mais beaucoup plus petites, on voit sur 30km. On voit des bosquets un peu partout.
+
+Je demande c'est quoi le plan. Avec ma sagesse, le critère qu'ils ont osus entendu c'est si on revient ou pas. On sait pas combien de temps ça nous prendra.
+Je propose de poser la deadline de la mission a une semaine
+Caladrel remarque 3/4fois plus grand bosquet beaucoup à l'est un peu au sud. Il remarque aussi sur un des collines un truc qui vole au dessus d'une colline, qui semble tourner autour de quelque chose. Il tourne autour d'une colline trois ou quatre km derrière la colline en fait, c'est un gros oiseau donc.
+Je propose au moins pour le premier jour de surtout s'enfoncer vers l'est. On rentre dans le premier bosquet pour voir, 50m de large. Certains voient sur leur droite une créature qui leur est familière mais avac une forme différente, un snaglier mais étrange, il semble plus petit. Il a quelques bébés avec lui et semble pas chercher de confrontation. La flore est totalement différente que celle de la forêt. C'est comme si la flore de notre forêt était venue avec vous ou au moins était peu naturelle. On peut supposer qu'on a ramené des graines ou en tout cas on a influencé avec de la magie.
+
+On est en fin d'été. Le nouveau roi est arrivé en début d'été.
+Le soleil se couche tard mais on est en fin de journée et on s'approche du grande bosquet. On sent nos jambes ou ailes commencer à souffrir parce qu'on est pas habitué à ce relief. On s'approche en bord de forêt parce que j'ai mentionné vouloir dormir en forêt. Je prédit une chaleur et une petite brise pour le lendemain. On fait un feu, pour éloigner les bêtes sauvages et parce que c'est pratique. J'essaie de checker la flore mais rien de particulier, juste très différentes. On se pose la question de trouver de la nourriture mais au moins la faune est très similaire. Yllana trouver des traces d'animaux, il y en a dans la forêt. On voit plus si y'a le gros oiseau au loin.
+On fait des gardes :
+Orchidée
+Arryn
+Yllana
+Caladrel
+
+Durant le tour de garde d'Orchidée, je vois deux yeux dans un des buissons, de yeux qui reluisent grâce à la lune. Il a l'air de s'arrêter sous mon regard. Après cinq minutes de regard, je l'entend détaler. Je préviens Arryn au changement de garde, il ne se passe rien du reste de la nuit.
+Yllana essaie de trouver les traces de la créature, je suggère qu'on essaie de savoir quel est l'animal en question. Elles semblent longer le bord du bosquer. Caladrel veut que l'on laisse le moins de trace possible.
+On suit les traces qui longent le bosquet ça entre à l'intérieur. On marche bien 500m et on arrive devant qqch de surprenant : des ruines d'un ancien bâtiment en pierre qui ont l'air assez vieux. C'est des ruines d'un bâtiment qui semble vraiment détruit et un autre bâtiment qui semble vraiment plus grand avec les étages du dessus détruits. Ils sont connectés. Alors que je rentre dans le bâtiment, je sens qqch à ma droite et je vois qu'un loup a essayé de m'attaquer mais a raté.
+
+Combat. Un loup sort de l'autre battiment, et un troisième loup plus gros que les autres arrive à notre gauche.
+(le plus gros loup s'est un peu fait cramer et couper la gorge, le deuxième écrasé par moi de manière stylée, le troisième ont fuit). On décide de prendre le loup pour bouffer, enfin ce qu'on peut. 
+J'explore avec Arryn le petit batiment, maybe c'était une habitation avant, mais on sait pas pourquoi.
+
+Les deux autres vont dans l'autrz batiment, il voit des restes de grosses tables en pierre. Il remarque que sur une des tables y'a une gravure. Il sait pas pourquoi cette table es tmieux conservée qu'avant. La gravure ressemble fortement à une carte : un carré avec au milieu une croix, à l'ouset, une délimitation, à l'est une autre délimitation, dans une certaine direction à l'est, y'a quelque chose d'écrit, on sait pas lire ça cependant. Au sud y'a une flèche qui semble pointer vers l'extérieur de la cartes avec d'autres écritures. Je prend en dessin la carte. On trouve pas d'autres bâtiments dans le reste du bosquet. Les animaux si y'en a on les a pas vus.
+
+Alors qu'on continue vers l'est on finit par apercevoir, sur une des collines plus haute que les autres, ce qui semble être la fin des collines, en tout cas vers l'est au bout de l'horizon. On continue vers l'est, on a pas revu le gros oiseau. On continue à marcher pendant une trentaine de km. On finit par apercevoir, dans le front d'une des collines devant nous, ce qui semble être une autre ruine (on est le soir). Une ruine, enfin une porte vers quelque chose dans la colline.
+
+Alors qu'on est à une centaine de mètres des ruines, onpeut bien les apercevoir, c'est bien détruit, on voit deux pilliers sur le haut : des sortes de dessin. À nos pieds, on voit une ombre, on voit l'oiseau au dessus de nous. À 50m des ruines, l'oiseau se rend compte de ce qu'on veut faire et nous fonce dessus.
+
+Combat.
+Au dessus de nous y'a deux autres oiseaux sensiblement gros et sensiblement plus énervés.
+Deuxième combat.
+
+Je me retrouve très mal ça me prend un coup dans ce que je pensais être qqch de facile. je vois que mon groupe ne s'intéresse pas trop à mon état. 
+On va à l'entrée de la grotte et on voit un couloir qui bifurque au bout de 10m.
+On mange du loup (l'oiseau lamentablement raté).
+
+Arryn voit une salle avec des gravures, il le mentionne on y va tous mas mois en premier. la salle est rectangulaire allongée avec une ouverture au fond à droite. On voit sur les gravures des créatures humanoïdes, avec des armes, des armures, ou pas. On voit que sur les créatures qu'il y a des marques en gravé très fort. C'est des créatures massives en terme de proportion, stock. Sur le mur de gauche il y a quatre petites gravures qui ont eu beaucoup plus de soin à dessiner et qui semblent être mieux conservée que les autres, c'est difficile à dire mais elles ont l'air en meilleur état. C'est petites gravures sont des scènes. La première : une créature avec ce qui semble être un éclair lui passer à travers le corps et les mêmes marques que les autres créatures. La deuxième : même créatures mais sans marques. La troisième : trois créatures prosternées sans marques devant le symbole d'éclair. Le dernier : les mêmes créatures en armure et en arme avec les marques. On a pas eu connaissances d'autres dieux (que les autres elfes ont suivi parfois) liés à la foudre.
+
+On se repose, je garde ma dignité et refuse la proposition d'Arryn de prendre le dernier tour de garde. On écoute une histoire de Caladrel
+
+Il ne se passe rien durant la nuit mais Caladrel a un mauvais feeling . Je propose qu'on se repose plus mais il dit que c'était bon. On décide d'appeler les gros oiseaux des aigriffons. Dans la nouvelle salle après on voit juste une porte en pierre avec une écriture. Dans le mur à gauche y'a des renfoncements carrés, 3cm. Arryn appuie dessus, il enlève sa main directement parce qu'il sent qu'il y a une source magique. Il sent la même chose sur tous les renfoncements. 4 renfoncements. En revenant dans la pièce d'avant on voit que les quatre gravures peuvent se reprendre. mais elle peuvent se recoller comme un aimant. On fait ordre 2 3 1 4. ça me met une décharge, on fait de droite à gauche ça marche (la porte en arche coulisse vers la droite) et y'a un couloir avec une pièce au fond. Sur les murs de ce couloir y'a pleeein d'inscriptions genre explication de lore. Au fond du couloir on voit les débris de cailloux qui montrent que ça a explosé. 
+On arrive dans la pièce suivante, elle est sombre et aussi grande que la première salle, demi sphérique, au fond de cette pièce il y a une table, plus propre que les autres. Sur la table il y a des gravures. Derrière l'autel, je vois qu'il y a un squelette, pas elfique. Du squelette apparaît une forme spectrale qui me saute dessus. Le squelette qui portait également une armure et une lance se lève aussi. (Lore : la nécromancie c'est mal vu, mais pas tabou non plus)
+
+Troisième combat (omg stop) (les flèches contre l'armure semblent la traverser, et les sorts lui font rien)
+
+l'armure a disparue à la fin
+
+<!-- ./Obsidian/Arzu/Sessions/Session 2.md -->
+
+Après le combat je reprend mon examen de l'autel au fond de la salle. Y'a des fioritures belles gravures et tout. Ça a l'air d'avoir pris du temps à faire. On voit des textes qui semblent avoir la même langage
+
+Yllana examine le squelette mais on ne reconnait le squelette de rien. Il a l'air assez grand cependant, 1m85/90
+
+Arryn vient me voir de mon côté parce que je check un peu toute seule, et il vient me demander si j'ai besoin d'aide, et je lui dit juste que ça va, et que j'aime bien ces genres de truc et qu'ils devrait juste continuer à faire des trucs avec les autres ou quoi
+
+Caladrel voit que dans le squelette y'avait unporte clef acchrochée à la hance avec une bourse qui avait une clef. Caladrel trouve ensuite une serrure derrière l'autel. On allait l'ouvrir mais Arryn évoque que ça pourrait être dangereux, je me propose donc vu qu'ils sont à distance ils se mettent de loin. J'ouvre, le tiroir, y'a un anneau avec un topaz dessus. Je ressens une énergie magique dessus et ne voulant pas me faire zap je le met pas et je dis que ça pourrait ptetr être dangereux. Caladrel commence à dire que c'est un anneaux de moine du Soleil mais je l'écoute qu'à moitié parce que pas l'humeur de lui faire plaisir
+
+On décide de continuer jusqu'au bout des collines (on voit pas de griffons dans le ciel). Par contre on voit un nuage très noir (celui de la dernière fois avait vraiment une vibe brrr mais pas lui). On continue jusqu'à des collines qui sont plus hautes qu'avant.  On voit un lac qui se recourbe à gauche et continue tout droit à droite. Il est magnifique je suis omnibulée mais Yllana voit un peu plus près au vers la gauche des structures non naturelles. On décide d'y aller même si l'on s'éloigne des collines, parce qu'une source de nourriture de pêche serait intéressante. Caladrel fait semblant qu'il est pas intéressé et qu'il en a pasvu mais il est impressioné.
+
+On approche des structures non naturelles, à 600m, on voit des abris de fortune rudimentaire en troncs, et des gros feux. On continue à s'approcher. On approche les dernières collines. 
+
+Une fois dans les collines y'a des gros brasiers comme on en a quasiment jamais fait dans la forêt. Mais y'a certains rites religieux pour Lathandre l'Aurore dieu du commencement, du début, de la naissance, qui le font mais très peu commun.  Les abris ressemblent à des tipis (poutres avec des restes de tissus en forme vague de triangles mais genre plusieurs poutres). Le bois est relativement traité, enfin désécorcé
+
+On remarque tous des choses :
+- Arryn : le camp est pas grand, pas plus de 10 personnes
+- Caladrel : proche des brasiers, le bois qu'il y a autour n'est ni celui de notre forêt, ni celui des bosquets des collines
+- Yllana : remarque des traces de roues de chariot, qui semble partir vers le sud est, vers le lac
+- Orchidée : je trouve une amulette, avec un symbole que je reconnais : c'est le symbole d'une divinité (très peu vénérée et je l'ai très peu vue) de Hesteph, je sais juste que le symbole m'a marqué parce que je l'ai vu mais que j'ai pu trouver beaucoup plus d'informations dans la frustration. Je l'avais vu aussi sur une amulette dans la ville qui avait été trouvée au coin d'une rue et quelqu'un était venu reprendre.
+
+Yllana voit que de l'autre côté du camp, y'a des traces plus effacées, vieilles, et ça part vers le (enfin vient du) Nord nord nord ouest. Caladrel voit qu'il y a des traces de bois qui a été trainé des anciennes traces aux nouvelles. Le bois pour les huttes c'st le bois d'à côté, mais le bois brulé on le connait pas. Il trouve également un bout de bois, assez long qui a été aiguisé au bout, un piquet pour faire une broche, cuisson.
+
+On décide d'aller dans un bosquet à quelques centaines de mètres. On voit les arbres coupés pour les huttes. Ensuite on examines pour trouver de la nourriture. Pendant ce temps-là, Arryn me demande d'examiner l'anneau, je lui donne en lui disant de faire attention. Il ne trouve rien de plus que moi mais le met plus vite que j'en arrive à l'en empêhcer. Ses cheveux se redressent, l'electrécité dans l'air, comme avant un des gros plus gros orages uen fois dans ma vie (d'hab cinq tous les ans). Il l'enlève ptetr parce que je lui criais de le faire, ptetr parce qu'il l'a senti. Je l'engueule, critiquant son ego de ses pouvoirs, tout ça et je lui reprend l'anneau. (btw je connais aucune croyance en rapport avec l'orage/foudre etc) (les croyances sont arrivées après le tp parce que pas d'influence de Nera même s'ils ont tenté un peu)
+Ensuite tour de garde. Yllana trouve un truc qui ressemble à une tombe. Je pose mes respects, Arryn s'en fout
+
+On continue, les collines s'arrêtent très proche du lac on est à trois km. Je vois le lac, très intéressé par le lac. On voit toujours pas le bout (même si Caladrel, dit voir un bout de terre). On voit également un camp avec palissade, uen vingtaine de personnes, pas vieux (l'autre avait l'air de dater de 6 mois/1 an). On s'approche (à 3km) on voit pas grand chose. On donne la suggestion que je m'avance en volant parce que je ressemblerait à un oiseau. J'observe qu'ils ont un "port" avec des radeaux. Je m'approche de plus en plus par curiosité et fascination, je vois même qu'ils ont l'air poilu (mais de stature autrement comparables à celles des elfes). Je vois pas plus à part qu'un radeau qui part vers maybe ce qui pourrait être une ile ou quelque chose du genre. (Caladrel appelle les créatures des Gnarols)
+
+On décide de pendant le reste de la demi journée explorer les collines. Je cherche en particulier des ruines. On voit une colline plus petite avec une structure dessus, au moment ou je la vois un orage noir et de pluie torride s'active autour. Pragmatiquement pour nos affaires on décide de pas y aller. on fait des tests pour voir si c'est en rapport avec l'anneau ou la présence et genre juste j'ia jamais vu le nuage réapparaître mais ça le fait quand je regarde pas.
+
+Ensuite on revient vers le village. Je vole par dessus en étant invisible. J'essaie de determiner leur niveau de sentience, je vois 8 d'entre eux, un ptetr dans la hutte. Je vois des armes, pas de distance, toujours deux radeaux, ils sont autour d'un feu de camp. Je tente d'utiliser druidisme pour faire du bruit et essayer de voir s'ils sont agressifs sauf que du coup je perds l'invisibilité (je suppose que c'est à cause de l'instabilité de la magie d'Arryn). Je suis un peu paralysé par défaut voir leur réactioin. Y'en a un qui prend une masse et me l'envoie en pleine face. Je me fait valdinguer puis je fuis directement. Ils commencent à nous chercher dans la nuit, on est déjà parti. On décide qu'on a tout vu à leur propos et qu'ils sont agressifs.
+
+Ensuite on pars dans les collines, on dort, puis on va à la ruine, on décide de laisser Arryn avec nos affaires pour pas les mouiller et on y va. Le bruit de l'orage, une fois à l'intérieur, semble venir de plus loin que seulement dans l'étendue ou on a l'orage. On arrive en haut de la colline à une crypte. À l'intérieur : des gravures, un peu de texte, tous concentré sur une personne en particulière, uen créature. La qualité des gravures (par leur érosion mais ua niveau artistique) est beaucoup beaucoup plus élevée ici. Et au centre un tombeau, complètement en pierre sans ouverture supposément. Pendant ce temps-là, Arryn teste l'anneau (que je lui avais donné parce que fuck it), il ressent les mêmes effets mais rien de plus. Il essaie donc de se concentrer pour arrêter la pluie, et un énorme éclair s'écrase à travers les nuages noirs et vient frapper la crypte d'une force immense. On était safe en dessous. Lui se fait très mal à la main et se la bande. Ensuite on repart vers le sud en suivant le lac.
+
+<!-- ./Obsidian/Arzu/Sessions/Session 3.md -->
+
+On va vers le lac pour se baigner. On arrive à une sorte de simili plage en terre. La vision est encore plus particulière, autant en haut des collines on arrive à voir un peu quelque chose, autant là l'horizon est plein d'eau. Arryn et Yllana se baignent, moi je patauge. On se rend globalement compte que l'eau est bel et bien douce (faut dire on avait pas de raiosns de penser aurement). Je note qui faut noter dans le rapport que c'est des terres arables et cultivables.
+
+Arryn observe au loin deux Gnarols sur un radeau. Il voit également qu'un gros serpent sors de l'eau et semble dévorer l'un des deux Gnarols. L'autre Gnarol semble ramer très très vite dans l'autre direction. Penser à noter ça dans le rapport. On continue à longer collines plaine, lorsque la nuit tombe on voit encore des collines au loin. On peut peut-être cependant discerner au loin soit la fin des colines osit les bifurcations des collines. On voit des fois au loin des aigriffons.
+
+On s'arrête au bord d'un bosquet, tours de garde tout ça. Durant notre méditation cependant on va plus se perdre dans nos pensées que d'habitude et on va tous avoir une vision d'une personne, une femme, qui nous regarde d'assez loin, une forêt qui ressemble à notre forêt native mais qui a l'air d'être différente. Ce quelqu'un nous fait bonjour. Elle a une longue robe noir, de sorcier, on a du mal à voir plus.
+
+On continue, on marche pendant quelques heures avant d'arriver aux bifurcations des collines, parce qu'il y a une rivière qui suit la bifurcation des collines. Plutôt large, 100m de large, sensiblement plus grand que ce à quoi on a l'habitude. De l'autre côté il y a une plaine. À l'embouchure il y a une autre ruine, quatre murs en soit, pas grand chose. La plaine de l'autre côté est un peu plus vallonnée, y'a plus de bosquets, une immense prairie. (lore : les cerfs comme monture)
+
+On se dirige vers cette mini ruine, la ruine est de l'autre côté de la rivière, mais au vois que dépassant un peu de l'eau y'a d'autres ruines qui sont sous l'eau. J'y vais en volant pendant que les autres discutent de comment traverser. Je trouve dans ces restes de bâtiments sur le mur un disque en pierre qui est en bien meilleur état que le reste et qui a comme symbole dessus un éclair. Je sens que l'energie qui émane du cercle c'est un type d'energie gentille, pas de violence comme les trucs qui m'ont zappé. Les ruines sous l'eau semblent être un peu mieux conservés. J'y trouve des restes de ce qui semble être une assiette en metal. Je la prend. Au moment ou je sors de l'eau et je regarde au loin dans la plaine, je vois qqch, je vois une silhouette, presque humanoide, qui marche et qui s'éloigne. C'est une opportunité impossible à rater je fonce, mais à un moment 600m le soleil m'éblouit un peu et elle disparait. Je regarde pour voir mais rien, plus rien. La silhouette habits noirs, foncés.
+
+Pendant ce temps-là ils tentent de faire leur radeau, les trois autres, mais je reviens avant qu'ils ait fini. (calendrier : 12 lunes exactement). Quand on est proche de la rivière c'est boueux. 
+En continuant dans les pleines je vois un troupeau d'animaux (Bonzzis), deux randes cornes qui se recourbes, à quare patte avec une longue queue, bovins en apparence (aucun rapport la forêt grande forêt est plutôt lumineuse, moins que dehors mais dans les bosquets bien plus sombre). On continue la rivière commence à bifurquer mais il commence à faire soir.
+On fait le rapport (j'appuie sur le bouton une gemme, un truc arrive du ciel et arrive puis s'en va au loin à la fin) le gars nous dit thanks et ovus pouvez y aller. Le fait que ça soit à usage unique c'est la gemme qui perd l'énergie.
+
+On passe la nuit.
+
+On longe des collines, toute la journée. On croise un endroit de la rivière à guet, et plus loin des Bonzzi. Ylliana bute un bonzzi, puis un autre. on a de quoi bien bouffer comme des rois plus rations
+
+On marche pendant 4 jours. Arryn s'entraine à la magie, Ylliana pêche un poisson, je me concentre énormément pour reflechir sur cette silhouette etc mais rien. Caladrel raconte des hiistoires le soir autour du feu.
+Le troisième jour on est en tran de marcher. Arryn sent quelque chise en lui, sa magie est en train de partir en couille. Il s'éloigne un peu, première décharge de magie, tout le monde disparait, on est invisible. Arryn est en train de regagner des forces. On voit Arryn apparaitre par ailleurs. Des créatures bizarres sortent  du corps de Arryn, elles commencent à s'éloigner. Ylliana et Caladrel  réaparaissent. Arryn se transforme en plante en pot il est terrifié par Caladrel. je réparait et Arryn se détransforme, il s'enfuit en courant de Caladrel. On entend une douce musique qui semble émaner de lui. Et on le voit rapetir de 40 cm.
+
+Au bout des 4 jours devant nous on peut presque apercevoir des collines mais quand même vachement plus grosses, mais grande grande collines, et partout il semble y avoir des bouts de terre qui vole au dessus du sol, un peu éparpillée des iles flottantes. On monte dans la première colline/montagne pour atteindre l'ile flottante. Au moment d'arriver pas loin on ressent tous quelque chose et une énergie s'empare littéralement de nous et on lévite, on s'élève. Au dessus de la sol de plus en plus loin de la montagne (je peux plus voler moi) et on arrive au dessus d'une ile et ça nous lâche. Y'a quelques petits arbres. Et on vooit une grande partie de la région. Sur les autres iles y'a l'air d'avoir des petites structures. Y'a des iles flottantes plus grandes et plus hautes. Une des iles y'a une cascade qui tombe 350m. On est à 500m de haut. Le biome c'est des grosses collines montagne qui entourent des collines plus basses, les iles flottantes sont dans le cercle.
+
+J'essaie de m'envoler à l'extérieur vers une ile plus basse et ça me transporte à un moment magiquement versl'ile. Sur cette ile y'a un masque magique pas agressif.
+
+<!-- ./Obsidian/Arzu/Sessions/Session 4.md -->
+
+Caladrel met le masque. Il tourne la tête et il voit qu'entre toutes les îles y'a des cylindres un peu flous qui vont d'ile en ile, des conduits. Les conduits sont vraimnet pas les chemins les plus courts, ça va dans tous les sens. Y tente de voir ceux qui vont le plus haut. Mais y'a l'air d'avoir une certaine portée à l'artefact.
+Y voit un conduit vers une ile à 70 m en hauteur au nord, une ile de transition minuscule.  On y va, Caladrel pousse Arryn dans le tunnel pour le faire flipper
+On ressent que cet endroit est plein de magie. Caladrel avec le masque ressent que c'est meme que la magie "tait extrêmement puissante avant et que c'est des restes. 
+On voit les immenses collines qui s'm  juste qu'à l'horizon, boisée, on voit pas de bâtiments. On voit plusieurs iles en dessous, une qui a un petit lac qui se découle en cascade, vers une autre ile proche du sol qui tombe au sol. Une des iles a une batiment, une ruine mieux conservée qu'avant. Deux batiments, un qui a vraiment une forme carrée, l'autre qui a une forme plus étrange. On est pas loin en termes de batiments
+En regardant autour, et en haut, je vois au loooin (on est à 500m, là à 3km). Je prend sune pause, c'est chelou, c'est pas que j'entends une voix, mais bizarre, sentiment étrange, comment la personne étrange que j'avais vu dans la plaine. Je tente de regarder avec le masque, sans la quitter des yeux, j'arrive pas à voir de tunnel.
+
+On décide d'aller vers la ruine. On s'arrête sur l'ile au lac cascade. On décide de de tenter d'attraper des poissons mais cheveux qui se dressent d'elec quand proche du lac. Ylliana voit tout et voit les poissons qui brillent, electrisé, elle en bute un, je vais le récupérer , on prend une pause manger.
+
+On arrive sur ile à ruine ; droite pavé droit avec un autre étage en ruine, gauche tour plus haute mais haut en ruine. On rentre dans gauche d'abord. Arryn sent sa magie être instable, on s'éloingne tous, mais maintenant il peut cast compréhension des langages (y'a des gravures écritures, il les voit en elfique). 
+On voit une gravure de symbole au fond en fait plus une statue.
+Arryn en gros au dessus du symbole arrive à lire : "force et courage" "que le grand orage nous prête sa force." Je le critique de raconter n'importe quoi et que c'était même pas original comme invention, il va bouder.
+On examine Caladrel et moi, on remarque quatre gravure familières (celle de l'Enigme tm), sauf que sur la dernière gravure y'a le grand symbole. Je demande aux autres, ils en savent riien, moi j'ai jaaaamais vu. 
+Ensuite j'entends Arryn en télépathie, du coup on en parle, et ça mène à moi qui le tire vers les écritures pour qui prouve 
+
+"1 Fier peuple de Rektorres"  "2 L'arrivée du Grand Orage" "3 La bénédiction du grand orage" "4 Force et courage"
+Autres écritures : "Force et Courage" "Dans le domaine du grand orage nous sommes tous protégé et nous sommes tous baigné dans sa foudre." Je prend des notes et fait des théories culte foudre + eau. 
+
+Arryn a un moment (je mention chirou dieu e la fin, mort, neutre, et des gens bizarre qui le suivaient). Caladrel trouve talisman mias le dit à personne. On voit rien de plus, en haut y'a plus de grvure, voilà voilà
+
+Deuxième batiment : cylindre en pierre autour d'une extrusion de pierre (tabouret, et table mais genre blocs de pierre), zéro énergie magique, que dalle.
+Ils essaient de monter deuxième étage je vole, caladrel manque de tomber Arryn aussi mais moi, et Ylliana on aide. en haut y'a des paillasses en pierre, et des pièces. Dans une pièce à côté du lit piere y'a un truc gravé pas professionelement entre guillement : "Le père supérieur est un idiot".  Donc civilization proche de nous
+
+J'essaie de voleter au dessus de l'ile mais ile tout en haut m'attire, très désagréable, je met fin mon check pour poroposer comme Calladrel qu'on s'en aille. Il me pretle lemasque, Arryn le prend, on essaie d'aller vers le haut. On tombe sur une formation deux batiments pareils, mais rasés par le temps quasi. Je suis préssé donc j'y fais pas trop gaffe, les autres pose quelques questions mis voilà. ah un moment on est quasiment au plus haut mais ça redescend et je volette vers le haut, j'arrive presque à entendre des chuchotements, preeesque, mais je me prendun coup de vent. On continjue continue continue mais rien, au bout d'un moment il fait noir ils me disent qu'on prend une pause, je rale. Je tente d'écouter les chuchotements mais rien. Frustrant
+
+Pendant le tour de garde de Caladrel son talisman fait de la lumière et tremble puis s'éteint
+
+On se réveille. Caladrel me parle de son talisman je sens aucune énergie magique, je lui rends.
+
+En matinée on peut mieux voir les tunnel et on voit au sol (Caladrel) vraaiment bas, (on a facile fait 20/30km), une structure qui semble sortir de la forêt, assez grande vu qu'on l'a voit de 600m en hauteur. On décide d'aller vers là, maybe tunnel vers le haut
+iles pas très intéressantes. Toujours structures deux batiments temple dortoir (on siat parce qu'on a croisé les premiers). On fait pause lac cascade éléctrique poisson on arrive ) en prednre un (Ylliana)   et  Arryn en pulvérise un avec un trait de givre.
+
+On arrive à trouver un tunnel qui va vers le sol. Quand on descend les branches qui yavait dans le chemin, Arryn fait des expériences. On voit qu'il y a pas d'herbe au sol, 
+
+structure spire plutôt grande, encadrure porte et fenêtre. Je ressens la même énergie magique qui se conservait bien. Porte 1m50/4m de haut
+On rentre il fait très sombre, Arryn allume. On et sur une pièce assez grande on voit pas tout. Au centre il y a un grand pillier. Arryn se concentre pour essayer de comprendre les gravures : il y a marqué "seul celui qui réussira les grands épreuves pourra communier avec le grand orage". 8/10m par 8/10m. Sur les murs d'autress gravures, différentes : celles similaires elfoides en prière, mais elfoide qui semblent passer des épreuves. Combattre contre créature, une autre qui se fait frapper par la foudre, et enfin y'en a une qui est grande et au centre d'un elfoide qui vole au dessus des iles volantes et qui semble se dirier vers une ile flottante beaucoup plus haute.Méditer sous cascade, etc.
+Caladrel voit escalier qui descend
+Stèle sur le côté de derrière : "Pour cette épreuve, vous drevez porouver avant tout que vous êtes capable de défendre avant tout les préceptes du grand orage."
+on descnd escalier qui descend. On arrive dans une grande salle. On voit pas au loin, ça a été clairement creusé dans la pierre. 
+Caladrel voit qu'il y a des endroits avec des surélévations, des plaques de pression,  on a eu chaud. C'est pas magique
+On continue à avancer
+On arrive devant quatre renfoncement avec quatre corps en assez bon état sur lit en pierre couché habillé avec des habits, vachement grand. Ils ont des marques. Alors qu'on commence à s'approcher. Y'a une lumière qui va s'allumer au plafond, qui n'a pas l'air d'avoir de source ou quoi. Et les quatres corps vont ouvrir leurs yeux
+
+plaques de pressions font de decharges electriques
+
+<!-- ./Obsidian/Arzu/Sessions/Session 5.md -->
+
+On explore la salle. 
+l'endroit des stèles on voit le bout
+on check les cadavres, ils ont rien sur eux, leurs habits sont bien conservés. Il y a rien sur les stèles non plus, la pierre a été remontée pour les former. 
+on fait le tour de la salle, elle n'a pas de graphisme
+au fond encadrure, puis nouvelle stalle, stèle au fond, statue du symbole étrange, tout le symbole devient pris d'éclair electrifié, tellement que c'est même plus de la pierre, c'eset de la lumière
+Arryn se reconcentre (après un peu de rp qu'il peut pas mais qu'en fait si) et lit la stèle : on a fait preuve de force, blabla un tunnel apparait le plafond s'ouvre. On sort dans la forêt et le tunnel nous envoie vers la tour par le haut. Dans cette tour, pas très grande, si on était 5 ou 6 normaux on commencerait à être serré. Dans la pierre il y a un plan quatre croix, une pas allumée et un rond. Caladrel fait la remarque que c'eset les emplacement des epreuves
+Caladrel remarque que la plaque est amovible et la prend. Ensuite tour tremble, éclair nous enveloppe, on se pisse dessus mais en fait isok, puis une portte qu'on avait pas vu. On prend la carte. Le cercle noir semble correspondre à l'ile. L'éclair s'arceboute vers l'ile volante (comme un beacon qu'on a activé)
+on décide de faire les trois autres épreuves par les iles volantes, on retombe pas sur des ruines
+on finit par arriver en soirée dans une ile bosquet on se repose
+Arryn fait l'abruti avec un oiseau qu'il fait devenir aveugle
+durant le repos je tente de me reconnecter par chuchotement avec l'île volant. Avant le chuchotement ça aurait vraimnet pu être un figment de mon imagination mais là je l'entend vraiment, comme is y'avait quelqu'un. Je tente de me rapprocher d'écouter, de comprendre rien
+Ylliana fait un rêve dans une forêt très proche de la notre, concentrée sur sa cible cerf. Elle tire touche, le cerf disparait en pousière. Au sol : il y a une carcasse de cerf en mauvaise état comme si elle était là depuis longtemps. Sur sa guache y'a une maison qui semblait pas être la avant, un cabanon. Dans la cabine y'a une cheminée et de la lumière à l'intérieur. Par la fenêtre il semble y avoir une silhouette, ptetr une femme, mais pas sur. Toque à la porte, voix plutôt féminine. Après un temps la porte s'ouvre, silhouette toute noire comme s'il manquait la personne. Elle l'invite à rentrer et manger. Accueillant tout la perosnne et l'intérieur. Elle fait un geste pour la faire s'asseoir et tout et tout elle retourne s'afférer à la cuisine pendant quelques temps. Ragout etc etc. Elle commence à parler "Comment t'appelles-tu" small talk, machin machin "qui etes vous ?" "arrh, bonne question, idk non plus mais tu dois savoir on est dans ton rêve". On apprend que cette entité se balade dans les rêves, trouve ça fun, en fait beaucoup. Ylliana raconte sa vie, quatres épreuves, la silhouette ne dit que des choses que Ylliana pourrait savoir, puis se réveille. Ensuite pendant qu'elle fait son tour de garde elle se sent plus sereine, moins de doutes qu'avant.
+
+
+On se réveille, on continue vers le sud. Alors qu'on allait un peu vers l'ouest pour rejoindre la croix, on croise plus souvent des ruines, assez peu mais plus que le jour d'avant ou zéro. La journée se passe bien sans trop de problèmes sans rien.
+Je trouve une perle, grâce à Caladrel qui utilise main de mage 
+On trouve autre structure comme la première nouvelle épreuve
+en arrivant on voit des gobelins pas discrets dans les arbres. un m'attaque degats electriques par dague et se tient à moi. Ils ont des boucles d'oreilles
+
+Ylliana en explose un, trois autres fuits, j'en assome un en lui fonçant dessus à main nue. Arryn essaie de briser plsuieurs règles de la convention de genève. 
+
+Plein d'infos sur Zork le gobelin et les gobelins, enfin pas ceux de la féérie même si je fais le lien. on  le laisse partir je lui dit que si on passe audraitéchanger culture, il est terrifié
+
+on rentre dans la structure ils savent qu'on est allé d'abord à force, comment ils savent
+on trouve gravures comm eusual les quatres mais avec re eclair emoji. on avance giga salle deux torches, giga faille qui coupe la salle en deux, je tente de passer mais tunnel
+j'identification le masque, je peux voir avec les tunnels et les esprits, quand je tente de savoir quel spell l'a fait je vois des horreurs au dela de ma compréhension ultra puissance
+
+arryn lit les prières, un truc s'allume, caladrel avance il avance d'un pas sur le gouffre, mais pas suivant il se fait reramener d'un pas. Arryn apprend bwt ave cles prières les preceptres force courage foi "indestructible" et sagesse mais moins prononcé sagesse
+
+arryn et claadrel font les cons et arrient à tro uver le chemin en tentant des trucs à lire des prières et caladrel a faire des trucs au pif. Dans cette nouvelle pièce après y'a un epièce une porte un cadenas. Les gravures sont différentes, sur les murs y'a des dragons, elfoides rectores, rectores qui chevachent les dragons, un qui est devant sur une ile qui semble flotter. Ylliana trouve sur certaines des gravures des écritures en draconique, ça semble être des noms. Arryn dit que communier avec dragon c'est communier avec le grand orage.  Ylliana parle avec son drake nothing
+
+on monte par plafond tunnel, on tombe sur petite ile, giga dragon electrique je tente de m'enfuir deux fois y compris avec foulée brumeuse je me fais zapper. Puis l edragon nous traverse et il nous regarde et disparait 
+
+Ensuite tour, puis stèle dans dans le trou à stèole lumière de croix s'éteint beacon. Repos long je tente d'identifier tout ce qui bouge. Stèle carte carte magique qui se ocnnecte au trou à stele, l'ile vole avec sort lvitation, les tunnels sont magiques, mais c'est tout, je tente des trucs au pif rien.
+
+Arryn rève qu'il est chez lui à la grande forêt, il sort de chez lui par la fenetre, y'a personne, il monte en haut d'un arbre, la forêt d'étend partout à l'horizon, il voit une ville. Arryn tente de se concentrer pour lancer unsort, il sent quelque chose de PUISSANT ET FORT MONTER en lui bien profond, il pense que ça marche donc il continue mais plus ça va plus ça semble bombe nucléaire éclectrique qui va exploser la forêt, il laisse partir quand même, rien. 
+une main lui tombe dessus, discussion avec entité du rêve, qui lui dit fait gaffe, qu'they a peur de ce qu'il pourrait faire avec ses pouvoirs et qu'il pourrait se tuer et que ça serait dommage qu'il se butte lui et ses camarades et de pas profiter de ses pouvoirs. Arryn fait genre il sait ce qu'il fait, ça marche pas. N'est qu'une silhouette dans son rêve, lui donne la tête du dragon sur la silhouette noire. Mais fin du rêve, l'entité dit qu'elle attend beaucoup de lui.
+
+On se balade vers une autre epreuve, le climat semble un peu changer de façon un peu mineure, y fait plus chaud. On arrive sur une ile, vers le bas y'a une ruine, maybe comme celle des epreuvs mais plus petite sans tour. Arryn commence à lire les écritures qui sont plus historique, peuple de rectors (arryn dit rectorien) ils sont apparu y'a 12k ans (sur le désert Ara grand désert très loin vers l'est) ils ont une partie de ce peuple est partie vers euh vers l'ouest vers le domaine du ogrand orage qu'ils ont fini par rencontrer et qu'ils ont ifni par s'y convertir à lui. Ils ont été converti à lui et au fait de suivre le grand orage et ils ont grace à leur pouvoir unifier toutes les tribus assez primitives de rectorien dans la region et tous unifié du grand orage, ils ont fondé son gros culte et ont nommé leur royaume Rectores qui est devenu grand et puissant et il sont ofndé une capitale Urktos. Les caractères me disent quelque chose. Pendant 2k ans, ils ont vécu dans cette région. Sur les autres murs récits de guerre. Y'en a 5, le 4e j'arive pas à convaincre de pas romancer. Mais tout de même il semble manquer un truc, y'a aucune trace des 2k ans après royaume structuré enfin pas trop.
+Aucun objet magique, je tente d'identifier Arryn, complètement chelou
+ensuite on part de ces ruines
+
+<!-- ./Obsidian/Arzu/Sessions/Session 6.md -->
+
+On se balade, on dort, j'ai un rêve avec la silhouette chelou qui dit que je pourrais trouver plus de pouvoir et qu'on est tous intéressant
+on se trimballe jusqu'à l'épreuve suivante (, on descend, enigme fallait prendre les premières lettres du message, et pas voir  l'origine des ructor machin, je soupçonne qu'ils sont juste con les rectors
+on se tabasse un golem
+un éclair sort de la tour et se connecte dans la grande ile en haut dans le ciel, couleur sous ton lavande y'avait un message "on est intelligent quand on décide de l'être" ou un truc du genre
+On va vers l'épreuve suivante
+Caladrel trouve que les symboles sur la carte séance 1 en bas disent Urktos
+
+Caladrel a un rêve (sorry j'ai pas écouté 😭) il est dans le noir, il entend un echo de la voix (pas silhouette vu qu'il est dans le noir), il lui raconte une histoire
+
+On avance encore, plus loin derrière la quatrième ruine là on voit une zone sans herbe sans arbres, et collines 
+
+"pour cette quatrième et dernière épreuve il faudra faire preuve de courage"
+
+on se fait séparer dans un noir magique qu'on peut pas voir, je lance lumière féérique, on est clairment séparé, je vois qu'on est dans une forêt, je prend une torche et je vm'envole quand j'etends des ruits d'naimaux. Ylliana trouve un ours et essaie de s'éloigner doucement. Caladrel voit un texte avec "courage" et genre "aller". Ylliana trouve une clairière avec un ptit promontoire, et une entrée dans ce promontoire
+
+J'arrive à trouver Arryn, on décide de continuer à suivre le chemon qu'il avait suivi
+Yllana entre dans le promontoire, ça commence comme une grotte puis giga trou.
+
+nous avec arryn on est dans le noir complet
+
+Ylliana a un instinct de truc dangereux, puis en allant plus loin elle nous trouve
+Caladrel retrouve la clairière de Ylliana
+
+on trouve avec ylliana et arryn la directoin truc dangereux on se pisse dessus on y va, on se trouve à quatre dans la clairière 
+
+Arryn lit ce qui a et c'est "épreuve de courage : le grand saut". je tente de voler en descendant et genre c'est boucle infinie et genre bon faut juste sauter
+
+on, arrive dan sune pièce trou dans tunnel et on monte, stèle, éclair verdatre
+on entend les chuchotements giga forts, un tunnel s'ouvre, on monte en allant dedans, on monte sur une ile après un paquet de temps. Y'a rien sur cette ile. Y'a quatre tunnels qui semblent arriver à cet endroit, qui viennent des quatre épreuves. on monte avec un tunnel uqi va plus vite.  Moi j'suis enfin l'ile
+On finit par arriver sur le bord de l'ile, elle est plutôt grande. Y'a un immense batiment ave cune architecture assez inconnue à celle qu'on connait. énorme arche en pierre avec escaliers, avec écrit "Bienvenue dans le domaine de Runo le grand orage", on avance mais je mentionne théorie dieu etc etc, machin
+on aance dans les escaliers, marches quand même grandes
+giga arche entrée, vers une salle, dans laquelle il y a un coffre. Intérieur d'un pallais, pierre blanche, grande fenêtres plein de lumières
+
+sur le coffre bien ornemanté "toi qui a vaincu les épreuves que tu as du confronter, prend ce cadeau du grand orage et va communier avec lui".  dans l coffre y'a des gantelets
+
+"Chaque attaque ajoute une charge, au bout de trois charge l'attaque fait 1d6 dégats de foudre en plus"
+
+Les gantelets quand je tente de faire ça se transforment en foudre et s'accrochent à mes bras magique astraux qui sortent de moi sans mon consentement 
+on avance en se pissant dessus
+on arrive dans une zone en demi cercle avec un giga trone de 10m avec personne dessus. Là tout autour de nous nous attire magiquement. Cette pièce est plutôt vide à part le trône. Y'a des tapisseries. Le mur du fond derrière le trône en est couvert. Elles sont brodées avec un fil dorée, c'est extr^mement fin comme dessin, des centaines de petits dessins sur les patisseries. 
+
+on tente de se prosterner, dire des prières rien. 
+On se dit qu'on va voir les tapisseries, y'a écrit histoire de Rictores, y'a énoooormément d'images c'est méga fin. À un moment les tapissseries s'arrêtent genre work in progress et dernière imaage cest de guerriers qui se battent contre d'autre créatures mais genre pas anatomiquement corecte genre démon ou quoi, et aux côtés des elfoides y'a une créature qui est beaucoup plus grande que les autres avec un éclair dans les mains
+
+<!-- ./Obsidian/Arzu/Sessions/Session 7.md -->
+
+j'ssaie d'écouter les chuchiteements qui viennent de otut autour de moi mais j'arrive pas à entendre ce qu'ils me disent, par contre, au moment où j'ai l'impresion que les chuchotements partent dans une direction, vers le couloir qu'on a pas exploré. On arrive à voit tout aux alentours, on voit genre 80 90km à la ronde
+Arryn sent une energie super lointaine, très similaire à la sienne, il entre en resonance genre, il regarde plein est, un peu nord mais plein est
+Les chuchottements tournent autour de moi encore, et aloes qu'ils s'arrêtent et comme s'ils faisaient face à moi, et à travers les chuchottements j'entends merci et les chuchottements qui s'en vont dans l'air. Je les suis en volant et au fur et à mesure qu'ils s'en vont, et au fur et à mesure ils semblent à baisser de plus en plus et àaprès 50m y'a plus rien.
+Les deux autres cherchent à l'horizon. La zone de colline ressemble à une sorte de patate de colline, ils voient la fin des collines de tout les côtés. Je cherche des signes de civ mais je vois rien
+un truc important, Caladrel voit au looin vers le nord une rivière, qui se connecte à notre forêt. J'essaie de checker pourquoi les chuchottements sont parti par là, et genre y'a un groupement de nuages au fond mais c'est tout. On revient sur nos pas, on explore la pièce de gauche qq part avant, cette pièce là semble s'apparenter à une archive, plus détaillée qu'une tapisserie, y'a des tablettes en pierres empilées, c'est pas hyper bien rangée, y'en a pas mal uqi ont l'air d'avoir disparu, volées, endomagées. Arryn lit les tablettes, c'est des tablettes de compta et de gestion. Tout le processus de gestion du temple et des monastères était géré là. Caladrel voit que y'a à peu près une dizaine de monastères avec 0/15 personnespar monastère + une dizaine dans ce temple. Arryn voit la date 352 de l'ère moderne, et ça remone usqu'à 15 ans avant. 
+Je cherche un truc pas gestion : entre deux piles de compta, je trouve une sort ed ejourlnal de bord d ela persn=onne qui fait l'intendance, écdrite à la vva vite, on dirait un ou duex ans de journaux, et ça dit des trucs quotidiens "j'ai participé au convoi de transport entre ça et là". Il part de déplacement par tunnel c'est difficile à dire mais ça a l'air d'être ça mais après maybe not. Des fois de temps en temps en tmep scertaines tablettes, y'a des "invités" qui sont venus et sont restés une nuit et sont repartis, certaines fois le terme visite est employé. Grand orage et Runo sont quasi pas mentionnés, étonnemment. Je finis par trouve r dxuex tablette qui semble être écrite vraiment beaucoup plus à la va vite, les tablettes relate des trucs de années 352, le ton est plus le même, là c'zest un ton beacucuop moins factuel, les jours relatent plus une intendance d'une civilisation en guerre, et commentaires beaucoup moins formels que dans le reste des tablettes : une des journées il se demande cmb de temps pour que l'armée ennemie arrive à leur porte, peu de doute mais beauocup de questionnement. Au fur et à mesure que le temps avance, l'ambiance dans l'écriture se dégrade de plus en plus, et de plus en plus y'a ces commentaire spersonnels qui ressortent, jusqu'au dernier jour où il y a marqué : "l'armée du seigneur de l apouriture est à nos porte, l'évacuation est terminée, notre seigneur est parti se battre sur le front, je reste ici jusqu'à la fin pour proteger cet endroit". Tout en bas de la page, en pus petit parce uqe plus de place, y'a écrit "j'attendrait et je garderai aussi longtemps qu'il le faut jusqu'à ce que le dernier des élus récupère ce qui lui est du."
+Théorie que c'est lui le gars des chuchottements, mais nous on a pas le concept d'esprit qui reste ou quoi, chelou. mais les eladrin d'avant quand ils devenaient trop dieu finissaient par devenir des esprits conceptuellement, mais pas qui puissent interagir avec le monde réél. 
+Dnas ces tablettes, c'eest l'écriture rectorienne et y'avait la fresque mais l'éxriture semble un peu différente mais même alphabet
+J'ai jamais entendu seigneur de la ourriture, mais j'ai entendu des légendes sur les seigneurs démons, mais dur à savoir si c'est la bonne traduction, très puissantes créatures, essentiellement des dieux mais méchants.
+Caladrel : pas clair qui est ce seigneur au front.
+
+On va dans l'autre pièce : même taille que l'autre à peu près. Caladrel remarque qu'à moitié eeffacé y'a un cercle magique, mais sinon plutôt vide. Tracé avec qqch, un peu effacé. Tout ce qui a dans cette zone semble beaucoup trop dans cette zone. Je commnence rituel idenficication dix min. Caladrel est sur que c'est pas de la magie qu'il connait, c'est de la magie relativement puissnate.
+Je trouve que c'est un cercle de manipulation, un des sorts c'est de la telekinésie et de la manipulation d'espacez, c'est pas du tout un sort assez puissant pour faire tenir des iles. Techniquement le cercle est fonctionnel, mais Il semble que les glyphes qui ont été effacé est ce qui faisait en sorte de rendre le sort modulaire. On cherche à trouver un guide ou un truc mais rien que dalle. Ça pourrait certainement porter le poid d'un homme ou deux hommes voir plus, c'est entre une dizaine d'homme et une ile.
+Arryn essaie de rentrer en raisonnance avec le cercle et comprendre. Ylliana aussi. Arryn au moment de se connecter avec le sort, 'energie c'est comme s'il s'est fait transporter au milieu de l'océan 2km en dessous de la surface. Arrn se déconnecte et qunad il se relève c'est comme s'il avait fait 60 tour sur lui-même, et tombe immédiatement. Je vais vers lui pour le demander si ça va. Arryn va s'affaler tout ça tout ça
+
+Caladrel retourne sur la grande tapisserie, de la première salle avec l'histoire. Il essaie de regarder des dessins sur la construction du temple, cercle magique. Il trouve pas sur le cercle en particulier, c'est pus sur cette zone que sur tout le royuame, dans les prmeières tapisseries, avec le temple maintenant. Et quand il continue à lire, il voit que sur une des tapisseries plus loin, des iles qui s'envolent. Le temple semble sur le sol.
+J'explore ailleurs le reste de l'ile, y'a des zones parcs, je volète un peu au tour au desus . Au niveau du toit, y'a une sorte de mini tour au centre qui monte, en haut de la tour y'a uneplateforme ou on peut y être, mais c'est pas accessible.
+Le sol de l'ile se surèleve avec le batiment donc quand on monte les escaliers pour les deux salles y'a du sol en dessous.
+On prend du temps à noter le plus d'infos possible sur la tapisserie dorées avec l'histoire.
+Un peu vers l'est en dessous, à un endroit ou y'a un peu moins d'arbre, au sommet d'une colline une torche qui bouge, puis elle se déplace. Le ledemain arrive, on prend de snotes, des croquis etc et on a terminé, mis journée. 11h, 11h30 ce genre de chose. On s'en va  et on décide d'aller à l'est parce que son truc à Arryn + plan avec écrit urktos vers là bas
+
+Les seigneurs démons, là où les dieux osnt plutôt dans la vibe renforcement positive, les démons c'est plus je vous fait du mal pour me forcer à nous worship. Mais c'est arrivé dans la grande foêt mais c'était plutôt vite arrêté. 
+
+On arrive un peu plu sà l'est que là d'où on est parti, on va vers la colline ou Caladrel a vu la torche, on suit les traces, on suit pendant un km puis les traces disparaissent subitement. C'est plus qu'il y a de la magie ambiante qui rend ça pas clair mais ptetr y'a de la magie. On cherche vraiment voir si ça disparait les traces genre wtf. Ylliana se rend bien compte que y'a plus de traces, c'est pas caché ou quoi. On passe la fin de journée à avancer. On passe également la journée d'après à avancer également. puis une journée suivnate. On est au delta de séparation des deux rivières enfin juste en dessous. 
+
+Ylliana voit un truc qui ressemble à un lapin, plus animaux chelous à identifier. 
+
+Arryn m'offre ce qui est supposément une couronne de fleur, très sympa
+
+Caladrel pas de bonzi
+Yllliana a un endroit, des traces d'animaux, y'en a 9, ils étaient là y'a moins de 12h, et il sont parti sud sud est, taille de ton drake.
+Moi 18 en histoire inrp le climat dnas lequel je suis j'ai jamais vu, hrp mediteranéen, flore plus parchemé, un peu plsu aride, etc.
+Caladrel voit fin de journée vers le sud est un bout de mer d'eau.
+On décide de se diriger vers là. On arrive ça se dirige vers le sud,y'a beaucoup de vent tempéré et ça se calme avec la nuit qui arrive.
+Y'a pas de traces spécifiquement d'animaux, y'a une plage et du sable, Y'a pleinj de **collines d'eau** (vagues). Mais y'a un rassemblement de piaf (des touem). Arryn trouve l'eau dégueulasse : elle est salée.
+Repos long, la nuit se couche. Rien ne se passe pour moi, pendant Arryn, la marée avance. On doit se reveiller et marcher de 100m et pendant le tour de garde Caladrel la mer d'eau salée arête son avancée et reste là.
+
+<!-- ./Obsidian/CONTROL/Characters/Ahti.md -->
+
+The janitor for the [[Federal Bureau of Control]]
+Thinks [[Jesse]] is the new janitor assistant.
+
+<!-- ./Obsidian/CONTROL/Characters/Carla Vaughn.md -->
+
+Assistant of [[Dr. Casper Darling]]
+Seen in the video : [[Objects of Power]]
+
+<!-- ./Obsidian/CONTROL/Characters/Dr. Casper Darling.md -->
+
+Department head of the [[Federal Bureau of Control]]'s [[Department of Research]]
+The scientist who explains things. Grey hair etc.
+
+Filmed the video [[Objects of Power]]
+
+Is seen with two assistants:
+- [[Hubert Tan]]
+- [[Carla Vaughn]]
+
+<!-- ./Obsidian/CONTROL/Characters/Dylan.md -->
+
+Jesse's brother.
+Was taken by the [[Federal Bureau of Control]] after a supernatural encounter.
+
+<!-- ./Obsidian/CONTROL/Characters/Hubert Tan.md -->
+
+[[Dr. Casper Darling]]'s assistant
+Seen in the video [[Objects of Power]]
+
+<!-- ./Obsidian/CONTROL/Characters/Jesse.md -->
+
+Protagonist
+Has [[Jesse's Entity|an entity]] she talks to and helps her?
+Got a supernatural encounter during her youth. The [[Federal Bureau of Control]] told her she imagined it, and they took her brother [[Dylan]].
+
+Has been appointed [[Director]] by [[The Board]]
+
+<!-- ./Obsidian/CONTROL/Characters/Jesse's Entity.md -->
+
+Suppositions:
+- The player?
+- seems to be very related/drawn to [[Object of Power]]?
+
+<!-- ./Obsidian/CONTROL/Characters/Mr. Kirklund.md -->
+
+Department head of the [[Federal Bureau of Control]]
+
+<!-- ./Obsidian/CONTROL/Characters/Mr. Salvador.md -->
+
+Department head of the [[Federal Bureau of Control]]
+
+<!-- ./Obsidian/CONTROL/Characters/Ms. Marshall.md -->
+
+Department head of the [[Federal Bureau of Control]]
+
+<!-- ./Obsidian/CONTROL/Characters/The Board.md -->
+
+Aliens that controls the [[Federal Bureau of Control]]?
+Are or are in the [[Black Pyramid]]?
+
+<!-- ./Obsidian/CONTROL/Characters/Zachariah Trench.md -->
+
+---
+aliases:
+  - Previous Director
+---
+Killed themselves with the [[Service Weapon]]?
+Is often seen in "flashbacks"
+[[Jesse]] sees the guy in flashbacks
+He said that a threat was coming (probably [[The Hiss]]). And that his duty was to keep the [[Federal Bureau of Control|Bureau]] safe.
+
+<!-- ./Obsidian/CONTROL/Collectibles/Case Files/Objects of Power/Service Weapon (Collectible).md -->
+
+**[[Service Weapon]] (OOP1-KE)**  
+  
+CONTAINMENT PROCEDURE:  
+  
+No unique procedures required.  
+  
+DESCRIPTION/PARAUTILITY:  
+  
+The object's form is variable.  
+  
+When bound, the object allows parautilitarians to **\[REDACTED]**. This object must only be bound by individuals seeking the role of **[[Director|REDACTED]]**. The object will determine whether **\[REDACTED]**. If rejected, the applicant is terminated. This process is dictated by the **[[The Board|REDACTED]]**, though their criteria is unknown.  
+  
+BACKGROUND:  
+  
+The object was discovered inside the [[Oldest House]], in the room that is now used as the [[Director's Office]]. The popular hypothesis **\[REDACTED]** many forms throughout history, **\[REDACTED]**. Mjolnir, Excalibur, Varunastra, all weapons that **\[REDACTED]** of their wielders. If [[Object of Power|Objects of Power]] are the convergence of forces based on the collective subconscious, then this may be the original manifestation of that event. If this is the case, **\[REDACTED]** (see [[Objects of Power|Dr. Darling presentation 11.1]] for more details).
+
+<!-- ./Obsidian/CONTROL/Collectibles/Correspondances/Non-Official/Dinner Reservation.md -->
+
+[[Federal Bureau of Control]]
+
+Dinner reservations at 7 pm at [[Chez Ambré]]
+  
+Wife will meet you there - Don't be late!  
+  
+Flowers are ready for you at lobby reception  
+  
+Remember: She is turning 46.
+
+<!-- ./Obsidian/CONTROL/Collectibles/Correspondances/Non-Official/Trench - Do Not Disturb.md -->
+
+[[Federal Bureau of Control]]
+
+[[Barbara]],
+  
+I am not to be disturbed! Cancel all my appointments for the day. For the rest of the week!  
+  
+I can't trust them, [[Barbara]]. Not a single one.  
+  
+– [[Zachariah Trench|Trench]]
+
+<!-- ./Obsidian/CONTROL/Collectibles/Correspondances/Official/Approved Terminology Reminder.md -->
+
+[[Federal Bureau of Control]]
+
+REMINDER RE: DRAFTING ANY PUBLIC-FACING MATERIAL
+
+While penning any notifications of death related to the [[Willow]] [[Altered World Event|AWE]], please adhere to the following guidelines.
+
+<u>Words/Phrases to use:</u>
+- In the service of his/her country
+- Regret
+- Proud/Pride
+- Will be remembered
+
+<u>Words/Phrases to avoid:</u>
+- [[Alaska]]
+- [[Scissors]]
+- Blood/Bleed
+- Loss
+- Apologies/Sorry
+
+<!-- ./Obsidian/CONTROL/Collectibles/Correspondances/Official/Executive Meeting Minutes.md -->
+
+[[Federal Bureau of Control]]
+  
+Agenda Items for Next Executive Meeting:  
+  
+Rising Costs of [[Altered World Event|AWE]] Response  
+  
+Update on [[Mold]] Eradication Efforts  
+  
+Upcoming Annual Salary Review  
+  
+New Supplier of Coffee Filters to be Found and Vetted  
+  
+Please come prepared. Thank you for your time.
+
+<!-- ./Obsidian/CONTROL/Collectibles/Correspondances/Official/Prohibited Items Reminder.md -->
+
+[[Federal Bureau of Control]]
+
+REMINDER!  
+  
+Certain objects are not allowed inside the [[Federal Bureau of Control|Bureau]]. Recent incidents have necessitated an issued reminder on prohibited materials. 
+  
+- Unauthorized Weapons  
+  
+- Pagers  
+  
+- Laptops  
+  
+- "Smart" Watches  
+  
+- "Smart" Phones  
+  
+- "Smart" Gaming Devices  
+  
+- Anything "smart"  
+  
+- Number 2 Pencils  
+  
+- Any objects considered iconic representations of an archetypal concept (e.g. rubber ducks, ketchup bottles)  
+  
+All material under [[Federal Bureau of Control|Bureau]] investigation is to be brought in through the private entrances. If you see any lobby personnel in breach of these policies, please notify your supervisor immediately.
+
+<!-- ./Obsidian/CONTROL/Collectibles/Correspondances/Official/R4 Reports Reminder.md -->
+
+[[Federal Bureau of Control]]
+
+Hello,  
+  
+As you all should know by now, the [[R4 reports]] are due by the end of the week. We're still waiting on them from a number of people. If you need an extension, please request form R4.e from your supervisor. If you think you're exempt from filing an R4, then you'll need to get written permission from your department chief saying so. Remember, R4s are mandatory under section 75.2 of the employee manual.  
+  
+If your R4 requires inter-departmental claims, then please contact the appropriate department head ([[Dr. Casper Darling|Dr. Darling]], [[Ms. Marshall]], [[Mr. Salvador]], or [[Mr. Kirklund]]) as needed. They'll be busy on Thursday in their annual policy review so please schedule accordingly.  
+  
+Best,  
+  
+Your [[Admin Team]]
+
+<!-- ./Obsidian/CONTROL/Collectibles/Correspondances/Official/Security Order.md -->
+
+[[Federal Bureau of Control]]
+
+**ATTENTION ALL \[REDACTED]**
+  
+**\[REDACTED]** a shark in his **\[REDACTED]** although secure **\[REDACTED]** permission to **\[REDACTED]** following basic protocol **\[REDACTED]** Shoot to kill. 
+**\[REDACTED]**
+
+Good luck.
+
+<!-- ./Obsidian/CONTROL/Collectibles/Multimedia/Darling Presentations/Objects of Power.md -->
+
+[[Federal Bureau of Control]]
+
+INTRODUCTION TO PARANATURAL TOPICS
+Presentation 11.1
+
+Presented by: 
+[[Dr. Casper Darling]]
+
+Research assistance provided by:
+[[Carla Vaughn]], [[Hubert Tan]]
+
+Confidential [[United States of Amarica|Government]] Footage. Unauthorized distribution, reproduction, or exhibition is in violation of Federal Regulations.
+
+———————————————––
+
+*\[FBC jingle, presentation intro]*
+
+DARLING: [[Object of Power|Objects of Power]] can cause, or be results of, AWE's - [[Altered World Event]]s - intrusions upon the perceived reality.
+
+*\[to [[Hubert Tan]]]*
+
+DARLING: A side-note: remember to cover their connection to the [[Astral Plane]] as well
+
+*\[to camera]*
+
+DARLING: Now, the [[Service Weapon]] is, of course, a prime example of an [[Object of Power|O.o.P.]], a very powerful one,
+
+\[pause; camera focuses on a black cube in Darling's hand]
+
+DARLING: ingrained in the [[Federal Bureau of Control|Bureau]]'s DNA, a key component in our [[Prime Candidate program]]: come out of that Russian roulette a winner, and you, you're it. Lose, and you're, well, fired. Thank you. I'm [[Dr. Casper Darling|Doctor Darling]], Head of [[Department of Research|Research]], [[Federal Bureau of Control]].
+
+\[camera focuses on the black cube again; FBC jingle, presentation outro]
+
+———————————————
+
+We can see in the back mention of the [[Astral Plane]], the [[Black Pyramid]] and the [[Hotline]]
+
+<!-- ./Obsidian/CONTROL/Collectibles/Multimedia/FBC Recordings/FBC Reminder  - Building Shifts.md -->
+
+\[Overhead notification]  
+  
+[[Federal Bureau of Control|FBC]] SPOKESPERSON: Reminder! If you experience an unanticipated [[Building Shift]], follow these simple steps. 1: Search the room for any [[Altered Item]]s or [[Object of Power|Objects of Power]]. 2: Carry the Altered Item or Object of Power to the nearest [[Safe Room]]. 3: Wait for Bureau staff to find you and the object. If there are no [[Altered Item]]s or [[Object of Power|Objects of Power]] in the vicinity, then reach your supervisor via the nearest intercom and await further instructions. Thank you for your attention.  
+  
+\[Overhead sign-off]
+
+<!-- ./Obsidian/CONTROL/Collectibles/Research & Records/Hiss Research/Hiss Guard (Collectible).md -->
+
+**FIELD RESEARCH ON [[The Hiss|HISS ENTITY]]: HISS CORRUPTED SECURITY GUARD**
+
+**--CONFIDENTIAL--**
+
+SUMMARY:  
+  
+The [[Federal Bureau of Control|Bureau]] has many internal security personnel. [[The Hiss]] was quick to take advantage of this fact.  
+  
+[[Hiss Guard]]s use the standard-issue “bullpup” rifles they carried prior to corruption, while the armored guards carry pump-action shotguns. They have no observed paranatural abilities, with the exception that certain [[Hiss Guard]]s are protected by a shielding of dense [[The Hiss|Hiss]] resonance, capable of stopping bullets. Is this shielding a result of prolonged Hiss corruption? Does [[The Hiss|the Hiss]] mature in organic hosts over time? More data is needed.  
+  
+Did [[The Hiss|the Hiss]] target individuals with combat training? Does [[The Hiss|the Hiss]] have that level of cognizance? Does it utilize hosts for tasks they are best suited to? Combat-trained hosts are reserved for combat? These are all questions for later, though it is obvious that corrupted individuals retain knowledge on the use of their weapons.  
+  
+Refer to file **\[REDACTED]** for full report.
+
+<!-- ./Obsidian/CONTROL/Collectibles/Research & Records/Reports/Director Trench Photograph.md -->
+
+"So much expected from the [[Director]]. The responsibility. The privilege." - [[Zachariah Trench]]
+
+<!-- ./Obsidian/CONTROL/Concepts/Altered World Event.md -->
+
+---
+aliases:
+  - Altered World Events
+  - AWE
+---
+Supernatural events
+
+List:
+- [[Willow]]
+
+<!-- ./Obsidian/CONTROL/Concepts/Object of Power.md -->
+
+---
+aliases:
+  - Objects of Power
+  - O.o.P.
+---
+Explained in the video [[Objects of Power]]
+Supernatural objects. They are connected to the [[Astral Plane]].
+
+Could be "the convergence of forces based on the collective subconscious"
+
+List:
+- [[Service Weapon]]
+- [[Hotline]]
+- [[Oldest House]]
+
+<!-- ./Obsidian/CONTROL/CONTROL.md -->
+
+#ignore
+
+[[Jesse]] enters the [[Federal Bureau of Control|FBC]]. Talks to her [[Jesse's Entity|entity]] a lot.
+Encounters [[Ahti]] the janitor who thinks she's there for the new job, janitor's assistant.
+Hears a noise from the [[Director's Office]]. Discovers [[Zachariah Trench|he]] killed himself.
+
+[[Jesse's Entity]] tells her to pick up the murder weapon (which is the [[Service Weapon]]).
+She gets a vision from [[The Board]] who tell her only the [[Director]] can wield this gun.
+Then the vision goes to the [[Zachariah Trench|Previous Director]] that was watching the video [[Objects of Power]]
+
+[[Jesse]] is sent to the [[Astral Plane]] by [[The Board]] for the tutorial i suppose or smth.
+[[Jesse]] can now give some big ass punches.
+[[The Board]] appoints her [[Director]]
+
+Sees the [[Zachariah Trench|Previous Director]] saying there was a threat and all. (Probably [[The Hiss]])
+
+Shot on floating corpses. Mental Breakdown. [[Jesse's Entity]] stopped it.
+Attacked by [[Hiss Guard]]s
+
+[[Zachariah Trench]] says to reach the [[Hotline]]
+
+<!-- ./Obsidian/CONTROL/TO SORT/Director.md -->
+
+Position chosen by [[The Board]] and gives control to the [[Federal Bureau of Control]]
+Wields the [[Service Weapon]]
+Something to do with [[Prime Candidate program]] (name of the process?)
+
+List:
+- [[Zachariah Trench]]
+
+<!-- ./Obsidian/CONTROL/TO SORT/Federal Bureau of Control.md -->
+
+---
+aliases:
+  - Bureau
+  - FBC
+---
+Game main setting
+They deal with supernatural events.
+Controlled by [[The Board]]?
+
+List employees:
+- [[Director]]
+	- [[Dr. Casper Darling]] : department head
+		- [[Hubert Tan]]
+		- [[Carla Vaughn]]
+	- [[Mr. Kirklund]] : department head
+	- [[Mr. Salvador]] : department head
+	- [[Ms. Marshall]] : department head
+- Other
+	- [[Ahti]] : janitor
+	- [[Barbara]]
+
+Ex employees:
+- [[Zachariah Trench]] : previously [[Director]], now dead
+
+<!-- ./Obsidian/CONTROL/TO SORT/Hiss Guard.md -->
+
+See [[Hiss Guard (Collectible)]] for explanation
+Guard corrupted by [[The Hiss]]
+
+<!-- ./Obsidian/CONTROL/TO SORT/Mold.md -->
+
+There are posters that tells to make daily check to see if foreign matter got on you.
+
+<!-- ./Obsidian/CONTROL/TO SORT/Objects of Power/Hotline.md -->
+
+Secure line of communication. Guidance.
+
+<!-- ./Obsidian/CONTROL/TO SORT/Objects of Power/Oldest House.md -->
+
+Where is situated the [[Federal Bureau of Control]]
+
+Apparently no foreign technology should get here? According to a poster and [[Prohibited Items Reminder]]
+Its layout can move : [[Building Shift]]?
+It has some [[Safe Room]]s?
+
+Contains:
+- [[Director's Office]]
+- [[Executive Affairs]]
+
+<!-- ./Obsidian/CONTROL/TO SORT/Objects of Power/Service Weapon.md -->
+
+See [[Service Weapon (Collectible)]]
+
+Code: OOP1-KE
+
+Discovered inside the [[Oldest House]], in the room that is now used as the [[Director's Office]].
+
+When picking it up, [[The Board]] chooses to appoint you to [[Director]] or kill you.
+Allows to communicate with [[The Board]]?
+
+Looks like a black cube in the video [[Objects of Power]]. 
+But then looks like a gun when active?
+
+According to [[The Board]]:
+- It has many forms like the [[Oldest House]]
+- They wield the [[Director]] as much as the opposite?
+
+Regenerate ammo automatically.
+
+[[Zachariah Trench]] used it to kill themselves.
+Now in possession of [[Jesse]]
+
+<!-- ./Obsidian/CONTROL/TO SORT/Places/Astral Plane.md -->
+
+All [[Object of Power|Objects of Power]] have a link to the place.
+Where [[The Board]] is?
+
+Contains the [[Black Pyramid]]
+
+<!-- ./Obsidian/CONTROL/TO SORT/Places/Chez Ambré.md -->
+
+Random restaurant
+
+<!-- ./Obsidian/CONTROL/TO SORT/Places/Director's Office.md -->
+
+Where [[Zachariah Trench]] was found dead by [[Jesse]].
+
+<!-- ./Obsidian/CONTROL/TO SORT/Places/Executive Affairs.md -->
+
+Somewhere in the [[Federal Bureau of Control]].
+
+<!-- ./Obsidian/CONTROL/TO SORT/Places/United States of Amarica.md -->
+
+Where the [[Federal Bureau of Control]] is.
+
+<!-- ./Obsidian/Himinn/Game Ideas/4th Wall Character.md -->
+
+[[Game Idea]]
+
+To connect with an actual game
+maybe a meta puzzle game? maybe a narrative game
+and having this character à la stanley parable ultra deluxe that talks directly to the player
+harnessing psychological creepiness from stanley parable and slay the princess
+
+
+
+Initial thing i wrote to explain:
+
+j'ai une idée d'envie de ce que pourrais éventuellement faire comme jeu
+
+j'ai rejoué dernièrement à slay the princess et j'ai regardé un let's play de stanley parable par un psy (banger cette chaine "eurobrady" btw)
+et genre j'ai vraiment envie de faire un truc avec cette idée d'un personnage extérieur au jeu en lui-même, qui apparaît quand tu lances le jeu, ou peut-être une sorte de narrateur dans le jeu ou jsp, mais de le faire d'une façon qui rend le joueur inconfortable, genre creepy psychologique
+pour contexte Olivier vu que iirc t'as pas joué au jeu, dans the stanley parable ultra deluxe, y'a ce personnage qui apparait quand tu lances le jeu, et c'est creepy parce que c'est que du texte, il parle directement au joueur, et joue avec le concept de settings au début de jeux (eg. set up quelle heure il est, ou le slider pour ajuster la luminosité)
+Et j'aime beaucoup parce que ce personnage construit une sorte de relation personelle avec le joueur et c'est excellent
+
+Anyway le jeu que je pourrais faire avec ça pourrait être par exemple un jeu d'énigme (j'aime bien les jeux d'énigmes avec des mécaniques plutôt simple mais avec des applications de plus en plus complexes et des meta puzzle, genre ce qu'à lancé baba is you un peu)
+
+<!-- ./Obsidian/Himinn/Game Ideas/Formal Logic Puzzle.md -->
+
+[[Game Idea]]
+
+Puzzle game using formal logic
+First order, then second maybe
+
+maybe jamboree of genre like 
+- sokoban like pushing formal logic, baba is you style
+- jigsaw puzzle maybe idk
+- code blocks idk
+
+maybe other types of logic :
+- fuzzy logic
+- turing vs lambda calcul
+
+
+<!-- ./Obsidian/Himinn/Game Ideas/Incremental Graph.md -->
+
+[[Game Idea]]
+
+Main idea : using graph going up instead of number go up
+Prestige idea : changing the scale like logarithmicing it
+
+Could start like this :
+- graph that goes up
+- upgrades to add ui
+- Upgrade cost preview on the main graph screen instead of numbers
+- add other graphs like derivation for the speed, a histogram, a mathematical graph, usages unknown
+
+Also cute characters and funny lines. Maybe even real narration?
+
+<!-- ./Obsidian/Himinn/Game Ideas/Infinite Dimensions.md -->
+
+[[Game Idea]]
+
+> I want there to be an actual game like this... where you have to work towards some specific goal by travelling between different and unusual worlds.
+
+think infinite dimension update minecraft
+
+<!-- ./Obsidian/Himinn/Justiciar.md -->
+
+Perpetual twilight
+A castle in the sky
+
+Death lived in this place,
+Cursed by the greed of kin
+
+A solitary man
+On the faded hill
+
+Will bring us the peace
+That calls through the mist
+
+<!-- ./Obsidian/Himinn/Sorcerer.md -->
+
+Ember hue of a burning city
+Silence of empty inns
+
+The rasp sound of a voice
+Deceiver of broken dreams
+
+The ring of a King
+Charred remains of a
+betrayer
+
+
+
+<!-- ./Obsidian/Magic Rules/Concepts/Booster Pack.md -->
+
+[[100.2b]] :
+- A [[Magic]] product
+
+<!-- ./Obsidian/Magic Rules/Concepts/Card.md -->
+
+[[100.2]] & [[100.2d]] :
+- There are Traditional [[Magic]] Cards and Nontraditional [[Magic]] Cards
+
+- [[100.2a]] :
+	- For [[Deck]] construction, [[Card]] with several names have the same english name
+
+[[100.3]] :
+- Some [[Card|cards]] require [[Coin|coins]] or traditional [[Dice|dice]]
+
+<!-- ./Obsidian/Magic Rules/Concepts/Casual Play.md -->
+
+[[100.3]] :
+-  Some [[Casual Play|casual variants]] require additional items, such as specially designated [[Card|cards]], nontraditional [[Magic]] [[Card|cards]], and specialized [[Dice|dice]].
+
+<!-- ./Obsidian/Magic Rules/Concepts/Constructed Play.md -->
+
+[[100.2a]] :
+- [[Format|way of playing]] in which each [[Player|player]] creates their own [[Deck|deck]] ahead of time
+
+<!-- ./Obsidian/Magic Rules/Concepts/Counter.md -->
+
+[[100.2]] :
+- Represented by a small item
+
+<!-- ./Obsidian/Magic Rules/Concepts/Deck.md -->
+
+[[100.2]]
+- Necessary for a [[Player]] to play
+- Composed of [[Card|Cards]]
+
+- [[100.2a]] :
+	- [[Constructed Play]] : at least 60 [[Card|cards]], 4 of each max
+- [[100.2b]] :
+	- [[Limited Play]] : at least 40 [[Card|cards]]
+- [[100.2c]] :
+	- [[Commander]] has additional restrictions
+- [[100.2d]] :
+	- [[Casual Play]] : can have a supplementary deck (different from a [[Sideboard]])
+
+[[100.4]]
+- Can be modified by a [[Sideboard]]
+
+- [[100.4a]] : [[100.2a]] applies to both [[Deck]] and [[Sideboard]]
+
+[[100.5]]
+- There is no maximum deck size for non-[[Commander]] decks.
+
+<!-- ./Obsidian/Magic Rules/Concepts/Format.md -->
+
+Includes :
+- [[Constructed Play]]
+- [[Limited Play]]
+- [[Casual Play]]
+
+Additional rules : [[Tournament Rules]]
+
+<!-- ./Obsidian/Magic Rules/Concepts/Game.md -->
+
+[[100.1]] :
+- Includes [[Two-Player Game]] and [[Multiplayer Game]]
+
+<!-- ./Obsidian/Magic Rules/Concepts/Life Total.md -->
+
+[[100.2]] :
+- Tracked by a small item
+
+<!-- ./Obsidian/Magic Rules/Concepts/Limited Play.md -->
+
+[[100.2b]] :
+- [[Format|way of playing]] in which each [[Player|player]] gets the same quantity of unopened [[Magic]] product such as [[Booster Pack|booster packs]] and creates their own [[Deck]] using only this product  and [[Basic Land|basic land]] [[Card|cards]]
+
+<!-- ./Obsidian/Magic Rules/Concepts/Multiplayer Game.md -->
+
+[[100.1]] :
+- A type of [[Game]]
+
+- [[100.1b]] :
+	- Begins with more than two [[Player]]
+
+<!-- ./Obsidian/Magic Rules/Concepts/Player.md -->
+
+[[100.1]] :
+- Someone participating in a [[Game]]
+
+[[100.2]] :
+- Needs a [[Deck]] to play
+
+<!-- ./Obsidian/Magic Rules/Concepts/Token.md -->
+
+[[100.2]] :
+- Represented by a small item
+
+<!-- ./Obsidian/Magic Rules/Concepts/Two-Player Game.md -->
+
+[[100.1]] :
+- A type of [[Game]]
+
+- [[100.1a]] :
+	- Begins with only two [[Player|players]]
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.1/100.1a.md -->
+
+A [[Two-Player Game|two-player game]] is a [[Game|game]] that begins with only two [[Player|players]].
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.1/100.1b.md -->
+
+A [[Multiplayer Game|multiplayer game]] is a [[Game|game]] that begins with more than two [[Player|players]]. See section 8,
+“[[Multiplayer Rules]].”
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.1/100.1.md -->
+
+These *[[Magic]]* rules apply to any *Magic* [[Game|game]] with two or more [[Player|players]], including [[Two-Player Game|two-player games]] and [[Multiplayer Game|multiplayer games]].
+
+- [[100.1a]]
+- [[100.1b]]
+
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.2/100.2a.md -->
+
+In [[Constructed Play|constructed play]] (a [[Format|way of playing]] in which each [[Player|player]] creates their own [[Deck|deck]] ahead of time), each deck has a minimum deck size of 60 [[Card|cards]]. A constructed deck may contain any number of [[Basic Land|basic land]] cards and no more than four of any card with a particular English name other than basic land cards. For the purposes of deck construction, cards with interchangeable names have the same English name (see rule [[201.3]]).
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.2/100.2b.md -->
+
+In [[Limited Play|limited play]] (a [[Format|way of playing]] in which each [[Player|player]] gets the same quantity of unopened [[Magic]] product such as [[Booster Pack|booster packs]] and creates their own [[Deck]] using only this product  and [[Basic Land|basic land]] [[Card|cards]]), each deck has a minimum deck size of 40 cards. A limited deck may contain as many duplicates of a card as are included with the product.
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.2/100.2c.md -->
+
+[[Commander]] [[Deck|decks]] are subject to additional deckbuilding restrictions and requirements. See rule 903, [[903. Commander|“Commander,”]] for details.
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.2/100.2d.md -->
+
+Some [[Format|formats]] and [[Casual Play|casual play]] variants allow players to use a supplementary [[Deck|deck]] of nontraditional [[Magic]] [[Card|cards]] (see rule [[108.2a]]). These supplementary decks have their own deck construction rules. See rule 717, [[717. Attraction Cards|"Attraction Cards;"]] rule 901, [[901. Planechase|“Planechase;”]] and rule 904, [[904. Archenemy|“Archenemy.”]]
+
+
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.2/100.2.md -->
+
+To [[Game|play]], each [[Player|player]] needs their own [[Deck|deck]] of traditional [[Magic]] [[Card|cards]], small items to represent any [[Token|tokens]] and [[Counter|counters]], and some way to clearly track [[Life Total|life totals]].
+
+- [[100.2a]]
+- [[100.2b]]
+- [[100.2c]]
+- [[100.2d]]
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.3/100.3.md -->
+
+Some [[Card|cards]] require [[Coin|coins]] or traditional [[Dice|dice]]. Some [[Casual Play|casual variants]] require additional items, such as specially designated [[Card|cards]], nontraditional [[Magic]] [[Card|cards]], and specialized [[Dice|dice]].
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.4/100.4a.md -->
+
+In [[Constructed Play|constructed play]], a [[Sideboard|sideboard]] may contain no more than fifteen [[Card|cards]]. The four-card limit (see rule [[100.2a]]) applies to the combined [[Deck|deck]] and [[Sideboard|sideboard]].
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.4/100.4b.md -->
+
+In [[Limited Play|limited play]] involving individual [[Player|players]], all [[Card|cards]] in a [[Player|player]]’s card pool not included in
+their [[Deck|deck]] are in that player’s [[Sideboard|sideboard]].
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.4/100.4c.md -->
+
+In [[Limited Play|limited play]] involving the [[Two-Headed Giant]] [[Multiplayer Game|multiplayer]] [[Variant|variant]], all [[Card|cards]] in a [[Team|team]]’s
+card pool but not in either [[Player|player]]’s [[Deck|deck]] are in that team’s [[Sideboard|sideboard]].
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.4/100.4d.md -->
+
+In [[Limited Play|limited play]] involving other [[Multiplayer Game|multiplayer]] [[Team|team]] [[Variant|variants]], each [[Card|card]] in a team’s card pool but not in any [[Player|player]]’s [[Deck|deck]] is assigned to the [[Sideboard|sideboard]] of one of those players. Each player has their own sideboard; cards may not be transferred between players.
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.4/100.4.md -->
+
+Each player may also have a [[Sideboard|sideboard]], which is a group of additional [[Card|cards]] the player may use to modify their [[Deck|deck]] between [[Game|games]] of a [[Match|match]]. [[Sideboard]] rules and restrictions for some [[Format|formats]] are modified by the Magic: The Gathering [[Tournament Rules]] (found at WPN.Wizards.com/en/rules-documents).
+
+[[100.4a]]
+[[100.4b]]
+[[100.4c]]
+[[100.4d]]
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100.5/100.5.md -->
+
+If a [[Deck|deck]] must contain at least a certain number of [[Card|cards]], that number is referred to as a minimum deck size. There is no maximum deck size for non-[[Commander]] decks.
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/100. General/100. General.md -->
+
+- [[100.1]]
+- [[100.2]]
+- [[100.3]]
+- [[100.4]]
+- [[100.5]]
+- [[100.6]]
+- [[100.7]]
+
+<!-- ./Obsidian/Magic Rules/Rules/1. Game Concepts/1. Game Concepts.md -->
+
+[[100. General]]
+[[101. The Magic Golden Rules]]
+[[102. Players]]
+[[103. Starting the Game]]
+[[104. Ending the Game]]
+[[105. Colors]]
+[[106. Mana]]
+[[107. Numbers and Symbols]]
+[[108. Cards]]
+[[109. Objects]]
+[[110. Permanents]]
+[[111. Tokens]]
+[[112. Spells]]
+[[113. Abilities]]
+[[114. Emblems]]
+[[115. Targets]]
+[[116. Special Actions]]
+[[117. Timing and Priority]]
+[[118. Costs]]
+[[119. Life]]
+[[120. Damage]]
+[[121. Drawing a Card]]
+[[122. Counters]]
+[[123. Stickers]]
+
+<!-- ./Obsidian/Magic Rules/Rules/2. Parts of a Card/2. Parts of a Card.md -->
+
+[[200. General]]
+[[201. Name]]
+[[202. Mana Cost and Color]]
+[[203. Illustration]]
+[[204. Color Indicator]]
+[[205. Type Line]]
+[[206. Expansion Symbol]]
+[[207. Text Box]]
+[[208. Power/Toughness]]
+[[209. Loyalty]]
+[[210. Defense]]
+[[211. Hand Modifier]]
+[[212. Life Modifier]]
+[[213. Information Below the Text Box]]
+
+<!-- ./Obsidian/Magic Rules/Rules/3. Card Types/3. Card Types.md -->
+
+[[300. General]]
+[[301. Artifacts]]
+[[302. Creatures]]
+[[303. Enchantments]]
+[[304. Instants]]
+[[305. Lands]]
+[[306. Planeswalkers]]
+[[307. Sorceries]]
+[[308. Kindreds]]
+[[309. Dungeons]]
+[[310. Battles]]
+[[311. Planes]]
+[[312. Phenomena]]
+[[313. Vanguards]]
+[[314. Schemes]]
+[[315. Conspiracies]]
+
+<!-- ./Obsidian/Magic Rules/Rules/4. Zones/4. Zones.md -->
+
+[[400. General]]
+[[401. Library]]
+[[402. Hand]]
+[[403. Battlefield]]
+[[404. Graveyard]]
+[[405. Stack]]
+[[406. Exile]]
+[[407. Ante]]
+[[408. Command]]
+
+<!-- ./Obsidian/Magic Rules/Rules/5. Turn Structure/5. Turn Structure.md -->
+
+[[500. General]]
+[[501. Beginning Phase]]
+[[502. Untap Step]]
+[[503. Upkeep Step]]
+[[504. Draw Step]]
+[[505. Main Phase]]
+[[506. Combat Phase]]
+[[507. Beginning of Combat Step]]
+[[508. Declare Attackers Step]]
+[[509. Declare Blockers Step]]
+[[510. Combat Damage Step]]
+[[511. End of Combat Step]]
+[[512. Ending Phase]]
+[[513. End Step]]
+[[514. Cleanup Step]]
+
+<!-- ./Obsidian/Magic Rules/Rules/6. Spells, Abilities, and Effects/6. Spells, Abilities, and Effects.md -->
+
+[[600. General]]
+[[601. Casting Spells]]
+[[602. Activating Activated Abilities]]
+[[603. Handling Triggered Abilities]]
+[[604. Handling Static Abilities]]
+[[605. Mana Abilities]]
+[[606. Loyalty Abilities]]
+[[607. Linked Abilities]]
+[[608. Resolving Spells and Abilities]]
+[[609. Effects]]
+[[610. One-Shot Effects]]
+[[611. Continuous Effects]]
+[[612. Text-Changing Effects]]
+[[613. Interaction of Continuous Effects]]
+[[614. Replacement Effects]]
+[[615. Prevention Effects]]
+[[616. Interaction of Replacement and/or Prevention Effects]]
+
+<!-- ./Obsidian/Magic Rules/Rules/7. Additional Rules/7. Additional Rules.md -->
+
+[[700. General]]
+[[701. Keyword Actions]]
+[[702. Keyword Abilities]]
+[[703. Turn-Based Actions]]
+[[704. State-Based Actions]]
+[[705. Flipping a Coin]]
+[[706. Rolling a Die]]
+[[707. Copying Objects]]
+[[708. Face-Down Spells and Permanents]]
+[[709. Split Cards]]
+[[710. Flip Cards]]
+[[711. Leveler Cards]]
+[[712. Double-Faced Cards]]
+[[713. Substitute Cards]]
+[[714. Saga Cards]]
+[[715. Adventurer Cards]]
+[[716. Class Cards]]
+[[717. Attraction Cards]]
+[[718. Prototype Cards]]
+[[719. Case Cards]]
+[[720. Omen Cards]]
+[[721. Station Cards]]
+[[722. Controlling Another Player]]
+[[723. Ending Turns and Phases]]
+[[724. The Monarch]]
+[[725. The Initiative]]
+[[726. Restarting the Game]]
+[[727. Rad Counters]]
+[[728. Subgames]]
+[[729. Merging with Permanents]]
+[[730. Day and Night]]
+[[731. Taking Shortcuts]]
+[[732. Handling Illegal Actions]]
+
+<!-- ./Obsidian/Magic Rules/Rules/8. Multiplayer Rules/8. Multiplayer Rules.md -->
+
+[[800. General]]
+[[801. Limited Range of Influence Option]]
+[[802. Attack Multiple Players Option]]
+[[803. Attack Left and Attack Right Options]]
+[[804. Deploy Creatures Option]]
+[[805. Shared Team Turns Option]]
+[[806. Free-for-All Variant]]
+[[807. Grand Melee Variant]]
+[[808. Team vs. Team Variant]]
+[[809. Emperor Variant]]
+[[810. Two-Headed Giant Variant]]
+[[811. Alternating Teams Variant]]
+
+<!-- ./Obsidian/Magic Rules/Rules/9. Casual Variants/9. Casual Variants.md -->
+
+[[900. General]]
+[[901. Planechase]]
+[[902. Vanguard]]
+[[903. Commander]]
+[[904. Archenemy]]
+[[905. Conspiracy Draft]]
+
+<!-- ./Obsidian/Magic Rules/Rules/Categories.md -->
+
+[[1. Game Concepts]]
+[[2. Parts of a Card]]
+[[3. Card Types]]
+[[4. Zones]]
+[[5. Turn Structure]]
+[[6. Spells, Abilities, and Effects]]
+[[7. Additional Rules]]
+[[8. Multiplayer Rules]]
+[[9. Casual Variants]]
+
+
+<!-- ./Obsidian/PFR/Chronologie/Chronologie détaillée.md -->
+
+## ∾ **Les 30 merveilleuses** ∾
+
+[[Années 2000]]
+[[Années 2010]]
+[[Années 2020]]
+[[Années 2030]]
+
+## ∾ **Époque moderne** ∾
+
+[[2038]]
+[[2039]]
+### Années 2040
+
+[[2040]]
+[[2041]]
+[[2042]]
+[[2043]]
+[[2044]]
+[[2045]]
+[[2046]]
+[[2047]]
+[[2048]]
+[[2049]]
+
+### Années 2050
+
+[[2050]]
+[[2051]]
+
+<!-- ./Obsidian/PFR/Chronologie/Époque moderne/Années 2000.md -->
+
+## 2003
+### Juillet 
+
+La [[Gazette du Sorcier]] rapporte l'élection de [[Thémis Lawford]] au poste de [[Ministre de la Magie|ministre de la Magie]]. Encore aujourd'hui, elle est considérée comme la ministre la plus populaire du 21ème siècle.
+
+----------------
+## 2008
+
+### Juillet
+
+La [[Gazette du Sorcier]] rapporte la réélection de [[Thémis Lawford]] au poste de [[Ministre de la Magie|ministre de la Magie]].
+
+### Septembre
+
+Les élèves suivants rentrent en première année à [[Poudlard]] :
+- [[Poufsouffle]]
+	- [[Sigmund Charleston]]
+
+------------
+## 2009
+
+### Mars
+
+La [[Gazette du Sorcier]] relate la guerre de succession à la tête de l'école de magie chinoise ([[Zhuangyán]]) entre les deux disciples du [[Grand Doyen]] : [[Biao Xixia]] et [[Tran Hong Dao]]. C'est le premier qui ressort vainqueur de ce terrible affrontement dont l'école mettra pas moins de dix ans à réparer les dégâts. [[Biao Xixia]] prend le titre de [[Grand Doyen]]. Vaincue, [[Tran Hong Dao]] se retire au [[Vietnam]] où elle fonde [[Secte du Serpent Rouge|une secte de magie noire]].
+
+--> [[L'école du Milieu]]
+
+### Septembre
+
+Les élèves suivants rentrent en première année à Poudlard :
+- Serdaigle :
+	- Suileabhan Kohler
+- Serpentard :
+	- Sixtine Valerion.
+
+<!-- ./Obsidian/PFR/Chronologie/Époque moderne/Années 2010.md -->
+
+## 2011
+
+### Septembre
+
+Les élèves suivants rentrent en première année à Poudlard :
+- Serdaigle :
+	- Agatha Birthwhistle
+
+---
+## 2012
+
+### Septembre
+
+Les élèves suivants rentrent en première année à Poudlard :
+- Serdaigle :
+	- Églantine Pinehead
+
+---
+## 2013
+
+### Juillet
+
+[[Emmet Mordoch]] est élu [[Ministre de la Magie|ministre de la Magie]] (37ème du nom). Habile politicien, Emmet Mordoch est à l'origine de la plus grande vague de disparitions et d'arrestations de l'histoire du [[Ministère de la Magie|ministère]]. Il commandite une série d'actes criminels à quelques mois des élections. Sous-couvert de protéger la ministre [[Thémis Lawford|Lawford]], il fait en réalité disparaître ses principaux opposants politiques tout en fragilisant le pouvoir en place. Affaiblie par les soupçons que les journaux font peser sur elle, la ministre Lawford perd les élections. Elle sera admise deux ans plus tard à l'hôpital [[Hôpital Ste Mangouste]] après avoir enduré le sortilège [[Doloris]] durant trois jours, dans des circonstances inconnues à ce jour.
+
+_Enivré par sa victoire retentissante, Mordoch ne se méfie pas de la menace qu'il a lui-même engendré : les fils et les filles de ses opposants politiques, tous affiliés à la maison [[Serdaigle]], grandiront sous l'aile protectrice de Poudlard et formeront quelques années plus tard, [[NOM TEMPORAIRE : les célèbres Douze|les célèbres Douze]]._  
+.... ❧ Relire l'aventure ❝ [[L'avènement du Prince de la Mort]] ❞
+
+### Septembre
+
+Les élèves suivants rentrent en première année à Poudlard :
+- Gryffondor
+	- Kyle Kane
+
+
+
+<!-- ./Obsidian/PFR/Questions aux MJ.md -->
+
+[Lien](https://poudlard.fr/viewtopic.php?t=12768#p589715) : tour en plus à poudlard pour Aude et Kristen
+
+<!-- ./Obsidian/PFR/Sources/À annoter/L'école du Milieu.md -->
+
+[Lien](https://poudlard.fr/viewtopic.php?t=12768#p588770)
+
+[[2043#Janvier|Janvier 2043]]
+
+_Un oiseau capable d’assurer un vol long courrier quitta le bureau postal de [[Pré-au-Lard]] bien avant les premières neiges du mois de décembre, une lettre du professeur [[Kristen Loewy|Loewy]] attachée à la patte. Cette lettre parcourut près de huit milles kilomètres en six jours pour atteindre les hautes murailles de [[Zhuangyán]]. La réponse à cette lettre ne parvint à [[Poudlard]] qu’un mois et demi plus tard._  
+  
+<center>*</center>
+  
+Le [[Kappa]] ouvrit sa main palmée pour recueillir quelques uns des plus gros  spécimens de flocons qui tombaient lentement à la lisière de la forêt. Le spectacle était étonnant, _magique_ comme il avait pu entendre certains êtres humains précisément dénués de cette sensibilité magique qualifier les grosses chutes de neige qui sévissaient actuellement dans ce drôle de pays. La neige ne tombait jamais à [[Zhuangyán]]. Le logiciel interne du [[Kappa]] n’était pas conçu pour éprouver des émotions tranchées, mais une pointe subtile de curiosité avait réussi à s’extraire de son âme si singulière la première fois qu’il avait vu la neige tomber. Il y était désormais accoutumé, mais ne pouvait s’empêcher de regarder ces étonnantes sphères blanches aussi légères que des plumes disparaître au contact de sa main. Mais quelque chose de plus coutumier, quoi que différent par sa construction, attira cependant le regard du Kappa au second plan : une silhouette noire gigantesque, celle d’un château légendaire, aussi légendaire que l’était la cité où il avait vu le jour des siècles plus tôt. Poudlard.  
+  
+Les pieds du Kappa, palmées eux aussi, s’avancèrent vers le mastodonte aux innombrables tours sans la moindre appréhension, rejoignant la route déblayée qui se tortillait jusqu’au mur d’enceinte et son portail imposant dont la magie pétillait à des kilomètres à la ronde pour qui savait sentir cette magie primitive — soit très peu d’initiés dans le monde. De la même façon qu’il n’éprouvait ni faim ni soif, le Kappa ne souffrait ni de la chaleur ni du froid. Cela ne l’empêchait pas de porter une petite cape en lin qu’il resserra autour de son cou de sa seule main libre. L’autre se tenait fermement cramponnée à un bâton sculpté dans une branche de prunier dont l’artisan avait conservé la forme originelle. La faute à une vilaine et très ancienne blessure qui avait donné un angle fâcheux à sa jambe droite. La petite forme blanche couverte d’écailles s’arrêta devant le portail en fer forgé pour observer les deux robustes sangliers ailés qui en gardaient l’entrée. De telles animaux peuplaient-ils réellement les environs ? Le Kappa observa son environnement et conclut qu’il aurait toujours l’occasion d’interroger la maîtresse des lieux à ce sujet.  
+  
+Les questions qu’il avait à lui poser étaient nombreuses. Il les retourna une à une dans son esprit pour être certain de n’en avoir oublié aucune. Mais il n’était pas âme à oublier les questions de son maître. Elles étaient gravées en lui comme des pulsations primordiales calquées sur celles de son coeur. Se sentant fin prêt, le Kappa s’assit dans la position du lotus en plaçant son bâton en travers de ses petites jambes. Il se pencha ensuite en avant puis apposa ses deux mains sur le sol glacé. Une vive lumière rouge fendit aussitôt la multitude de petites fissures que comportait la neige tassée. La lumière rouge se changea ensuite en halo avant de disparaître complètement. Le Kappa se redressa et regarda l’oisillon de vapeur rouge qu’il venait d’engendrer voleter jusqu’au portail de Poudlard où il fut désintégré par les protections magiques de l’institution. Le Kappa se boucha les oreilles et remua à peine les lèvres.  
+  
+ « KRISTEN LOEWY ! ZHUANGYAN VOUS SALUE ! »
+  
+Du fin fond des cachots au sommet de la plus haute tour, tous les pensionnaires de Poudlard entendirent l’appel tonitruant du porte-parole de l’école de magie chinoise.
+
+<!-- ./Obsidian/Scion Séculaire - New World/Endroits/Niveaux/10ème.md -->
+
+---
+aliases:
+  - Dizaine
+---
+Appelé aussi "la Dizaine"
+Étage résidentiel surpeuplé. Beaucoup travaillent au [[9ème]], le restent travaillent au [[8ème]] dans les usines.
+
+Différents quartiers :
+- Crétoir
+
+<!-- ./Obsidian/Scion Séculaire - New World/Endroits/Niveaux/1er.md -->
+
+Là où vivent les bourgeois.
+Aussi là où il y a l'entrée vers la [[Cité Céleste]], fermée maintenant depuis bientôt 50 kilojours
+
+Avant que ça ferme, il était coutume qu'une fois de temps en temps, personne ne savait vraiment quand, la famille bourgeoise considérée la plus méritante était acceptée parmis les [[Nobles]].
+
+Famille Carentier était sur le point de devenir noble avant la fermeture. Ils ont donc été "ostracisé" des cercle sociaux par superstition que c'était de leur faute
+
+<!-- ./Obsidian/Scion Séculaire - New World/Endroits/Niveaux/Niveaux.md -->
+
+Niveaux de la ville souterraine. Plus on est haut, plus c'est riche. Mais plus on est bas, plus c'est relativement indépendant.
+
+Ils utilisent de l'énergie de rotation et ont des prises et tout
+Ils utilisent des kilojours à la place d'années. Un kilojour est découpé semaines de 10 jours et en mois de 50 jours. 1 jour = 10 mantas (2.4h). 1 manta = 100 micras (86s). 1 micra = 100 deutères (~0.86s)
+
+Le gouvernement essaie de plus en plus de reprendre le contrôle dans les bas étages parce qu'ils veulent profiter du [[Métal isomérique]]
+
+Ils reçoivent trois resources de la part de la [[Cité Céleste]] (fermée depuis presque 50 kilojours) :
+- De l'eau, envoyée vers le [[11ème]]
+- Des biscuits sec nutritifs mais pas bons, y'en a vraiment peu, c'est vendu cher au [[19ème]] et [[20ème]] parce qu'ils ont moins accès aux étages agricoles
+- Un arbre rotationel au couple quasi infini
+
+Liste de niveaux:
+- [[1er]] : étage résidentiel des bourgeois
+- [[8ème]] : industries, usines
+- [[9ème]] : étage agricole
+- [[10ème]] : étage d'arrivée des [[Joueurs]]. Surpeuplé et pas riches
+- [[11ème]] : citerne d'eau
+
+<!-- ./Obsidian/Scion Séculaire - New World/Endroits/Scion.md -->
+
+[[Scion.png]]
+
+Montagne sortant de la [[Mer de nuages]]. Son sommet et brisé et un octaèdre tronqué doré en ressort. Probablement faite en [[Métal vivant]].
+
+L'octaèdre est la [[Cité Céleste]].
+En dessous se situe les [[Niveaux]] creusés dans la roche.
+
+<!-- ./Obsidian/Scion Séculaire - New World/Enemies/Celeste/Libellule.md -->
+
+Est un [[Céleste]]
+
+dard d4 de dégâts
+6hp
+
+<!-- ./Obsidian/Scion Séculaire - New World/Notes Globales.md -->
+
+---
+tags:
+  - meta
+---
+# Rules summary
+
+**Rolls:** d100, roll under the stat.
+
+**Stats:** Physique, Mental, Social
+
+**Level-ups**
+- +10 stats, +5 cap
+- +4 hp/mp total
+- +1 spell/skill depending on what was before
+
+**Skills:** Passive, or active with a roll. No cost.
+- En moyenne +10 à une compétence?
+**Spells:** Cost mana or HP + a roll of the matching stat.
+- 1-2 mana : d6, 3-4 : d10 ?
+
+**Weapons** (short but deadly fights)
+
+| Type   | Damage | To hit |
+|--------|--------|--------|
+| Light  | d6     | +0     |
+| Medium | d8     | −5     |
+| Heavy  | d10    | −15    |
+
+**Combat** : 
+- Initiative : d10 roll, mental stat for ties
+
+**Rest** :
+- Full hp/mp recovery
+
+**Death**
+- Swan Song
+- Deep Consequence
+- Unconscious for 2 rounds then (mental roll to help or other)
+	- Deep consequence (but worse)
+	- Death
+
+**Cyphers**
+
+---------
+
+# Sessions
+
+[[Session 0]]
+[[Session 1]]
+
+<!-- ./Obsidian/Scion Séculaire - New World/Notes Sessions/Session 0.md -->
+
+---
+tags:
+  - meta
+---
+> Vous faites partie d'une [[Marins des cieux|société qui vit dans les cieux]] dans des vaisseaux à vapeur. Personne n'a jamais vu le sol depuis des siècles, la légende raconte que la surface est inhabitable. Certains parlent d'une guerre dévastatrice, d'autres de l'invasion des enfers causant la destruction totale de toute vie. En tout cas, la plupart d'entre eux sont tous bien heureux de rester dans les vaisseaux colonies, bien au chaud. Pas tous, cependant. Un homme, [[Laïr]], ne rêve que d'une chose, c'est d'explorer les cieux, à défaut de pouvoir explorer la terre. Pour ça, il cherche des volontaires pour l'aider dans son aventure. Vous êtes ceux qui ont accepté.
+
+-------
+
+# Déroulé de la session
+
+\[Description de la société]
+- Vaisseau volants steampunk
+	- Vaisseau mères (villes) et autour y'a plus petits vaisseaux familles, qui commercent avec
+	- Ouvriers vivent dans les vaisseaux mères (ou vaisseau grosses industrie) parce que pas d'argent pour leur propre vaisseau, bourgeois vivent là aussi et exploitent parce que voilà
+	- Middle class leur vaisseaux
+	- les ressources comme le métal viennent d'autres vaisseau mère durant la rencontre annuelle
+- Sol détruit, plusieurs légendes
+	- Guerre sans pareille anciennes civ
+	- Y'a pas de sol mais du feu éternel des enfers
+	- Personne est revenu d'en dessous de la mer de nuages
+
+\[Présentation vite fait du contexte]
+- Ils ont entendu parler de Laïr, anciennement membre respecté de la garde du vaisseau mère [[Port-Nuée]]
+
+\[Creation personnages phase 1]
+- Laïr est pressé donc sans plus attendre partons
+	- Stressé que les gens qu'il a trouvé partent
+- On commence une dizaines de jours après 
+	- [[Le Téméraire.png]]
+	- Mentionner d'où vient la bouffe (truc de plantes)
+	- Soirée autour d'un thé rare pour occasions spéciales
+	- Chacun raconte backstory
+		- Décision du nom, de la backstory, d'une apparence sommaire (vouée à changer), personnalité
+
+\[Première vague de magie]
+- Level up
+	- Changement d'apparence
+	- Répartir 135 dans Physique mental social, min 20, max 65
+	- Répartir 16 dans HP/Mana (d6, d8, d10), combats courts mais mortels
+	- 1 skill passif ou actif avec un roll, no cost
+- RP
+- On entend un crash, deux [[Libellule]] arrivent
+	- (Initiative)
+	- Le Prophète : 10
+	- Filo : 9 +
+	- Mark : 9
+	- Libellule 1 : 5 (0/6hp)
+	- Blanqui : 4
+	- Libelulle 2 : 4 (0/6hp)
+	- Laïr
+- Laïr ouvre une armoire, le double fond étant plein d'armes et leur demande d'en choisir une (normal -5 to hit), (heavy -15 to hit)
+
+\[Deuxième vague de magie]
+- Level up
+	- + 10 stats, max 70, + 4 hp/mp
+	- 1 spell, can cost mana/hp + roll respective stat
+- RP
+- Mentionne qu'ils voient qu'ils foncent sur une montagne avec un d8 doré qui sort de la montagne
+- Une libellule reveillée par la vague de magie plante Laïr
+- ils s'écrasent contre la montagne
+- Fondu au noir
+
+
+<!-- ./Obsidian/Scion Séculaire - New World/Notes Sessions/Session 1.md -->
+
+---
+tags:
+  - meta
+---
+SECRETS À PLACER :
+- La [[Cité Céleste]] est bloquée depuis bientôt 50 kilojours
+- Les gens dans les opérations minières du [[20ème]] veulent plus travailler parce qu'ils ont peur. Des rumeurs disent qu'il y a des cris, des grondements, la chaleur augmente (comparaison avec légendes d'en dessous de la [[Mer de nuages]] des [[Marins des cieux]])
+- Monocle (vendre ça comme un culte mais c'est qu'une personne [[Amon (nom temporaire)]])
+
+PNJs :
+- [[Jeremy PoingDeFer]] : garde
+- [[Alex Lacoulant]] : tavernier
+- [[Victoria Lapâtre]] : jeune volontaire
+- [[Catherine Mone]] : travaille à l'hôtel de ville, gère l'initiative d'aider les "réfugiés"
+
+Random encounters when in doubt :
+- Gens qui se bagarrent dans la rue, alcolisés. l'un accuse l'autre de smth idk
+
+- Les [[Joueurs]] se réveillent dans un camp érigé à la va vite, autour d'eux y'a des gens déformés, une famille autour d'un réchaud avec un petit feu allumé
+- 
+
+<!-- ./Obsidian/Scion Séculaire - New World/Personnages/Alex Lacoulant.md -->
+
+26 ans, tiefflin peau violette, cornes, cheveux bruns en pagaille
+tavernier, jeune et dynamique, motivé à faire de sa taverne la meilleure du quartier
+reprend la taverne de son père qui est à la retraite
+
+<!-- ./Obsidian/Scion Séculaire - New World/Personnages/Catherine Mone.md -->
+
+46 ans, petite, trapue, peau épaisse, cheveux chatain clair en chignon
+Travaille à l'hôtel de ville mais organisait une aide pour les gens en besoin, du mieux qu'elle pouvait avec les ressources limitées
+mais avec cette histoire de vagues de magie et le chaos que ça a engendré, elle aide ceux qui ont eu leur maison détruites ou ceux qui se sont fait virés ou whatever
+
+Est protectrice de [[Victoria Lapâtre]]
+
+<!-- ./Obsidian/Scion Séculaire - New World/Personnages/Jeremy PoingDeFer.md -->
+
+35 ans, humain le plus normal, cheveux coupés courts, un visage dur mais gentil derrière
+garde, famille, deux enfants un garçon une fille, un labrador, parle beaucoup de ses gosses. S’il ne devient pas Capitaine d’ici quelques années son frère a des connexions avec la [[Guilde des marchands|guilde des marchands]], il pourrait recommencer là en tant que commis dans une échoppe et monter en grade
+
+<!-- ./Obsidian/Scion Séculaire - New World/Personnages/Joueurs/Joueurs.md -->
+
+[[Le Prophète]] : Sacha
+[[Filo]] : Quentin
+[[Mark]] : Léo
+[[Blanqui]] : Pierrick
+
+<!-- ./Obsidian/Scion Séculaire - New World/Personnages/Laïr.md -->
+
+[[Marins des cieux]]]
+
+Capitaine de la garde du vaisseau mère [[Port-Nuée]]
+Un jour il tue quelqu'un par erreur. Un accident bête. On l'avait poussé à trouver une conviction, et a paniqué lorsque la personne s'est enfuite et en essayant de lui tirer dans la jambe, mort de ses blessures
+On lui a donné une retraite et il a commencé à poser des questions sur le monde exteriéur
+Jamais marié, coupé contact avec sa famille, il a juste décider de prendre les choses en main et partir, mais s'est tapé le conservatisme énorme du gouvernement et à galéré mais on l'a jamais empêché de partir, jsute de prendre trop de ressources en partant
+
+[[Croquis du Téméraire.png]]
+
+Est mort en crachant dans le [[Scion]] avec les [[Joueurs]]
+
+<!-- ./Obsidian/Scion Séculaire - New World/Personnages/Victoria Lapâtre.md -->
+
+17 ans, oreilles d'elfes, tache de rousseurs, brune
+motivée pour aider, s'est portée volontaire pour aider tous ceux qui avaient des problèmes dans le chaos des vagues de magie
+Sous la direction de [[Catherine Mone]]
+
+<!-- ./Obsidian/Tytios/Sessions/Session 1.md -->
+
+Truc avec les mimics et récupérer des fleurs avant les gens du Jedburgh
+
+<!-- ./Obsidian/Tytios/Sessions/Session 2.md -->
+
+Rencontre de la mort des autres, pas moi
+
+<!-- ./Obsidian/Tytios/Sessions/Session 3 - j'étais dans le collier.md -->
+
+
+
+<!-- ./Obsidian/Tytios/Sessions/Session 4 - Uzerinde - Labor Hieu.md -->
+
+Labor Hieu dans la companie (l'UMP, union des mercenaires pirates), nouvelle mission, on doit tuer Elizabeth du village de l'espoir
+Vahan aide
+moins tuer de gens mieux c'est, comme ça pas les assureurs sur le dos
+
+Moi de mon côté, revenir dans le collier et régénérer, j'ai sauté la session 3
+me retrouve coincé dans un arbre
+
+j'essaie de retrouver le nouveau jedburgh ou y'a l'ump et plus de chance de le retrouver
+
+jme fait embrigader dans la mission d'assassinat
+
+elizabeth vieille femme doyenne, pretresse du village
+on rentre dans le village, ils se font passer pour des vagabonds, je rentre dnas le pendentif
+Le vieux qui les a accueilli a même magie que les comapgnons après la grotte
+y'a une trace de magie faible dans l'église aussi mais rien de menaçant au global
+
+dans les gens du village y'a des gens, une meuf de 4m, d'autres avec des lances très coupantes, un avec une coiffe et des scarifications rituelles
+y'a elizabeth dans le tas avec une robe
+
+le village ici c'est un village ou beaucoup de personnes persecutées sont venu trouver la paix.
+On va se faire tuer dans l'eglise
+La géante arrive, héléna, pour les aider à poser leurs affaires dans l'église
+
+j'observe l'église, y'a certains symboles de la sainte pote mais à l'intérieur rien n'est habituel au canon de la sainte porte
+les symboles en langue antique qui vient de tytios
+la magie dans l'église bvient d'une pierre qui émane la même magie de la grotte
+
+le plan qu'on fait c'est de passer le souper et après de demander à elizabeth d'expliquer les symboles religieux
+la prière commence, avant de manger
+prière sermon classique, similaire à la sainte porte, même langue antique, jamais entendue
+ça a pas l'air trop d'être des bllinquiens ou utrinquiens mais pas impossible
+ensuite sermon langue normale, souper permis par les étoiles, moment de silence pour toutes les minorités, que les étoiles les guides, bonne fortune sur les vagabons ici présent
+ensuite va pour le souper
+
+ensuite Labor fait n'iimp en b aratin pour essayer d'attirer Elizabeth
+je l'aide en sussurant prière de sainte porte
+ils emmènent labor dans la grotte exagramme comme hexagramme salle eglise
+il agne constellation
+oxxx

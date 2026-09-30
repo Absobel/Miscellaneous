@@ -1,13 +1,17 @@
+---
+tags:
+  - meta
+---
 # Rules summary
 
 **Rolls:** d100, roll under the stat.
 
 **Stats:** Physique, Mental, Social
 
-**Level-ups**
-- +10 stats, +5 cap
-- +4 hp/mp total
-- +1 spell/skill depending on what was before
+**Level-ups** (x = level)
+- +5 point à répartir stats. Cap = 65+5⌊x/2⌋
+- +2 hp/mp par level. Total = 16+2x
+- +1 spell/skill depending on what was before (lvl 3 competence, lvl 4 spell etc)
 
 **Skills:** Passive, or active with a roll. No cost.
 - En moyenne +10 à une compétence?
@@ -36,3 +40,10 @@
 	- Death
 
 **Cyphers**
+
+---------
+
+# Sessions
+
+[[Session 0]]
+[[Session 1]]

@@ -1,0 +1,2 @@
+35 ans, humain le plus normal, cheveux coupés courts, un visage dur mais gentil derrière
+garde, famille, deux enfants un garçon une fille, un labrador, parle beaucoup de ses gosses. S’il ne devient pas Capitaine d’ici quelques années son frère a des connexions avec la [[Guilde des marchands|guilde des marchands]], il pourrait recommencer là en tant que commis dans une échoppe et monter en grade

@@ -1,0 +1,1 @@
+[[Blanqui]] s'est fait kidnappé par les ferrailleurs qui ont pris le [[Le Téméraire]]. Il s'est réveillé et s'est fait menacé de mort s'il disait quoique ce soit parce que c'est illégal de faire ça, et donc il les a suivi
