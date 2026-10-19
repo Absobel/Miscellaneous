@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "f6884ff980dfc661",
+    "type": "split",
+    "children": [
+      {
+        "id": "e57b3721fa825c84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09dc706a9ae32530",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e1aa23e61d3cf1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "79b668bda22af73e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9266677fb08b00ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e710a7041263f0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b8c38a34c92e8ab8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.13640213012695
+  },
+  "right": {
+    "id": "2d3c6073815b79df",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8ebcd4b5ccccc08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b921db6a771c0dde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ce0e6e802521a97e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unknown/Secret Farmhouse.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0ea85b650bbcd6c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c7380e6adf7faa5c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e5f6b09f8721a499",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unknown/Secret Farmhouse.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "09dc706a9ae32530",
+  "lastOpenFiles": [
+    "Unknown/Tau Caves Moon.md",
+    "Main Branch/Ying World/Ying Cave Island/Baby Spider Air.md",
+    "Main Branch/Ying World/Ying Forest.md",
+    "Main Branch/Stoney Air/Stoney Library.md",
+    "Main Branch/Stoney Air/Stoney Sanctuary.md",
+    "Main Branch/Stoney Air/Dungeon/Stoney Air Cave.md",
+    "Main Branch/Stoney Air/Stoney Air.md",
+    "Oak Tree.md",
+    "Main Branch/Stoney Air/Dungeon/Mossy Cellar.md",
+    "Main Branch/Ying World/Ying Flower.md",
+    "Main Branch/Mossy Air/Mossy Air.md",
+    "Main Branch/Mossy Air/Railgun Tower.md",
+    "Main Branch/Main Branch.md",
+    "Main Branch/Ying World/Dungeons/Quicksand Grass Basement.md",
+    "Main Branch/Stoney Air/Dungeon/Stoney Sanctuary Blackberry.md",
+    "Main Branch/Orange/Orange.md",
+    "Main Branch/Orange",
+    "Main Branch/Mossy Air/Black Cube.md",
+    "Main Branch/Mossy Air/Black Cube Center.md",
+    "Main Branch/Mossy Air/Yellow Rocket Treasure.md",
+    "Main Branch/Mossy Air/Mossy Island.md",
+    "Assets/Mossy Air Map.png",
+    "Main Branch/Mossy Air",
+    "Main Branch/Stoney Air/Yellow Cube.md",
+    "Main Branch/Stoney Air/Stoney Church.md",
+    "Unknown/Richmond City.md",
+    "Main Branch/Ying World/Dungeons/Large Cannon Pyramid.md",
+    "Main Branch/Stoney Air/Dungeon",
+    "Main Branch/Stoney Air/Dungeon/Green Shrink Box.md",
+    "Main Branch/Blue Bubble.md",
+    "Assets/Stoney Air Map.png",
+    "Main Branch/Stoney Air",
+    "Main Branch",
+    "Main Branch/Ying World/Ying Cave Island",
+    "Characters",
+    "Unknown",
+    "Blocks",
+    "Assets",
+    "Assets/Ying Forest Map.png"
+  ]
+}

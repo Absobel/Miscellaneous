@@ -77,7 +77,8 @@
               "title": "Xavier Brault"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,7 +258,7 @@
       "vault-full-statistics:Open vault statistics": false
     }
   },
-  "active": "c53d2396eb25bce0",
+  "active": "4cb38062bec1d795",
   "lastOpenFiles": [
     "Notes Globales.md",
     "Notes Sessions/Session 1.md",
