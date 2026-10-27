@@ -1,1 +1,0 @@
-Found in [[Black Cube]]

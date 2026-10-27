@@ -1,0 +1,1 @@
+> To get a description of where to find these mazes, go to the pyramid structures in Rivers in [[I3]].
