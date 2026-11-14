@@ -1,5 +1,6 @@
 Found in:
 - [[Lighthouse Basement]]
+- [[Fanatic Spire]]
 
 You can find:
 - [[Ying Forest]]

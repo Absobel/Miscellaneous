@@ -14,9 +14,6 @@
  [[Small Blue Flower]]
  > There is a trophy in the treasure room of the secondary part of each Small Blue Flower. There is a 50% chance you will find a secondary part inside the treasure room of the primary part.
  
- [[Willow Tree]]
- > There is a trophy in the center of Willow Trees. These are large pink trees that appear sometimes on Fanatic Islands.
- 
  [[Dark Willow Tree]]
  > There is a trophy in the center of Dark Willow Trees. You can sometimes find these on the top of Fanatic Islands. You can also find one with a 50% chance at the center of Weed Rings.
 
@@ -26,16 +23,8 @@
 [[Blue Mushroom]]
 > There is a trophy in the treasure room of each Blue Mushroom. You can learn where to find Blue Mushrooms in the I2 Library.
 
-[[Fanatic Spire]]
-> You can find a trophy in the treasure room of each Fanatic Spire, which can be found inside Fanatic Lattices and Violets.
-
 [[Creeping Jeni Plant]]
 > You can find a trophy in the treasure room of each Creeping Jeni Plant, which can be found inside Fanatic Spires.
-
-[[Violet]]
-> There is a trophy inside Violets.
->
-> You can find these inside Creeping Jeni Plants and sometimes on the ground of the Minigun Ammo Forest.
 
 [[I2 Mountain]]
 > There is a trophy inside I2 Mountains.

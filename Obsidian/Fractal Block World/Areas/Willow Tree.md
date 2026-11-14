@@ -4,7 +4,7 @@ Found in:
 
 You can find:
 - [[Mystic Vines]]
-- [[EMP Cities]]
+- [[EMP City]]
 - [[Danville]]
 - [[Gnole Disco]]
 - [[I3]] (common gate)

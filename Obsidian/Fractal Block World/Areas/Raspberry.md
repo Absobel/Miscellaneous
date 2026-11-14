@@ -1,5 +1,6 @@
 Found in:
 - [[I2 Library Dungeon (?)]]
+- [[Toronto Maze]]
 
 > Message from [[TON 618]]:
 >
